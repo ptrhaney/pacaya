@@ -1,0 +1,1112 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2021-08-13T19:52:23.852Z,14.1729,-91.2048,104.24,4.1,mb,,171,1.781,0.6,us,us6000f5um,2021-08-13T22:11:11.040Z,"10 km ESE of Nueva Concepción, Guatemala",earthquake,8.4,20.1,0.302,3,reviewed,us,us
+2021-07-15T00:29:04.295Z,13.8234,-91.2213,70.02,4,mb,,180,1.73,0.96,us,us7000em1i,2021-07-24T05:38:08.040Z,"33 km SSW of La Gomera, Guatemala",earthquake,9.7,15.8,0.1,27,reviewed,us,us
+2021-07-06T06:15:10.353Z,13.7366,-91.1872,64.38,4.2,mb,,180,2.186,0.9,us,us7000ej19,2021-07-14T04:08:55.040Z,"40 km SSW of La Gomera, Guatemala",earthquake,8.8,7,0.043,149,reviewed,us,us
+2021-06-14T02:18:45.582Z,13.677,-90.4279,67.22,4,mb,,183,0.951,0.9,us,us7000ecuc,2021-08-26T21:59:17.040Z,"40 km SW of Pasaco, Guatemala",earthquake,8.9,8.7,0.086,36,reviewed,us,us
+2021-06-13T23:08:13.433Z,14.1724,-91.4242,64,4.2,mb,,149,1.986,1.24,us,us7000ectp,2021-08-26T21:59:16.040Z,"13 km WSW of Nueva Concepción, Guatemala",earthquake,7.1,10.3,0.113,23,reviewed,us,us
+2021-06-13T02:58:15.452Z,14.0489,-91.4442,57.65,5.4,mww,,125,1.166,1.39,us,us7000eckp,2021-08-26T21:59:13.040Z,"22 km SW of Nueva Concepción, Guatemala",earthquake,7,4.5,0.044,49,reviewed,us,us
+2021-06-12T13:17:12.613Z,13.5945,-90.3732,69.17,4.3,mb,,193,0.9,0.61,us,us7000ecfg,2021-08-26T21:59:11.040Z,"46 km SSW of Pasaco, Guatemala",earthquake,9.8,12.2,0.085,39,reviewed,us,us
+2021-06-07T07:10:25.843Z,13.9608,-90.4362,112.09,4.3,mb,,144,1.006,0.52,us,us7000eams,2021-08-24T21:34:38.040Z,"12 km SSE of Taxisco, Guatemala",earthquake,7.2,6.9,0.053,102,reviewed,us,us
+2021-06-07T03:00:17.956Z,14.012,-91.3455,78.92,4.1,mb,,178,1.876,0.81,us,us7000eall,2021-08-24T21:34:40.040Z,"21 km SSW of Nueva Concepción, Guatemala",earthquake,9.2,12.2,0.094,31,reviewed,us,us
+2021-05-17T15:08:56.093Z,14.4714,-91.4686,97.48,4.2,mb,,157,0.225,0.94,us,us7000e3u0,2021-07-24T21:07:39.040Z,"1 km ESE of Santo Domingo Suchitepéquez, Guatemala",earthquake,8.4,2.9,0.078,45,reviewed,us,us
+2021-04-25T14:48:04.054Z,14.1249,-91.2411,42.97,4.2,mb,,187,0.592,0.18,us,us6000e4nv,2021-07-07T18:34:59.040Z,"10 km SE of Nueva Concepción, Guatemala",earthquake,6.3,25.3,0.263,4,reviewed,us,us
+2021-04-13T11:57:05.865Z,13.9833,-91.2552,63.06,4.1,mb,,157,0.686,0.61,us,us6000e171,2021-06-19T21:25:23.040Z,"24 km WSW of La Gomera, Guatemala",earthquake,6.8,3.1,0.055,91,reviewed,us,us
+2021-04-06T11:33:13.770Z,13.6051,-90.6648,44.66,4.1,mb,,108,1.183,0.56,us,us6000dze9,2021-06-12T21:37:46.040Z,"36 km S of Iztapa, Guatemala",earthquake,4.2,12.3,0.076,48,reviewed,us,us
+2021-03-29T01:49:08.471Z,14.3227,-89.7413,226.19,4.6,mb,,95,0.453,1.1,us,us6000dx9w,2021-06-08T17:59:00.040Z,"3 km WSW of Asunción Mita, Guatemala",earthquake,8,5.8,0.035,242,reviewed,us,us
+2021-02-11T23:14:59.556Z,14.3911,-91.5024,64.2,4.3,mb,,166,0.228,1.25,us,us6000dgtq,2021-04-22T21:53:46.040Z,"9 km SSW of Santo Domingo Suchitepéquez, Guatemala",earthquake,8.8,7,0.068,62,reviewed,us,us
+2021-02-09T13:08:20.649Z,14.2927,-91.3988,62.43,4.1,mb,,125,0.368,0.98,us,us6000dfy6,2021-04-22T21:52:02.040Z,"4 km WNW of Tiquisate, Guatemala",earthquake,8,6.3,0.092,32,reviewed,us,us
+2021-02-06T07:41:55.588Z,13.6663,-90.6822,43.15,4.3,mb,,172,1.301,0.97,us,us6000df35,2021-04-22T21:50:38.040Z,"29 km S of Iztapa, Guatemala",earthquake,8,8,0.133,16,reviewed,us,us
+2021-02-01T20:53:19.898Z,13.6975,-90.7714,83.66,4.6,mb,,178,1.216,0.51,us,us6000ddrb,2021-04-16T19:02:53.040Z,"26 km SSE of Puerto San José, Guatemala",earthquake,4.2,8.5,0.141,15,reviewed,us,us
+2021-01-15T23:41:18.653Z,14.2526,-91.3607,61.18,3.9,mb,,192,0.421,1,us,us7000d0ix,2021-03-27T21:04:43.040Z,"3 km S of Tiquisate, Guatemala",earthquake,5.8,12.7,0.082,39,reviewed,us,us
+2021-01-01T22:49:01.341Z,13.5123,-90.6981,50.29,4.4,mb,,125,1.395,0.71,us,us6000d4vr,2021-03-13T22:58:36.040Z,"46 km S of Iztapa, Guatemala",earthquake,8.6,4.6,0.046,139,reviewed,us,us
+2020-11-08T01:23:25.659Z,13.8038,-91.2895,53.44,4.5,mb,,96,0.817,1.27,us,us7000cbz0,2021-01-23T22:25:35.040Z,near the coast of Guatemala,earthquake,4.7,6.3,0.045,146,reviewed,us,us
+2020-10-23T18:21:18.961Z,14.1517,-91.2007,73.42,4.2,mb,,154,0.605,0.77,us,us6000cc8q,2021-01-09T20:05:22.040Z,"11 km ESE of Nueva Concepción, Guatemala",earthquake,6.9,7.4,0.06,87,reviewed,us,us
+2020-10-20T21:37:19.527Z,13.6892,-90.6203,41.89,4.5,mb,,91,1.332,0.84,us,us6000cad1,2020-12-29T23:08:06.040Z,"28 km SSE of Iztapa, Guatemala",earthquake,12.6,5.5,0.075,52,reviewed,us,us
+2020-10-10T00:59:08.879Z,13.6273,-90.1327,62.13,4.3,mb,,150,1.072,0.97,us,us6000c76r,2020-12-19T17:22:42.040Z,"27 km SSW of San Francisco Menéndez, El Salvador",earthquake,5.6,13.5,0.113,22,reviewed,us,us
+2020-09-27T09:40:56.522Z,14.2028,-90.7908,109.83,5.3,mww,,124,1.305,0.81,us,us6000c1w6,2020-12-05T21:03:01.040Z,"6 km E of Masagua, Guatemala",earthquake,7,6.7,0.034,82,reviewed,us,us
+2020-09-14T14:29:28.426Z,14.4089,-91.1015,137.36,4.6,mb,,120,0.586,0.87,us,us7000bn11,2020-11-21T20:10:41.040Z,"6 km ESE of Patulul, Guatemala",earthquake,2.6,4.9,0.059,87,reviewed,us,us
+2020-08-18T10:01:35.465Z,14.2893,-91.0294,96.37,4.8,mb,,135,1.621,1,us,us6000bggm,2020-10-24T20:09:02.040Z,"5 km S of Santa Lucía Cotzumalguapa, Guatemala",earthquake,7.9,5.2,0.029,373,reviewed,us,us
+2020-06-02T18:38:37.637Z,14.3659,-90.7538,186.03,4.4,mb,,151,0.693,1.01,us,us6000a8pm,2020-08-15T20:20:06.040Z,"7 km SW of Palín, Guatemala",earthquake,6.9,6.2,0.087,38,reviewed,us,us
+2020-05-20T07:49:54.631Z,14.1859,-91.358,75.13,4.1,mb,,202,0.469,1.33,us,us70009lfm,2020-08-08T18:17:41.040Z,"6 km WSW of Nueva Concepción, Guatemala",earthquake,7.4,8.7,0.084,38,reviewed,us,us
+2020-04-19T08:18:31.919Z,14.4079,-90.4682,10,4.2,mb,,135,1.073,0.7,us,us70008ztt,2020-07-09T14:31:29.040Z,"7 km SSW of Fraijanes, Guatemala",earthquake,3.5,2,0.08,44,reviewed,us,us
+2020-03-27T09:36:51.795Z,13.9798,-91.3084,63.47,4.4,mb,,151,0.658,1.25,us,us70008h70,2020-06-13T18:44:51.040Z,"24 km S of Nueva Concepción, Guatemala",earthquake,6.7,6.3,0.039,193,reviewed,us,us
+2020-03-15T09:34:52.470Z,14.8859,-91.1962,162.24,4.4,mb,,94,0.521,0.95,us,us60008fzz,2020-05-30T22:17:10.040Z,"8 km S of Patzité, Guatemala",earthquake,6.7,9.9,0.135,16,reviewed,us,us
+2020-03-05T21:18:16.357Z,13.9232,-91.2882,44.49,4,mb,,175,0.716,0.72,us,us60008d87,2020-05-23T22:03:20.040Z,"30 km S of Nueva Concepción, Guatemala",earthquake,6.5,16.1,0.231,5,reviewed,us,us
+2020-02-03T13:02:51.688Z,14.1166,-91.2983,89.89,4.2,mb,,176,0.558,0.6,us,us60007ndp,2020-04-18T22:10:20.040Z,"9 km S of Nueva Concepción, Guatemala",earthquake,6.7,6.3,0.099,28,reviewed,us,us
+2020-01-29T07:14:55.437Z,14.4057,-89.9472,247.91,4.1,mb,,112,0.568,0.94,us,us60007ivt,2020-04-18T22:09:51.040Z,"11 km WNW of El Progreso, Guatemala",earthquake,8.5,5.8,0.099,28,reviewed,us,us
+2019-12-23T02:51:05.833Z,13.8626,-90.0161,102.73,4,mb,,121,0.829,0.68,us,us70006q18,2020-03-07T17:47:49.040Z,"2 km N of San Francisco Menéndez, El Salvador",earthquake,5.7,7.5,0.089,34,reviewed,us,us
+2019-12-19T12:35:31.287Z,13.7354,-91.2255,21,5.9,mww,,58,0.907,1.41,us,us70006ng5,2020-07-10T17:55:46.004Z,"42 km SSW of La Gomera, Guatemala",earthquake,7.3,1.6,0.034,85,reviewed,us,us
+2019-12-01T23:37:43.922Z,14.1349,-90.3879,147.51,4.4,mb,,149,1.03,0.85,us,us70006f32,2020-02-19T18:58:29.040Z,"5 km N of Chiquimulilla, Guatemala",earthquake,5.2,7.6,0.064,70,reviewed,us,us
+2019-11-13T16:28:52.886Z,13.6755,-90.9373,45,5.5,mww,,48,1.119,1.29,us,us60006b3s,2020-02-07T20:20:39.040Z,"30 km SSW of Puerto San José, Guatemala",earthquake,6.5,1.8,0.065,23,reviewed,us,us
+2019-11-09T08:32:52.323Z,14.5086,-90.2743,200,5.5,mww,,101,0.891,1.01,us,us600069n1,2020-02-01T23:22:08.040Z,"9 km WSW of Mataquescuintla, Guatemala",earthquake,7.7,1.9,0.038,65,reviewed,us,us
+2019-10-19T18:33:54.316Z,14.168,-90.0591,174.35,4.3,mb,,102,0.715,0.62,us,us70005w1e,2020-01-03T16:09:36.040Z,"6 km WNW of Jalpatagua, Guatemala",earthquake,7.3,7.5,0.076,52,reviewed,us,us
+2019-10-01T02:45:35.479Z,14.0473,-91.3567,49.54,4.3,mb,,68,0.576,0.47,us,us70005p6p,2019-12-27T15:49:33.040Z,"17 km SSW of Nueva Concepción, Guatemala",earthquake,7.1,2.1,0.053,99,reviewed,us,us
+2019-07-13T01:36:09.745Z,13.6501,-90.9716,35,4.6,mb,,131,1.117,1.18,us,us70004jfe,2019-09-28T20:01:17.040Z,"34 km SSW of Puerto San José, Guatemala",earthquake,8,2,0.033,276,reviewed,us,us
+2019-07-10T00:07:17.121Z,14.0802,-91.162,62.24,4.3,mb,,110,0.679,1.24,us,us70004gfu,2019-09-28T20:01:05.040Z,"11 km W of La Gomera, Guatemala",earthquake,7.6,7,0.053,100,reviewed,us,us
+2019-07-05T00:20:02.428Z,14.3583,-90.429,176.7,4.3,mb,,148,1.036,0.59,us,us70004kq8,2019-09-26T14:31:05.040Z,"7 km WSW of Santa Cruz Naranjo, Guatemala",earthquake,9.6,8.5,0.077,48,reviewed,us,us
+2019-06-13T03:31:12.130Z,14.4642,-90.3759,208.04,4.7,mb,,125,0.985,0.7,us,us6000408k,2019-09-06T14:25:01.040Z,"7 km E of Fraijanes, Guatemala",earthquake,7.1,6.9,0.056,99,reviewed,us,us
+2019-05-22T04:13:28.605Z,14.0378,-91.3177,63.03,4.5,mb,,177,0.606,0.74,us,us60003qhe,2019-08-13T14:30:29.040Z,"18 km S of Nueva Concepción, Guatemala",earthquake,8.5,9.1,0.057,91,reviewed,us,us
+2019-04-30T14:13:02.473Z,14.7309,-91.0066,232.52,4.3,mb,,110,0.697,0.38,us,us70003iwd,2019-07-25T18:54:02.040Z,"3 km SSW of Tecpán Guatemala, Guatemala",earthquake,9.2,7.1,0.069,59,reviewed,us,us
+2019-04-16T04:04:50.240Z,14.4449,-90.7312,79.12,4.5,mb,,150,0.936,0.58,us,us700036ss,2019-06-26T20:54:41.040Z,"5 km NW of Palín, Guatemala",earthquake,5.8,9.2,0.15,13,reviewed,us,us
+2019-04-14T03:32:32.506Z,13.6993,-90.0088,102.29,4.3,mb,,172,0.937,1.15,us,us700035nx,2019-06-20T19:03:33.040Z,"15 km S of San Francisco Menéndez, El Salvador",earthquake,3.6,7.8,0.084,40,reviewed,us,us
+2019-04-01T01:32:20.496Z,14.4915,-90.6463,10,3.3,ml,,155,1.016,0.9,us,us2000k89l,2019-06-08T20:51:29.040Z,"1 km NW of Amatitlán, Guatemala",earthquake,5.4,2,0.091,16,reviewed,us,us
+2019-03-31T12:55:10.234Z,14.5269,-90.7314,10,3.9,ml,,153,0.933,1.13,us,us2000k85l,2019-06-08T20:51:28.040Z,"3 km E of Ciudad Vieja, Guatemala",earthquake,4.6,2,0.077,22,reviewed,us,us
+2019-03-28T22:27:22.645Z,14.4838,-90.653,10,2.8,ml,,179,1.009,0.63,us,us2000k6um,2019-06-08T20:51:21.040Z,"2 km WNW of Amatitlán, Guatemala",earthquake,5.6,2,0.115,10,reviewed,us,us
+2019-03-27T23:44:58.723Z,14.4804,-90.6812,10,3,ml,,179,0.982,0.19,us,us2000k6sg,2019-06-08T20:51:21.040Z,Guatemala,earthquake,5.2,1.9,0.115,10,reviewed,us,us
+2019-03-27T22:59:12.603Z,14.4476,-90.7597,10.76,3.2,ml,,179,0.909,0.93,us,us2000k6ry,2019-06-08T20:51:20.040Z,"6 km SE of Alotenango, Guatemala",earthquake,3.8,12.9,0.097,14,reviewed,us,us
+2019-03-27T22:46:27.641Z,14.4519,-90.6914,6.48,4.1,mb,,145,0.974,1.05,us,us2000k67m,2019-06-08T20:51:18.040Z,"5 km SSE of Santa María de Jesús, Guatemala",earthquake,4.7,6.4,0.213,6,reviewed,us,us
+2019-03-08T11:07:22.172Z,13.9132,-91.2311,44.9,4.1,mb,,143,0.756,0.85,us,us1000jcbs,2019-05-24T21:21:16.040Z,"26 km SW of La Gomera, Guatemala",earthquake,7.3,9.6,0.07,55,reviewed,us,us
+2019-01-29T02:54:41.530Z,13.8437,-91.3099,35,4.2,mb,,154,0.773,0.82,us,us2000j9xs,2019-04-18T19:09:23.040Z,"38 km SW of La Gomera, Guatemala",earthquake,5.8,2,0.072,54,reviewed,us,us
+2019-01-04T02:30:35.180Z,13.6471,-90.7553,35,4,mb,,178,1.261,1.39,us,us2000j06y,2019-03-08T17:50:15.040Z,"31 km SSE of Puerto San José, Guatemala",earthquake,6,2,0.183,8,reviewed,us,us
+2018-12-25T04:46:06.570Z,14.484,-90.4992,204.2,4.4,mb,,132,1.106,0.84,us,us2000j31h,2019-03-05T17:46:33.040Z,"3 km E of Villa Canales, Guatemala",earthquake,7.1,6.2,0.081,44,reviewed,us,us
+2018-12-20T17:01:49.130Z,14.1216,-90.2242,165.54,4.6,mb,,160,0.881,0.88,us,us2000j1sa,2019-02-23T20:23:05.040Z,"6 km NE of San Juan Tecuaco, Guatemala",earthquake,6.9,8.6,0.08,46,reviewed,us,us
+2018-12-07T23:50:58.810Z,14.1182,-91.1269,62.16,4.2,mb,,153,0.682,0.66,us,us1000i4nw,2019-02-16T19:52:30.040Z,"8 km WNW of La Gomera, Guatemala",earthquake,5.6,8.1,0.055,92,reviewed,us,us
+2018-12-04T19:08:38.610Z,13.8988,-90.9545,65.51,4.2,mb,,190,0.95,1.26,us,us1000i4aw,2019-02-16T19:52:19.040Z,"14 km WSW of Puerto San José, Guatemala",earthquake,6.9,11.2,0.152,12,reviewed,us,us
+2018-10-15T15:15:36.850Z,13.9195,-90.8145,37.31,4.3,mb,,148,1.044,0.53,us,us1000hef2,2018-12-21T22:27:05.040Z,"1 km SE of Puerto San José, Guatemala",earthquake,8.2,13.1,0.123,19,reviewed,us,us
+2018-10-12T21:09:49.310Z,14.1973,-91.1973,64.33,5.7,mww,,74,0.581,0.79,us,us1000hbcu,2018-12-21T21:15:51.040Z,"11 km E of Nueva Concepción, Guatemala",earthquake,6.1,3.8,0.043,51,reviewed,us,us
+2018-08-05T04:53:10.420Z,14.4934,-91.384,112.98,4.3,mb,,133,0.302,1.13,us,us1000g3r2,2018-10-16T15:34:16.040Z,"4 km SSW of San Miguel Panán, Guatemala",earthquake,6.3,5.1,0.047,126,reviewed,us,us
+2018-07-22T13:40:05.040Z,13.7446,-90.9024,56.02,4.1,mb,,183,1.092,0.96,us,us2000gb89,2018-10-04T14:15:32.040Z,"22 km SSW of Puerto San José, Guatemala",earthquake,7.7,11.1,0.091,33,reviewed,us,us
+2018-07-20T09:26:20.510Z,13.7177,-90.4471,77.7,4.3,mb,,139,1.181,1.02,us,us2000g9kw,2018-10-04T14:15:32.040Z,"36 km SE of Iztapa, Guatemala",earthquake,5.9,7.4,0.048,122,reviewed,us,us
+2018-07-01T17:21:11.870Z,14.519,-90.6129,207.44,4.1,mb,,132,1.047,0.89,us,us2000ft3z,2018-09-21T16:25:48.040Z,"3 km WSW of Villa Nueva, Guatemala",earthquake,8.8,8.8,0.103,26,reviewed,us,us
+2018-06-25T05:19:58.830Z,13.6176,-90.7202,53.88,4.5,mb,,120,1.306,0.98,us,us1000f0tn,2018-09-21T16:25:57.040Z,"34 km S of Iztapa, Guatemala",earthquake,6.7,8.3,0.034,249,reviewed,us,us
+2018-06-18T02:32:55.870Z,14.1325,-90.7154,99.17,5.7,mww,,51,0.899,1.45,us,us1000eu39,2020-07-10T15:49:55.094Z,"12 km SW of Guanagazapa, Guatemala",earthquake,6.1,3.2,0.065,23,reviewed,us,us
+2018-06-02T02:12:30.840Z,14.1448,-91.3202,53.8,4,mb,,155,0.523,0.75,us,us1000eh88,2018-08-28T16:30:05.040Z,"6 km SSW of Nueva Concepción, Guatemala",earthquake,7.4,10,0.108,23,reviewed,us,us
+2018-05-27T19:16:40.290Z,14.2623,-89.8769,188.83,4.4,mb,,120,0.597,0.73,us,us1000ed0q,2018-08-21T21:23:54.040Z,"3 km SSE of Jutiapa, Guatemala",earthquake,10.4,8.7,0.109,24,reviewed,us,us
+2018-05-24T12:17:04.470Z,13.9805,-91.3565,49.42,4.1,mb,,189,0.632,0.9,us,us1000eb6s,2018-08-21T21:23:49.040Z,"25 km SSW of Nueva Concepción, Guatemala",earthquake,7.2,14.2,0.123,18,reviewed,us,us
+2018-05-23T01:27:32.060Z,13.7928,-90.8027,57.79,4,mb,,178,1.13,1.19,us,us1000eabu,2018-08-21T21:23:48.040Z,"15 km S of Puerto San José, Guatemala",earthquake,7.7,10.8,0.113,21,reviewed,us,us
+2018-04-25T22:18:24.560Z,14.2824,-89.9947,192.89,4.9,mb,,111,0.625,0.88,us,us1000dsd7,2018-07-25T21:36:49.040Z,"5 km ENE of Quesada, Guatemala",earthquake,6.6,4.9,0.05,125,reviewed,us,us
+2018-04-21T11:14:50.940Z,14.3433,-90.2646,193.23,4.4,mb,,163,0.877,1.09,us,us1000dpu1,2018-07-17T02:05:34.040Z,"4 km SSE of Nueva Santa Rosa, Guatemala",earthquake,11.6,11.5,0.107,25,reviewed,us,us
+2018-04-07T08:06:29.100Z,14.2841,-91.3111,45.36,4.1,mb,,127,0.442,0.94,us,us2000dvyg,2018-06-30T01:11:32.040Z,"5 km E of Tiquisate, Guatemala",earthquake,8,16.7,0.157,11,reviewed,us,us
+2018-03-29T01:21:48.590Z,14.117,-91.2375,70.33,4.7,mwr,,121,0.6,0.74,us,us1000daje,2018-06-22T21:32:13.040Z,"11 km SE of Nueva Concepción, Guatemala",earthquake,6.4,6.8,0.086,13,reviewed,us,us
+2018-03-23T17:16:25.420Z,14.383,-91.2201,104.24,4.6,mb,,129,0.481,0.95,us,us1000d865,2018-06-19T01:35:49.040Z,"5 km S of Santa Bárbara, Guatemala",earthquake,7.9,5.6,0.044,152,reviewed,us,us
+2018-03-07T06:14:01.850Z,14.0389,-91.2896,72.42,4.4,mb,,154,0.622,1.22,us,us2000ddmz,2018-06-08T05:12:13.040Z,"17 km S of Nueva Concepción, Guatemala",earthquake,8.4,10.5,0.061,78,reviewed,us,us
+2018-02-17T10:06:00.920Z,13.7999,-90.6697,76.99,4.2,mb,,180,1.228,0.9,us,us2000d3tu,2018-05-15T06:29:12.040Z,"15 km SSE of Iztapa, Guatemala",earthquake,7.7,12,0.079,45,reviewed,us,us
+2018-02-14T16:28:55.040Z,15.1429,-91.0858,253.85,4.4,mb,,77,0.438,0.94,us,us2000d6z3,2018-05-15T06:29:06.040Z,"5 km S of San Bartolomé Jocotenango, Guatemala",earthquake,8.8,8.4,0.098,30,reviewed,us,us
+2018-02-10T15:15:32.600Z,14.1487,-91.2282,83.4,4.3,mb,,201,0.586,1.09,us,us2000d09k,2018-05-03T22:15:08.040Z,"9 km SE of Nueva Concepción, Guatemala",earthquake,8,8.7,0.095,31,reviewed,us,us
+2018-01-10T15:43:03.360Z,14.4351,-89.9521,246.21,4.1,mb,,141,0.574,0.77,us,us2000cnvs,2018-04-03T01:40:25.040Z,"11 km SW of Monjas, Guatemala",earthquake,7.8,10.6,0.198,7,reviewed,us,us
+2017-11-20T03:37:14.350Z,13.8942,-90.8764,78.73,4.3,mb,,165,1.011,1.03,us,us2000brpw,2018-02-14T02:01:06.040Z,"6 km WSW of Puerto San José, Guatemala",earthquake,8,9.1,0.061,76,reviewed,us,us
+2017-11-08T08:28:26.450Z,14.7771,-91.0569,191.87,4.3,mb,,104,0.666,1.3,us,us2000bk9y,2018-01-31T03:04:43.040Z,"7 km WNW of Tecpán Guatemala, Guatemala",earthquake,8.2,8.5,0.133,16,reviewed,us,us
+2017-10-30T18:21:07.910Z,14.5909,-90.5862,96.04,4.3,mb,,142,1.075,0.51,us,us1000aynt,2018-01-24T01:24:59.040Z,"4 km SSE of Mixco, Guatemala",earthquake,5.1,12,0.2,7,reviewed,us,us
+2017-10-28T14:51:43.120Z,13.6491,-90.66,60.97,4,mb,,187,1.328,1.29,us,us1000ay1v,2018-01-17T21:50:37.040Z,"31 km S of Iztapa, Guatemala",earthquake,3.5,16.9,0.139,14,reviewed,us,us
+2017-10-07T21:24:08.770Z,13.5334,-90.5349,57.52,4.1,mb,,183,1.276,1.16,us,us2000b2ly,2018-01-03T01:54:50.040Z,"48 km SSE of Iztapa, Guatemala",earthquake,6.4,13.7,0.131,16,reviewed,us,us
+2017-09-20T02:37:35.560Z,14.5711,-90.9075,178.93,4.9,mb,,174,0.939,1.19,us,us2000arfs,2017-12-19T01:54:07.040Z,"4 km ENE of Acatenango, Guatemala",earthquake,9.8,6.8,0.041,189,reviewed,us,us
+2017-09-16T06:30:17.110Z,13.5994,-90.4761,52.27,4.4,mwr,,175,1.213,1.26,us,us2000anze,2017-12-13T02:29:46.040Z,"44 km SE of Iztapa, Guatemala",earthquake,6,9.5,0.075,17,reviewed,us,us
+2017-08-30T03:04:48.420Z,13.923,-91.3229,36.62,4.2,mb,,187,0.698,0.96,us,us2000ad2d,2017-11-28T18:33:52.040Z,"30 km S of Nueva Concepción, Guatemala",earthquake,7.7,13.9,0.063,70,reviewed,us,us
+2017-08-19T05:42:17.620Z,14.6023,-90.7151,199.34,4.4,mb,,131,0.951,0.57,us,us2000a9ps,2017-11-14T01:42:14.040Z,"3 km NE of Jocotenango, Guatemala",earthquake,9.2,9.4,0.102,28,reviewed,us,us
+2017-07-31T20:52:03.000Z,14.2739,-90.4875,10,3.9,ml,,154,1.099,0.95,us,us2000a2zn,2017-10-18T01:54:12.040Z,"5 km NNW of Pueblo Nuevo Viñas, Guatemala",earthquake,2.7,2,0.077,22,reviewed,us,us
+2017-07-25T17:00:36.860Z,14.1582,-90.897,115.38,4.1,mb,,168,0.854,0.77,us,us2000a28b,2017-10-14T00:19:40.040Z,"7 km SW of Masagua, Guatemala",earthquake,8,8,0.369,2,reviewed,us,us
+2017-07-19T11:26:18.080Z,14.4491,-90.4721,194.89,4.8,mb,,135,1.078,0.56,us,us20009xwz,2017-10-11T01:03:56.040Z,"3 km WSW of Fraijanes, Guatemala",earthquake,5.7,7.3,0.047,140,reviewed,us,us
+2017-07-10T22:24:33.500Z,13.7796,-90.6967,72.07,4.4,mb,,161,1.219,1.38,us,us100098nn,2017-10-06T23:56:13.040Z,"17 km S of Iztapa, Guatemala",earthquake,8.3,8.1,0.046,138,reviewed,us,us
+2017-07-05T16:07:36.540Z,13.7152,-90.7273,43.78,5.1,mb,,72,1.236,1.17,us,us100096z1,2017-10-03T00:47:50.040Z,"24 km S of Iztapa, Guatemala",earthquake,8,1.6,0.025,529,reviewed,us,us
+2017-07-05T15:55:05.320Z,13.5814,-90.9309,35,4.3,mb,,146,1.195,1.25,us,us100096yz,2017-10-03T00:47:50.040Z,"40 km SSW of Puerto San José, Guatemala",earthquake,7.5,1.7,0.079,45,reviewed,us,us
+2017-07-05T15:45:43.470Z,13.6093,-90.9189,35,4.6,mb,,151,1.181,1.37,us,us100096yu,2017-10-03T00:47:50.040Z,"36 km SSW of Puerto San José, Guatemala",earthquake,5.9,2,0.036,230,reviewed,us,us
+2017-07-04T12:37:28.690Z,13.6551,-91.007,35,4.2,mb,,184,1.092,1.4,us,us100096n1,2017-10-03T00:47:48.040Z,"36 km SSW of Puerto San José, Guatemala",earthquake,7.4,2,0.066,64,reviewed,us,us
+2017-06-30T13:01:01.250Z,13.5409,-90.8582,47.3,4.9,mb,,89,1.271,1.32,us,us100095hc,2017-09-27T02:03:19.040Z,"42 km S of Puerto San José, Guatemala",earthquake,6.8,5.2,0.046,148,reviewed,us,us
+2017-06-26T13:42:38.680Z,14.0866,-90.8846,35,4.3,mb,,204,0.898,0.86,us,us100096fs,2017-09-27T02:03:13.040Z,"13 km SSW of Masagua, Guatemala",earthquake,6.6,2,0.178,9,reviewed,us,us
+2017-06-23T03:08:13.260Z,13.7279,-91.0928,48.92,4.5,mb,,144,0.984,1.04,us,us20009p75,2017-08-23T16:35:48.040Z,"36 km SW of Puerto San José, Guatemala",earthquake,7.6,7,0.035,234,reviewed,us,us
+2017-06-22T21:09:46.360Z,13.7438,-90.9305,49.93,4.2,mb,,173,1.073,0.66,us,us20009p48,2017-08-23T16:35:47.040Z,"23 km SSW of Puerto San José, Guatemala",earthquake,9.1,11.2,0.089,35,reviewed,us,us
+2017-06-22T14:51:41.920Z,13.9021,-91.0489,35,4.1,mb,,193,0.88,1.34,us,us10009568,2017-08-23T16:35:43.040Z,"19 km S of La Gomera, Guatemala",earthquake,4.6,2,0.135,15,reviewed,us,us
+2017-06-22T14:28:11.820Z,13.6553,-91.067,35,4.3,mb,,187,1.057,1.14,us,us20009p1x,2017-08-23T16:35:47.040Z,"40 km SW of Puerto San José, Guatemala",earthquake,3.8,2,0.079,45,reviewed,us,us
+2017-06-22T12:31:03.490Z,13.7174,-90.9718,38.12,6.8,mww,,38,1.065,1.46,us,us20009p1a,2020-07-10T16:44:40.407Z,"28 km SW of Puerto San José, Guatemala",earthquake,6.8,3.5,0.028,123,reviewed,us,us
+2017-06-04T23:57:15.950Z,14.4741,-90.6383,183.58,4.8,mb,,128,1.024,1.01,us,us20009kp4,2017-08-16T02:42:16.040Z,"0 km SW of Amatitlán, Guatemala",earthquake,6.1,5.3,0.028,385,reviewed,us,us
+2017-05-22T05:42:38.650Z,13.6246,-90.8973,77.74,4.1,mb,,156,1.183,0.79,us,us10008u3e,2017-08-10T01:33:57.040Z,"34 km SSW of Puerto San José, Guatemala",earthquake,7.1,6.8,0.06,75,reviewed,us,us
+2017-05-09T14:15:48.140Z,13.7469,-90.5036,77.85,5.1,mb,,176,1.237,0.82,us,us10008qsy,2017-08-01T23:02:22.040Z,"30 km SE of Iztapa, Guatemala",earthquake,7,12,0.091,39,reviewed,us,us
+2017-04-01T01:54:19.840Z,14.2309,-91.4768,59.17,4.8,mb,,118,0.36,1.08,us,us10008dqk,2017-06-16T23:08:06.040Z,"13 km WSW of Tiquisate, Guatemala",earthquake,7.3,2.8,0.03,347,reviewed,us,us
+2017-03-21T08:44:13.040Z,13.887,-90.2771,106.16,4.6,mb,,166,1.035,1.11,us,us20008thd,2017-06-12T19:46:52.040Z,"12 km SW of Pasaco, Guatemala",earthquake,7.7,11.6,0.095,33,reviewed,us,us
+2017-03-03T11:01:20.530Z,14.0916,-90.8407,115.02,4.6,mb,,181,1.377,1.29,us,us1000887y,2017-05-24T02:48:14.040Z,"12 km S of Masagua, Guatemala",earthquake,8.1,9.4,0.158,12,reviewed,us,us
+2017-02-16T13:33:42.080Z,14.481,-90.5585,202.24,4.8,mb,,110,1.101,0.91,us,us20008k7u,2017-05-13T01:03:22.040Z,"2 km S of Petapa, Guatemala",earthquake,7.8,6.8,0.052,117,reviewed,us,us
+2017-01-15T14:13:00.020Z,14.398,-90.1891,211.92,4.6,mb,,124,0.802,0.69,us,us10007te1,2017-04-12T02:28:57.040Z,"6 km ESE of Casillas, Guatemala",earthquake,7.8,7.4,0.041,181,reviewed,us,us
+2017-01-12T03:22:46.930Z,13.9092,-91.2441,53.5,5.3,mww,,64,0.751,0.98,us,us10007srd,2017-04-01T00:26:10.040Z,"28 km SW of La Gomera, Guatemala",earthquake,6.9,4.6,0.08,15,reviewed,us,us
+2016-12-19T21:18:32.060Z,14.3637,-91.4191,89.83,4.9,mb,,148,0.311,1.38,us,us200082mc,2017-03-16T02:31:30.040Z,"9 km S of San José El Ídolo, Guatemala",earthquake,7.2,6.1,0.052,115,reviewed,us,us
+2016-12-16T11:34:58.440Z,14.0889,-90.8703,70.61,5.5,mww,,63,1.366,1.27,us,us2000819r,2020-07-10T16:37:54.968Z,"12 km S of Masagua, Guatemala",earthquake,6.6,3.7,,,reviewed,us,us
+2016-12-11T00:03:54.500Z,13.5881,-90.8798,10,3.9,mb,,176,1.221,0.69,us,us10007num,2017-03-09T02:14:26.040Z,"38 km S of Puerto San José, Guatemala",earthquake,4.4,1.7,0.193,7,reviewed,us,us
+2016-11-26T20:43:49.860Z,13.7132,-90.4924,66.53,4.3,mb,,170,1.225,0.97,us,us10007clm,2017-02-23T00:11:49.040Z,"33 km SE of Iztapa, Guatemala",earthquake,6,10.2,0.093,33,reviewed,us,us
+2016-11-26T20:30:01.970Z,13.949,-90.2753,109.59,4.9,mb,,113,0.993,0.86,us,us10007cli,2017-02-23T00:11:49.040Z,"8 km WSW of Pasaco, Guatemala",earthquake,6.9,7,0.095,35,reviewed,us,us
+2016-11-25T15:08:41.160Z,14.7804,-90.9525,195.31,4.7,mb,,94,0.753,0.91,us,us10007cam,2017-02-23T00:11:47.040Z,"2 km ESE of Santa Apolonia, Guatemala",earthquake,9.1,7.4,0.084,43,reviewed,us,us
+2016-11-24T04:41:09.020Z,13.8941,-90.24,110.98,4.4,mb,,167,0.989,0.55,us,us10007e9x,2017-02-15T23:21:39.040Z,"9 km SSW of Pasaco, Guatemala",earthquake,6.6,8,0.107,25,reviewed,us,us
+2016-11-18T00:23:48.070Z,14.1259,-91.2553,66.43,4.5,mwr,,163,0.582,0.84,us,us100079r5,2017-02-15T23:21:26.040Z,"9 km SSE of Nueva Concepción, Guatemala",earthquake,6.2,5.6,0.098,10,reviewed,us,us
+2016-11-02T23:03:32.200Z,13.7695,-90.7266,80.87,4.2,mb,,173,1.202,1.08,us,us100076hb,2017-01-24T02:02:15.040Z,"18 km S of Iztapa, Guatemala",earthquake,5.8,6.3,0.132,16,reviewed,us,us
+2016-10-21T19:51:16.760Z,14.422,-91.4004,98.06,4.6,mb,,144,0.303,1.02,us,us20007fzp,2017-01-20T00:31:00.040Z,"3 km SE of San José El Ídolo, Guatemala",earthquake,6.8,6.3,0.037,217,reviewed,us,us
+2016-10-09T22:55:07.580Z,14.309,-90.1269,195.82,4.8,mb,,144,0.8,0.73,us,us20007d06,2017-01-07T00:20:48.040Z,"4 km N of San José Acatempa, Guatemala",earthquake,5.4,6.4,0.078,51,reviewed,us,us
+2016-10-08T23:14:57.500Z,13.8607,-91.0297,64.99,4,mb,,175,1.755,1.1,us,us20007e3n,2017-01-07T00:20:46.040Z,"23 km WSW of Puerto San José, Guatemala",earthquake,8.8,17.5,0.15,12,reviewed,us,us
+2016-08-25T22:41:07.890Z,13.6423,-90.7846,36.6,4.5,md,,193,1.244,0.95,us,us10006m17,2016-11-19T04:58:40.040Z,"31 km S of Puerto San José, Guatemala",earthquake,7.2,41.7,,,reviewed,us,snet
+2016-08-14T05:13:03.120Z,13.993,-89.9204,139.1,4.8,mb,,121,0.735,0.82,us,us10006dq1,2016-11-15T02:21:48.040Z,"10 km N of Tacuba, El Salvador",earthquake,7.3,6.7,0.034,266,reviewed,us,us
+2016-08-07T17:30:33.380Z,13.8953,-90.7577,77.39,4.3,mb,,156,1.103,1.28,us,us10006byt,2016-10-26T03:10:21.040Z,"6 km SW of Iztapa, Guatemala",earthquake,6.7,7.6,0.098,30,reviewed,us,us
+2016-08-04T07:30:04.620Z,14.2384,-91.4872,56.35,4.1,mb,,187,0.348,1.36,us,us10006c31,2016-10-19T04:52:24.040Z,"14 km WSW of Tiquisate, Guatemala",earthquake,7.9,13.1,0.158,11,reviewed,us,us
+2016-07-30T05:25:46.220Z,14.0127,-91.4299,56.16,4.4,mwr,,141,0.57,0.93,us,us100068pd,2016-10-19T04:51:47.040Z,"25 km SW of Nueva Concepción, Guatemala",earthquake,8.1,10,0.086,13,reviewed,us,us
+2016-06-15T15:31:39.090Z,14.0253,-90.7455,66.61,4,mb,,129,1.045,1.3,us,us200064ja,2016-08-25T01:22:57.040Z,"10 km NNW of Iztapa, Guatemala",earthquake,4.1,9.1,0.149,12,reviewed,us,us
+2016-06-14T11:36:48.170Z,14.3729,-90.5286,10,4.3,mb,,144,1.139,0.86,us,us200064az,2016-08-25T01:22:56.040Z,"12 km S of Villa Canales, Guatemala",earthquake,8.2,1.9,0.066,65,reviewed,us,us
+2016-05-24T07:55:47.000Z,13.568,-90.332,73,4,md,,,,1.33,us,us200061n3,2016-08-03T22:33:43.040Z,"45 km SW of San Francisco Menéndez, El Salvador",earthquake,10,9.8,,,reviewed,snet,snet
+2016-05-22T14:51:22.650Z,13.7108,-90.4489,75.73,5,mww,,93,1.183,0.75,us,us10005j8b,2016-08-03T22:33:42.040Z,"37 km SE of Iztapa, Guatemala",earthquake,6.2,4,,,reviewed,us,us
+2016-05-18T22:16:27.330Z,14.0536,-91.3723,59.13,4.3,mb,,170,0.563,1.12,us,us10005ick,2016-07-22T19:39:13.040Z,"17 km SSW of Nueva Concepción, Guatemala",earthquake,5.9,5.5,0.111,23,reviewed,us,us
+2016-05-17T23:46:51.980Z,14.0289,-91.3248,67.84,4.3,mb,,126,0.609,1.04,us,us10005i3r,2016-07-22T19:39:11.040Z,"19 km S of Nueva Concepción, Guatemala",earthquake,8.4,3.9,0.059,82,reviewed,us,us
+2016-05-08T07:52:41.840Z,14.3617,-91.1382,114.18,4.7,mb,,110,0.563,0.91,us,us10005fu3,2016-07-20T18:10:48.040Z,"7 km SSE of Patulul, Guatemala",earthquake,7.1,5.8,0.032,296,reviewed,us,us
+2016-05-03T03:13:52.000Z,14.4907,-90.4804,49.41,4.3,mb,,122,1.088,0.61,us,us10005gjq,2016-07-19T20:03:10.040Z,"5 km WNW of Fraijanes, Guatemala",earthquake,7,11.3,0.097,30,reviewed,us,us
+2016-04-22T10:47:03.500Z,13.6274,-90.1212,86.53,4.3,mb,,115,0.866,1.26,us,us20005ktw,2016-07-08T02:49:17.040Z,"26 km SSW of San Francisco Menéndez, El Salvador",earthquake,7.5,6.4,0.059,82,reviewed,us,us
+2016-04-19T19:21:21.400Z,13.6946,-90.7146,45.53,4.5,mwr,,98,1.259,1.31,us,us20005jw6,2016-06-27T23:02:19.040Z,"26 km S of Iztapa, Guatemala",earthquake,6.9,6,0.086,13,reviewed,us,us
+2016-03-16T11:30:46.670Z,14.0111,-91.3577,58.73,4.2,mb,,194,0.606,0.96,us,us20005asl,2016-05-21T00:05:33.040Z,"21 km SSW of Nueva Concepción, Guatemala",earthquake,8.2,8.4,0.14,14,reviewed,us,us
+2016-02-28T09:49:22.020Z,14.5611,-90.6429,28.21,3.5,ml,,137,1.019,0.75,us,us10004tg1,2016-05-06T23:34:17.040Z,"3 km ENE of Magdalena Milpas Altas, Guatemala",earthquake,4.7,15.7,0.097,14,reviewed,us,us
+2016-02-25T20:43:00.500Z,14.4552,-90.7664,10,3.1,ml,,158,0.902,0.14,us,us10004sr9,2016-05-03T23:44:22.040Z,"5 km SE of Alotenango, Guatemala",earthquake,6.3,2,0.115,10,reviewed,us,us
+2016-02-25T04:23:36.920Z,14.5168,-90.6982,36.42,3.2,ml,,146,0.965,0.28,us,us10004shw,2016-05-03T23:44:21.040Z,"2 km NNE of Santa María de Jesús, Guatemala",earthquake,4.5,64.2,0.115,10,reviewed,us,us
+2016-02-14T08:18:59.510Z,14.3446,-90.3038,166.91,4.6,mb,,121,0.915,1.02,us,us10004qj7,2016-04-26T23:28:20.040Z,"4 km S of Santa Rosa de Lima, Guatemala",earthquake,7.4,7.2,0.092,35,reviewed,us,us
+2016-02-01T16:45:30.510Z,13.994,-89.9384,130.72,4.5,mb,,108,0.69,0.8,us,us20004wai,2016-04-14T22:51:39.040Z,"10 km N of Tacuba, El Salvador",earthquake,8.2,6.2,0.051,113,reviewed,us,us
+2016-01-19T13:00:35.100Z,14.5901,-91.4145,100.84,4.6,mb,,95,0.279,1.19,us,us10004fkk,2016-04-06T17:30:27.040Z,"4 km E of San Pablo Jocopilas, Guatemala",earthquake,5.9,3.8,0.038,206,reviewed,us,us
+2016-01-04T13:26:53.810Z,14.6604,-90.558,206.33,4.4,mb,,97,1.108,0.95,us,us10004e0t,2016-03-28T22:09:36.040Z,"5 km WNW of Guatemala City, Guatemala",earthquake,8.4,7,0.078,47,reviewed,us,us
+2015-12-30T03:25:34.030Z,14.137,-91.1098,81.05,5,mwr,,131,0.685,0.83,us,us10004acp,2016-11-10T22:06:31.179Z,"8 km NW of La Gomera, Guatemala",earthquake,7,1.7,0.069,20,reviewed,us,us
+2015-12-23T11:15:06.950Z,13.5496,-90.4093,57.51,4.5,mb,,119,1.153,0.93,us,us10004gdq,2016-03-12T02:29:23.040Z,"52 km SSW of Pasaco, Guatemala",earthquake,7,8.2,0.121,20,reviewed,us,us
+2015-12-08T15:13:42.790Z,13.674,-90.7317,30.67,4,mb,,185,1.26,0.62,us,us20004gf5,2016-03-02T03:36:39.040Z,"28 km S of Iztapa, Guatemala",earthquake,3.5,9.7,0.196,7,reviewed,us,us
+2015-12-08T13:59:16.990Z,14.1257,-91.3933,66.95,4.4,mb,,103,0.492,1.38,us,us10004559,2016-03-02T03:36:39.040Z,"13 km SW of Nueva Concepción, Guatemala",earthquake,4.8,5.9,0.064,70,reviewed,us,us
+2015-12-07T22:53:35.110Z,14.2197,-90.8905,84,5.7,mww,,31,0.836,1.48,us,us100044xh,2020-07-10T14:53:17.882Z,"4 km WNW of Masagua, Guatemala",earthquake,7.2,1.8,,,reviewed,us,us
+2015-12-01T03:33:43.610Z,13.9683,-90.8799,93.86,4.1,mb,,183,0.964,0.6,us,us100043aw,2016-02-25T22:33:03.040Z,"7 km NW of Puerto San José, Guatemala",earthquake,7.2,7.8,0.165,10,reviewed,us,us
+2015-11-25T10:23:02.640Z,14.147,-91.2224,78.2,4.7,mb,,74,0.592,0.73,us,us10004173,2016-02-18T04:48:55.040Z,"10 km SE of Nueva Concepción, Guatemala",earthquake,6.7,5.1,0.035,251,reviewed,us,us
+2015-11-24T07:52:46.500Z,14.1939,-89.866,169,4.4,mb,,147,0.53,0.74,us,us100040mu,2016-02-18T04:48:52.040Z,"4 km WNW of El Adelanto, Guatemala",earthquake,5,8.1,0.099,29,reviewed,us,us
+2015-11-08T16:34:39.720Z,13.6415,-90.6574,52,4.6,mb,,153,1.386,1.07,us,us10003vrp,2016-02-05T03:16:37.040Z,"32 km S of Iztapa, Guatemala",earthquake,7.9,5.2,0.04,191,reviewed,us,us
+2015-08-21T10:48:07.840Z,14.1458,-91.1595,67.14,4.3,mb,,118,0.641,1.04,us,us100033wm,2015-11-24T02:09:26.040Z,Guatemala,earthquake,7.8,6.6,0.038,193,reviewed,us,us
+2015-08-15T13:09:28.710Z,14.0287,-90.9259,79.56,4.9,mb,,149,0.893,0.95,us,us100032kv,2015-11-17T00:13:30.040Z,"15 km ESE of La Gomera, Guatemala",earthquake,7.7,6.9,0.041,188,reviewed,us,us
+2015-08-13T19:30:14.420Z,14.0922,-91.3013,58.03,5.2,mww,,66,0.574,0.83,us,us1000322j,2015-11-17T00:13:26.040Z,"11 km S of Nueva Concepción, Guatemala",earthquake,7,4.7,,,reviewed,us,us
+2015-08-12T15:44:30.440Z,14.1261,-91.07,91.73,4.3,mb,,118,1.679,1.35,us,us100031h3,2015-11-06T18:06:26.040Z,"5 km NNW of La Gomera, Guatemala",earthquake,9.1,6.8,0.052,106,reviewed,us,us
+2015-08-01T23:35:06.000Z,14.8052,-91.0801,205.49,4.7,mb,,77,0.653,0.66,us,us10002x7u,2015-10-30T02:47:43.040Z,"7 km ENE of Concepción, Guatemala",earthquake,7.1,4.9,0.046,145,reviewed,us,us
+2015-07-31T23:39:25.070Z,14.1304,-91.4205,63.37,5,mwr,,32,1.183,1.26,us,us10002x0r,2015-10-30T02:47:41.040Z,"15 km WSW of Nueva Concepción, Guatemala",earthquake,6.3,3.3,0.073,18,reviewed,us,us
+2015-07-20T12:01:02.520Z,13.6237,-90.2958,65.05,4.3,mb,,85,1.036,1.06,us,us20002ynh,2015-10-14T21:05:46.040Z,"38 km SW of San Francisco Menéndez, El Salvador",earthquake,7.7,7.4,0.078,47,reviewed,us,us
+2015-07-16T09:53:09.880Z,14.0765,-89.8579,10,4.3,mb,,122,0.579,1.13,us,us20002xvw,2015-10-14T21:05:36.040Z,"7 km ESE of Comapa, Guatemala",earthquake,5.7,1.9,0.094,32,reviewed,us,us
+2015-07-11T19:43:56.310Z,13.8456,-90.6739,66.29,4,mb,,170,1.198,0.96,us,us100032is,2015-10-09T20:19:13.040Z,"10 km SSE of Iztapa, Guatemala",earthquake,8.2,18.2,0.139,14,reviewed,us,us
+2015-07-10T20:29:47.070Z,14.0066,-91.0803,62.94,4.2,mb,,172,0.787,1.14,us,us20002x01,2015-10-09T20:19:11.040Z,"8 km SSW of La Gomera, Guatemala",earthquake,8.3,10.1,0.115,21,reviewed,us,us
+2015-07-07T04:55:23.610Z,14.2258,-91.2276,64.86,4.2,mb,,170,0.541,0.98,us,us20002vlz,2015-09-30T00:21:00.040Z,"8 km ENE of Nueva Concepción, Guatemala",earthquake,6.5,10.7,0.062,72,reviewed,us,us
+2015-07-04T13:17:53.160Z,14.1327,-91.3314,60.42,4.3,mb,,176,0.525,1.11,us,us10002nee,2015-09-30T00:20:55.040Z,"8 km SSW of Nueva Concepción, Guatemala",earthquake,8.9,12.6,0.113,22,reviewed,us,us
+2015-06-30T15:00:29.590Z,14.2953,-91.1516,58.81,4.1,mb,,165,0.573,1.02,us,us20002xmj,2015-09-02T22:37:25.040Z,"14 km S of Patulul, Guatemala",earthquake,7.5,7.5,0.094,31,reviewed,us,us
+2015-06-27T15:16:01.860Z,13.921,-90.2122,107.56,4.7,mb,,106,0.952,1.09,us,us10002m37,2015-09-02T22:37:21.040Z,"6 km S of Pasaco, Guatemala",earthquake,8.2,6,0.057,93,reviewed,us,us
+2015-06-06T11:50:40.570Z,13.8131,-90.9153,63.85,4.1,mb,,173,1.035,0.87,us,us20002mjk,2015-08-10T13:08:22.040Z,"16 km SW of Puerto San José, Guatemala",earthquake,8.7,10,0.084,39,reviewed,us,us
+2015-05-21T05:14:41.150Z,13.9057,-91.1735,61.85,4.1,mb,,148,1.825,0.62,us,us10002b1w,2015-07-29T01:35:30.040Z,"23 km SSW of La Gomera, Guatemala",earthquake,7.1,5.8,0.066,63,reviewed,us,us
+2015-05-11T01:42:58.790Z,13.8836,-91.2613,35,4,mb,,192,1.913,0.99,us,us10002b4z,2015-07-17T07:06:07.040Z,"31 km SW of La Gomera, Guatemala",earthquake,9.2,2,0.111,22,reviewed,us,us
+2015-04-24T00:08:07.520Z,13.8926,-91.2982,55.95,4,mb,,202,0.736,1.12,us,us200028p5,2015-07-03T00:23:37.040Z,"33 km SW of La Gomera, Guatemala",earthquake,5.6,13.4,0.134,15,reviewed,us,us
+2015-03-23T19:32:28.220Z,13.6601,-90.8565,82.63,4.3,mb,,188,1.389,0.93,us,us10001pyu,2015-06-09T21:30:03.040Z,"29 km S of Puerto San José, Guatemala",earthquake,4.2,9.8,0.077,48,reviewed,us,us
+2015-03-21T13:44:21.870Z,13.6931,-90.9892,85.07,4.3,mb,,178,1.708,1.13,us,us10001qlg,2015-06-09T21:30:00.040Z,"31 km SW of Puerto San José, Guatemala",earthquake,10.3,18.7,0.188,8,reviewed,us,us
+2015-02-27T23:46:44.990Z,14.0697,-90.8491,98.56,4.9,mb,,73,0.936,0.93,us,usc000ttvt,2015-05-19T00:29:04.040Z,"14 km S of Masagua, Guatemala",earthquake,6.7,4.6,0.026,462,reviewed,us,us
+2015-02-22T20:25:18.000Z,13.817,-90.407,87.9,4.6,mb,,,,1.48,us,usc000tt4d,2015-05-12T20:29:39.040Z,"28 km SW of Pasaco, Guatemala",earthquake,10.2,8.6,0.145,15,reviewed,snet,us
+2015-02-11T05:20:12.860Z,13.5712,-90.7773,59.13,4.5,mb,,77,1.3,1.22,us,usc000tnx9,2015-05-04T22:47:54.040Z,"39 km S of Puerto San José, Guatemala",earthquake,7.9,4.2,0.076,60,reviewed,us,us
+2015-02-02T21:31:08.910Z,14.1083,-89.782,179.15,4.6,mb,,126,0.5,1.09,us,usc000tl36,2015-05-02T14:05:49.040Z,"3 km WNW of Jerez, Guatemala",earthquake,8,5.3,0.076,58,reviewed,us,us
+2014-12-24T17:40:15.650Z,13.6073,-90.9868,46.91,4,mb,,210,1.141,0.53,us,usc000td9g,2015-03-17T02:36:59.040Z,"39 km SSW of Puerto San José, Guatemala",earthquake,8.8,11.6,0.299,3,reviewed,us,us
+2014-12-24T07:28:59.380Z,13.8539,-90.7222,84,4.2,mb,,184,1.155,0.88,us,usc000t9nt,2015-03-17T02:36:54.040Z,"8 km S of Iztapa, Guatemala",earthquake,5.6,9.4,0.087,43,reviewed,us,us
+2014-12-23T12:22:53.920Z,13.6656,-90.3368,68.95,4.4,mb,,133,1.074,1.39,us,usc000t9d3,2015-03-06T02:59:12.040Z,"37 km SSW of Pasaco, Guatemala",earthquake,5.2,9.8,0.09,38,reviewed,us,us
+2014-12-18T15:03:01.580Z,13.8784,-90.9531,86.47,4.2,mb,,181,0.964,1.01,us,usc000t7wf,2015-03-06T02:59:01.040Z,"15 km WSW of Puerto San José, Guatemala",earthquake,8.3,7.9,0.092,33,reviewed,us,us
+2014-11-16T03:09:02.010Z,13.5738,-90.5921,42.02,4.8,mb,,71,1.327,0.77,us,usb000t10z,2015-02-12T01:42:49.040Z,"41 km SSE of Iztapa, Guatemala",earthquake,7.9,6.2,0.064,82,reviewed,us,us
+2014-11-15T00:15:31.640Z,13.7132,-90.3309,89.61,4.7,mb,,133,1.068,1.14,us,usc000sxg4,2015-02-12T01:42:42.040Z,"32 km SSW of Pasaco, Guatemala",earthquake,7.5,6.4,0.041,194,reviewed,us,us
+2014-11-12T09:03:28.290Z,13.8631,-90.7793,88.2,4.4,mb,,72,1.105,0.83,us,usc000swii,2015-02-12T01:42:36.040Z,"8 km SSE of Puerto San José, Guatemala",earthquake,4.8,6.2,0.067,65,reviewed,us,us
+2014-11-08T19:47:54.860Z,13.5235,-90.7918,52.71,4.2,mb,,194,1.326,0.75,us,usb000sy91,2015-01-31T02:50:11.040Z,near the coast of Guatemala,earthquake,7,14.9,0.115,21,reviewed,us,us
+2014-11-07T01:59:19.990Z,13.6351,-90.6693,66.72,5.2,mwr,,50,1.331,0.9,us,usc000sv8v,2015-01-31T02:50:06.040Z,"33 km S of Iztapa, Guatemala",earthquake,6.6,4,0.078,16,reviewed,us,us
+2014-10-29T22:43:41.000Z,13.672,-90.696,33.1,4.1,mb,,,,1.3,us,usb000srk7,2015-01-20T09:03:01.040Z,"28 km S of Iztapa, Guatemala",earthquake,3.8,6.5,0.151,12,reviewed,snet,us
+2014-10-07T23:16:20.860Z,14.5846,-90.7348,231.56,4.2,mb,,138,0.492,0.92,us,usb000sng3,2014-12-23T01:42:07.040Z,"0 km NNE of Jocotenango, Guatemala",earthquake,8,4.2,0.237,7,reviewed,us,us
+2014-09-22T13:56:48.000Z,13.997,-90.683,67.2,3.6,mb,,,,1.58,us,usb000srdd,2014-12-19T00:05:25.040Z,"7 km NNE of Iztapa, Guatemala",earthquake,7.3,9.2,0.499,1,reviewed,snet,us
+2014-09-11T08:26:24.040Z,13.7137,-91.1631,64.24,4.5,mb,,108,0.957,1.09,us,usb000sbay,2014-12-08T23:30:56.040Z,"42 km SSW of La Gomera, Guatemala",earthquake,6.6,5.8,0.039,214,reviewed,us,us
+2014-09-09T21:41:04.900Z,13.7836,-90.7554,76.34,4.4,mb,,86,1.245,0.77,us,usb000savr,2014-12-05T23:36:41.040Z,"17 km SSW of Iztapa, Guatemala",earthquake,7.1,5.8,0.068,74,reviewed,us,us
+2014-09-06T23:14:15.650Z,14.1144,-91.1798,76.17,4.1,mb,,160,0.644,0.76,us,usb000sa24,2014-12-05T23:36:37.040Z,"14 km WNW of La Gomera, Guatemala",earthquake,6.9,10.9,0.085,42,reviewed,us,us
+2014-08-31T07:14:13.450Z,14.6776,-91.1253,200.28,4.3,mb,,129,0.572,0.53,us,usc000s8ez,2014-11-29T00:09:22.000Z,"1 km SSW of San Antonio Palopó, Guatemala",earthquake,6.4,7.2,0.111,24,reviewed,us,us
+2014-08-13T09:11:42.000Z,13.579,-90.483,25.2,3.8,md,,,,0.74,us,usc000s9bz,2014-11-15T04:07:06.000Z,"46 km SSE of Iztapa, Guatemala",earthquake,,8.1,,8,reviewed,snet,unm
+2014-07-25T07:10:29.040Z,14.4127,-89.9403,254.53,4.3,mb,,114,0.561,0.92,us,usb000rx2t,2014-10-25T01:49:36.000Z,"11 km WNW of El Progreso, Guatemala",earthquake,,2.1,0.068,61,reviewed,us,us
+2014-06-22T00:26:54.360Z,14.6332,-91.1709,166.36,4.7,mb,,74,0.52,0.74,us,usc000rjup,2014-09-19T17:23:04.000Z,"5 km NNW of San Lucas Tolimán, Guatemala",earthquake,,3.7,0.031,334,reviewed,us,us
+2014-06-14T16:34:28.000Z,13.711,-90.716,29.1,4.3,mb,,,,2.48,us,usc000rq22,2014-09-12T15:48:14.000Z,"24 km S of Iztapa, Guatemala",earthquake,,7.4,0.142,14,reviewed,snet,us
+2014-06-13T12:26:32.670Z,14.1993,-91.1679,77.76,5,mwr,,64,0.603,0.88,us,usc000rf0w,2015-01-29T02:51:49.907Z,"14 km E of Nueva Concepción, Guatemala",earthquake,,4.1,0.066,22,reviewed,us,us
+2014-06-02T03:46:17.320Z,14.1992,-90.1216,214.65,4.5,mb,,159,0.764,1.03,us,usc000ra0c,2014-08-26T01:21:09.000Z,"6 km ESE of Oratorio, Guatemala",earthquake,,6.8,0.059,86,reviewed,us,us
+2014-05-30T02:28:32.400Z,13.7439,-91.2426,60.82,4.4,mb,,166,0.889,1.17,us,usc000r8xv,2014-08-26T01:21:03.000Z,"42 km SSW of La Gomera, Guatemala",earthquake,,7.2,0.044,164,reviewed,us,us
+2014-05-16T00:05:50.770Z,13.6662,-90.5704,66.66,4.1,mb,,187,1.301,1.08,us,usb000qq4q,2014-08-09T02:53:44.000Z,"33 km SSE of Iztapa, Guatemala",earthquake,,11.2,0.114,21,reviewed,us,us
+2014-05-02T16:28:43.420Z,14.397,-90.6085,189.41,4.4,mb,,89,0.619,0.86,us,usb000q77n,2014-07-27T21:51:17.000Z,"3 km ESE of San Vicente Pacaya, Guatemala",earthquake,,3.9,0.144,15,reviewed,us,us
+2014-04-19T17:33:30.480Z,14.1595,-91.3214,87.06,4.5,mb,,150,1.164,1.35,us,usb000prek,2014-07-04T01:34:12.000Z,"5 km SSW of Nueva Concepción, Guatemala",earthquake,,5.7,0.047,142,reviewed,us,us
+2014-04-09T23:55:41.170Z,14.3374,-90.3867,180.46,4.9,mb,,88,0.666,0.83,us,usc000pdl7,2014-07-01T02:37:53.000Z,"4 km NW of Barberena, Guatemala",earthquake,,3.8,0.039,204,reviewed,us,us
+2014-03-29T05:30:53.040Z,14.0754,-90.683,109.06,4.4,mb,,109,0.947,1.12,us,usc000nvpc,2014-05-29T23:32:07.000Z,"15 km N of Iztapa, Guatemala",earthquake,,6.1,0.06,83,reviewed,us,us
+2014-03-13T08:22:17.470Z,13.4953,-90.456,54.7,4.3,mb,,115,1.205,1.49,us,usc000na2f,2014-05-16T21:51:39.000Z,"55 km SSE of Iztapa, Guatemala",earthquake,,7.3,0.057,89,reviewed,us,us
+2014-03-08T20:54:44.900Z,13.861,-91.297,58.6,4.1,mb,,,,1.11,us,usc000nnqp,2014-05-15T02:23:46.000Z,"35 km SW of La Gomera, Guatemala",earthquake,,6.3,0.135,17,reviewed,unm,us
+2014-03-08T20:19:45.260Z,13.8726,-90.4009,113.07,4.2,mb,,167,1.126,0.76,us,usc000n5hv,2014-05-15T02:23:46.000Z,"22 km S of Guazacapán, Guatemala",earthquake,,7.3,0.186,10,reviewed,us,us
+2014-03-05T18:25:48.000Z,13.754,-90.467,31.3,3.5,md,,,,2.88,us,usc000nz6q,2014-05-15T02:23:11.000Z,"32 km SE of Iztapa, Guatemala",earthquake,,8.4,,,reviewed,snet,snet
+2014-01-21T01:33:46.120Z,14.0743,-89.9867,187.54,4.2,mb,,158,0.789,0.96,us,usb000m5gx,2014-03-22T00:05:27.000Z,"5 km NE of Conguaco, Guatemala",earthquake,,4.5,0.186,9,reviewed,us,us
+2014-01-16T01:15:45.000Z,13.816,-90.492,81,4.1,mb,,,,0.94,us,usb000m4fl,2014-03-22T00:05:15.000Z,"26 km ESE of Iztapa, Guatemala",earthquake,,7.2,0.111,24,reviewed,snet,us
+2013-12-28T04:26:45.500Z,13.6786,-90.9133,71.99,4.4,mb,,103,1.387,0.83,us,usc000lt66,2015-01-30T19:33:14.160Z,"29 km SSW of Puerto San José, Guatemala",earthquake,,6.7,0.071,,reviewed,us,us
+2013-11-15T04:09:34.100Z,13.82,-90.988,78.5,4.1,mb,,,,1.29,us,usb000kyqd,2014-01-31T21:22:20.000Z,"21 km WSW of Puerto San José, Guatemala",earthquake,,6.6,0.261,,reviewed,unm,us
+2013-11-01T22:57:30.080Z,14.6566,-90.9227,35,4.7,mb,,167,0.76,0.5,us,usb000krel,2014-01-10T10:03:42.000Z,"2 km N of Patzicía, Guatemala",earthquake,,2,0.246,,reviewed,us,us
+2013-10-31T14:53:23.630Z,13.9053,-91.3069,61.05,4.3,mb,,157,0.719,1.13,us,usc000ksgu,2014-01-10T10:03:39.000Z,"32 km S of Nueva Concepción, Guatemala",earthquake,,9.3,0.122,,reviewed,us,us
+2013-09-16T21:59:48.850Z,13.6546,-90.6288,62.71,4.2,mb,,188,1.347,0.96,us,usc000jvw8,2015-01-30T12:21:40.540Z,"31 km SSE of Iztapa, Guatemala",earthquake,,9.4,0.078,,reviewed,us,us
+2013-09-07T20:46:19.200Z,14.472,-90.572,7.6,3.6,md,,,,0.63,us,usb000jlfk,2013-11-15T03:20:27.000Z,"3 km SSW of Petapa, Guatemala",earthquake,,8.3,,,reviewed,us_gcg,us_gcg
+2013-07-28T07:11:00.000Z,14.43,-90.506,230.8,4,md,12,100,,,us,usb000iw9x,2014-11-07T01:51:21.043Z,"6 km SSE of Villa Canales, Guatemala",earthquake,,,,,reviewed,unm,unm
+2013-07-26T23:38:19.280Z,14.583,-90.573,199.3,4.4,mb,58,100,,,us,usb000iw9l,2014-11-07T01:51:20.501Z,"6 km SE of Mixco, Guatemala",earthquake,,,,47,reviewed,unm,us
+2013-07-18T19:48:13.160Z,13.934,-91.279,43.4,4.8,mb,265,108,,0.87,us,usb000ih4f,2015-01-30T14:09:51.301Z,"29 km SW of La Gomera, Guatemala",earthquake,,5.8,,238,reviewed,us,us
+2013-07-17T19:28:20.560Z,14.181,-90.802,98.9,4.4,mb,83,172,,0.82,us,usb000iga9,2014-11-07T01:51:17.501Z,"5 km ESE of Masagua, Guatemala",earthquake,,11.7,,75,reviewed,us,us
+2013-06-30T02:52:50.000Z,13.743,-91.033,9.3,4.1,md,8,100,,,us,usp000k1ke,2014-11-07T01:51:08.329Z,"30 km SW of Puerto San José, Guatemala",earthquake,,,,,reviewed,snet,snet
+2013-06-22T17:35:31.790Z,14.442,-89.954,247.6,4.8,mb,428,70,,0.96,us,usc000hy59,2014-11-07T01:51:06.791Z,"11 km SW of Monjas, Guatemala",earthquake,,5.7,,406,reviewed,us,us
+2013-05-25T02:08:17.650Z,13.988,-91.258,61.5,4.1,mb,31,191.8,,1.87,us,usp000k0yb,2014-11-07T01:50:54.100Z,"23 km S of Nueva Concepción, Guatemala",earthquake,,11.6,,8,reviewed,us,us
+2013-05-12T02:07:04.080Z,13.697,-91.197,70.8,4.3,mb,92,200.9,,0.89,us,usc000guhu,2014-11-07T01:50:47.427Z,"45 km SSW of La Gomera, Guatemala",earthquake,,7.2,,73,reviewed,us,us
+2013-04-30T11:58:38.750Z,14.314,-90.272,10,4.3,mb,52,108.1,,0.97,us,usb000gin7,2014-11-07T01:50:39.959Z,"5 km NE of Cuilapa, Guatemala",earthquake,,,,31,reviewed,us,us
+2013-03-25T23:02:12.770Z,14.487,-90.463,189,6.2,mww,674,25.1,,1.1,us,usb000fshy,2020-07-10T17:58:46.602Z,"3 km NW of Fraijanes, Guatemala",earthquake,,,,,reviewed,us,us
+2013-03-11T22:51:54.000Z,13.507,-90.711,14.5,4,mb,20,180.1,,,us,us2013mqei,2014-11-07T01:50:19.707Z,"47 km S of Iztapa, Guatemala",earthquake,,,,6,reviewed,snet,us
+2013-02-25T07:08:45.180Z,14.233,-91.482,78.3,4.2,mb,124,104.2,,1.26,us,usc000fd51,2015-01-30T21:35:21.016Z,"14 km WSW of Tiquisate, Guatemala",earthquake,,5.2,,91,reviewed,us,us
+2012-12-29T02:43:26.210Z,14.139,-91.313,24.2,4.2,mb,53,160.7,,1.21,us,usp000jxhx,2014-11-07T01:49:40.629Z,"6 km SSW of Nueva Concepción, Guatemala",earthquake,,21.4,,30,reviewed,us,us
+2012-12-16T10:07:12.040Z,14.675,-91.457,115.1,5.2,mb,490,54.5,,1.11,us,usp000jx14,2015-03-24T02:15:45.629Z,"6 km NW of Santo Tomás La Unión, Guatemala",earthquake,,,,298,reviewed,us,us
+2012-12-07T03:45:44.040Z,14.135,-90.196,181.5,4.3,mb,33,188.3,,0.67,us,usp000jwjc,2014-11-07T01:49:33.448Z,"9 km NE of San Juan Tecuaco, Guatemala",earthquake,,8.9,,23,reviewed,us,us
+2012-11-28T23:38:18.620Z,14.209,-91.342,63,4.1,mb,26,168,,1.18,us,usp000jw76,2014-11-07T01:49:27.391Z,"4 km WNW of Nueva Concepción, Guatemala",earthquake,,10.4,,13,reviewed,us,us
+2012-11-05T12:21:26.040Z,13.77,-90.627,74.1,4.3,mb,79,115.5,,0.87,us,usp000jv2a,2014-11-07T01:49:18.418Z,"20 km SSE of Iztapa, Guatemala",earthquake,,5,,46,reviewed,us,us
+2012-11-05T05:32:33.080Z,14.483,-90.93,187.6,4.1,md,8,168.8,,,us,usp000jv21,2014-11-07T01:49:18.383Z,"3 km SE of Yepocapa, Guatemala",earthquake,,,,,reviewed,unm,unm
+2012-11-04T19:12:56.170Z,13.979,-91.357,73,4.6,mb,93,81.9,,1.3,us,usp000jv1f,2014-11-07T01:49:18.223Z,"25 km SSW of Nueva Concepción, Guatemala",earthquake,,5.5,,49,reviewed,us,us
+2012-10-23T00:21:11.640Z,14.265,-89.815,255,4.5,mb,88,106.5,,0.92,us,usp000jub9,2014-11-07T01:49:07.932Z,"7 km NNW of Yupiltepeque, Guatemala",earthquake,,3.9,,60,reviewed,us,us
+2012-10-17T01:26:40.200Z,14.018,-91.294,69.6,4.4,mb,99,177.5,,1.2,us,usp000ju2p,2014-11-07T01:49:06.338Z,"20 km S of Nueva Concepción, Guatemala",earthquake,,7.3,,81,reviewed,us,us
+2012-10-15T17:52:20.960Z,14.062,-91.01,82.3,5.5,mwb,421,42.4,,1.23,us,usp000ju15,2020-09-21T18:26:51.473Z,"5 km ESE of La Gomera, Guatemala",earthquake,,,,,reviewed,us,us
+2012-09-20T09:29:51.730Z,13.987,-91.014,72.6,4.1,mb,42,184.2,,0.84,us,usp000jsm7,2014-11-07T01:48:53.037Z,"11 km SSE of La Gomera, Guatemala",earthquake,,7.6,,27,reviewed,us,us
+2012-09-13T05:46:13.450Z,14.018,-91.02,65,4.2,mb,24,180.1,,0.98,us,usp000js8p,2014-11-07T01:48:51.169Z,"7 km SSE of La Gomera, Guatemala",earthquake,,9.6,,10,reviewed,us,us
+2012-09-07T18:10:05.900Z,14.783,-91.299,190.6,4.5,mb,42,157.5,,,us,usp000jry6,2014-11-07T01:48:48.607Z,"3 km WNW of Santa Lucía Utatlán, Guatemala",earthquake,,,,17,reviewed,unm,us
+2012-08-28T18:55:18.160Z,13.821,-91.02,59.3,4.1,md,21,135.6,,1.38,us,usp000jr05,2014-11-07T01:48:39.140Z,"24 km WSW of Puerto San José, Guatemala",earthquake,,12,,,reviewed,us,snet
+2012-08-19T18:42:58.660Z,13.617,-90.293,86.3,4.3,md,19,182.3,,1.12,us,usp000jqh3,2014-11-07T01:48:35.935Z,"39 km SW of San Francisco Menéndez, El Salvador",earthquake,,10,,,reviewed,us,snet
+2012-07-27T02:06:56.620Z,14.589,-90.608,216,4.7,mb,218,90.7,,1.09,us,usp000jpgg,2014-11-07T01:48:24.286Z,"4 km S of Mixco, Guatemala",earthquake,,5.5,,174,reviewed,us,us
+2012-07-16T23:03:02.690Z,14.332,-90.262,38.5,4.2,mb,15,115.4,,1.1,us,usp000jp32,2014-11-07T01:48:20.552Z,"5 km SSE of Nueva Santa Rosa, Guatemala",earthquake,,13.2,,1,reviewed,us,us
+2012-07-16T21:03:01.200Z,14.146,-90.364,37.1,4.7,mb,151,93.6,,1.17,us,usp000jp2w,2014-11-07T01:48:20.514Z,"7 km NNE of Chiquimulilla, Guatemala",earthquake,,6.7,,121,reviewed,us,us
+2012-07-12T02:34:57.630Z,13.831,-90.49,100.7,3.8,md,6,212.5,,1.34,us,usp000jnwq,2014-11-07T01:48:18.826Z,"26 km ESE of Iztapa, Guatemala",earthquake,,17.6,,,reviewed,us,snet
+2012-07-12T01:43:01.620Z,14.75,-90.938,202.2,5.2,mwb,521,61.6,,1.15,us,usp000jnwm,2015-03-24T01:31:15.044Z,"5 km W of Comalapa, Guatemala",earthquake,,,,,reviewed,us,us
+2012-07-02T17:42:58.300Z,14.218,-90.613,76.9,4.4,mb,25,107.5,,1.22,us,usp000jngs,2014-11-07T01:48:14.659Z,"3 km ESE of Guanagazapa, Guatemala",earthquake,,5.4,,4,reviewed,us,us
+2012-06-27T06:30:59.860Z,13.834,-89.967,132.6,5.7,mww,556,56.5,,1.07,us,usp000jn9s,2020-09-21T18:15:50.099Z,"5 km E of San Francisco Menéndez, El Salvador",earthquake,,4,,,reviewed,us,us
+2012-06-25T14:37:49.650Z,13.906,-90.213,91.2,4.6,mb,23,171.1,,0.73,us,usp000jn7j,2014-11-07T01:48:09.102Z,"7 km S of Pasaco, Guatemala",earthquake,,7.2,,10,reviewed,us,us
+2012-06-05T05:13:16.540Z,13.915,-91.03,73.2,4.3,mb,138,108.9,,0.86,us,usp000jmbx,2014-11-07T01:48:00.840Z,"18 km S of La Gomera, Guatemala",earthquake,,3.8,,82,reviewed,us,us
+2012-06-04T05:12:00.260Z,13.728,-90.801,83.1,4.7,mb,402,66.6,,0.97,us,usp000jmac,2015-03-24T01:30:04.104Z,"22 km S of Puerto San José, Guatemala",earthquake,,4.7,,300,reviewed,us,us
+2012-05-31T17:37:30.670Z,14.258,-90.396,241.8,4.6,mb,80,166.8,,1.06,us,usp000jm63,2014-11-07T01:47:55.552Z,"6 km SW of Barberena, Guatemala",earthquake,,4.7,,63,reviewed,us,us
+2012-05-04T18:57:52.080Z,14.452,-91.285,98.2,4.3,mb,104,147.7,,1.17,us,usp000jk08,2015-03-24T01:29:00.976Z,"6 km WNW of Santa Bárbara, Guatemala",earthquake,,6.6,,82,reviewed,us,us
+2012-05-01T06:18:56.090Z,13.784,-90.964,53.1,4.3,mb,56,185.4,,0.92,us,usp000jjuh,2014-11-07T01:47:41.429Z,"22 km SW of Puerto San José, Guatemala",earthquake,,6.7,,37,reviewed,us,us
+2012-04-22T08:07:50.200Z,14.281,-91.457,71,4.1,mb,46,189.1,,0.9,us,usp000jjd7,2015-03-24T02:27:40.474Z,"10 km W of Tiquisate, Guatemala",earthquake,,8.1,,27,reviewed,us,us
+2012-03-26T02:01:19.670Z,14.05,-90.23,42.1,4.5,mb,84,115.3,,1.16,us,usp000jgt6,2015-03-24T01:59:59.443Z,"5 km SE of San Juan Tecuaco, Guatemala",earthquake,,7.2,,48,reviewed,us,us
+2012-03-15T15:14:07.130Z,13.627,-90.583,56.1,4,mb,31,208.8,,1.51,us,usp000jga6,2014-11-07T01:47:15.198Z,"36 km SSE of Iztapa, Guatemala",earthquake,,6.8,,1,reviewed,us,us
+2012-02-24T20:01:48.090Z,14.467,-90.728,163.9,4.7,mb,148,88.8,,1.34,us,usp000jfb7,2014-11-07T01:47:04.051Z,"3 km SSW of Santa María de Jesús, Guatemala",earthquake,,,,90,reviewed,us,us
+2012-02-08T02:38:25.890Z,13.735,-91.035,47.3,4,mb,21,193.2,,1.27,us,usp000jep1,2014-11-07T01:46:59.268Z,"31 km SW of Puerto San José, Guatemala",earthquake,,13.6,,12,reviewed,us,us
+2012-01-27T04:19:51.420Z,14.196,-90.228,35,4.6,mb,72,111.5,,1.19,us,usp000je12,2015-03-24T01:52:49.223Z,"5 km E of Santa María Ixhuatán, Guatemala",earthquake,,,,46,reviewed,us,us
+2012-01-26T13:25:31.420Z,14.186,-90.991,79.6,4.4,mb,111,109,,1.18,us,usp000je06,2015-03-24T01:56:50.747Z,"6 km SW of La Democracia, Guatemala",earthquake,,,,68,reviewed,us,us
+2012-01-19T03:47:44.350Z,14.027,-90.426,99.4,4.5,mb,61,81.3,,1.11,us,usp000jdp7,2015-03-24T02:07:13.977Z,"5 km S of Guazacapán, Guatemala",earthquake,,6.2,,41,reviewed,us,us
+2012-01-09T20:15:00.490Z,13.953,-90.439,100.3,4.4,mb,18,227.9,,0.75,us,usp000jd9n,2014-11-07T01:46:45.397Z,"13 km SSE of Taxisco, Guatemala",earthquake,,14.7,,4,reviewed,us,us
+2012-01-09T18:34:10.460Z,13.83,-90.591,61.4,4.5,mb,66,174.9,,1.3,us,usp000jd9f,2014-11-07T01:46:45.336Z,"17 km SE of Iztapa, Guatemala",earthquake,,7.1,,50,reviewed,us,us
+2012-01-05T09:15:34.570Z,13.551,-90.639,68.1,4.4,mb,102,101.2,,1.14,us,usp000jd2n,2014-11-07T01:46:43.669Z,"42 km S of Iztapa, Guatemala",earthquake,,6.6,,69,reviewed,us,us
+2012-01-01T07:40:27.240Z,13.614,-90.509,80.6,4.3,mb,46,158.8,,0.96,us,usp000jcwv,2014-11-07T01:46:41.553Z,"41 km SSE of Iztapa, Guatemala",earthquake,,8.9,,24,reviewed,us,us
+2011-12-05T07:34:59.800Z,13.922,-91.183,44.5,4.3,mb,43,137,,1.64,us,usp000jbup,2014-11-07T01:46:31.228Z,"22 km SW of La Gomera, Guatemala",earthquake,,11.4,,24,reviewed,us,us
+2011-11-11T18:09:42.630Z,14.152,-90.244,15.4,4.5,mb,102,93.5,,1.41,us,usp000jaq4,2015-03-24T01:59:48.492Z,"5 km SE of Santa María Ixhuatán, Guatemala",earthquake,,12.1,,80,reviewed,us,us
+2011-11-10T12:49:56.410Z,13.633,-90.653,55.7,4.5,mb,122,108.3,,1.18,us,usp000janu,2015-03-24T01:22:54.594Z,"33 km S of Iztapa, Guatemala",earthquake,,,,68,reviewed,us,us
+2011-11-03T02:14:28.200Z,14.986,-91.198,249.8,4.1,mb,12,156.1,,,us,usp000ja96,2014-11-07T01:46:16.804Z,"2 km NNE of Patzité, Guatemala",earthquake,,,,2,reviewed,unm,us
+2011-10-26T02:18:28.680Z,14.189,-90.153,10,4.4,mb,18,159.4,,1.21,us,usp000j9x6,2014-11-07T01:46:11.287Z,"4 km SSE of Oratorio, Guatemala",earthquake,,,,11,reviewed,us,us
+2011-10-20T00:05:08.330Z,14.116,-90.706,88.2,4.3,mb,55,189,,1.16,us,usp000j9jy,2014-11-07T01:46:08.088Z,"13 km SSW of Guanagazapa, Guatemala",earthquake,,8.5,,35,reviewed,us,us
+2011-10-19T17:34:40.770Z,14.272,-90.152,9.8,4.3,mb,25,158.6,,1.2,us,usp000j9jf,2014-11-07T01:46:08.009Z,"2 km WNW of San José Acatempa, Guatemala",earthquake,,26.3,,6,reviewed,us,us
+2011-10-14T00:00:39.770Z,13.822,-89.938,44.1,4.3,mb,12,110.1,,1.03,us,usp000j9ak,2014-11-07T01:46:06.538Z,"8 km ESE of San Francisco Menéndez, El Salvador",earthquake,,28,,5,reviewed,us,us
+2011-10-11T00:20:10.990Z,15.225,-90.58,10,4.5,mb,86,161.5,,1.15,us,usp000j96x,2015-03-24T01:21:43.624Z,"14 km NNE of Cubulco, Guatemala",earthquake,,,,55,reviewed,us,us
+2011-10-01T17:07:07.470Z,13.966,-90.318,48.4,4.2,mb,33,107.1,,1.64,us,usp000j8tp,2014-11-07T01:46:01.786Z,"12 km W of Pasaco, Guatemala",earthquake,,13.3,,13,reviewed,us,us
+2011-09-25T21:29:37.150Z,13.941,-90.316,6.5,4.6,mb,44,121.5,,1.15,us,usp000j8jj,2014-11-07T01:45:57.182Z,"12 km WSW of Pasaco, Guatemala",earthquake,,29.1,,24,reviewed,us,us
+2011-09-24T09:58:00.800Z,14.235,-90.121,42,4.3,mb,42,106.9,,1.19,us,usp000j8ge,2014-11-07T01:45:56.922Z,"3 km S of San José Acatempa, Guatemala",earthquake,,9.1,,17,reviewed,us,us
+2011-09-20T04:28:48.790Z,14.139,-90.26,10,4.8,mwc,133,88.1,,1.15,us,usp000j8ah,2015-03-24T01:21:19.719Z,"5 km SSE of Santa María Ixhuatán, Guatemala",earthquake,,,,,reviewed,us,gcmt
+2011-09-20T00:22:48.630Z,14.114,-90.098,10,4.3,mb,56,164.8,,1.21,us,usp000j8a7,2014-11-07T01:45:55.870Z,"8 km NNW of Moyuta, Guatemala",earthquake,,,,41,reviewed,us,us
+2011-09-19T20:30:00.820Z,14.154,-90.216,10,4.6,mb,54,88,,1.37,us,usp000j8a3,2015-03-24T01:21:18.317Z,"7 km ESE of Santa María Ixhuatán, Guatemala",earthquake,,,,30,reviewed,us,us
+2011-09-19T19:17:50.910Z,14.228,-90.283,10,4.9,mwc,125,72.4,,1.28,us,usp000j8a1,2015-03-24T01:21:16.918Z,"4 km NNW of Santa María Ixhuatán, Guatemala",earthquake,,,,,reviewed,us,gcmt
+2011-09-19T18:33:55.870Z,14.186,-90.238,9,5.6,mwr,286,59.6,,1.4,us,usp000j89y,2020-07-08T02:34:51.929Z,"3 km E of Santa María Ixhuatán, Guatemala",earthquake,,,,,reviewed,us,us
+2011-09-19T17:59:54.050Z,14.239,-90.21,10,5.2,mwc,119,87.5,,1.39,us,usp000j89x,2014-11-07T01:45:55.446Z,"3 km WNW of Oratorio, Guatemala",earthquake,,,,,reviewed,us,gcmt
+2011-09-09T04:30:32.990Z,13.55,-90.606,71.1,4.2,mb,29,167.6,,0.96,us,usp000j7tx,2015-03-24T02:04:15.961Z,"43 km SSE of Iztapa, Guatemala",earthquake,,9.4,,21,reviewed,us,us
+2011-09-06T23:31:40.130Z,13.571,-90.451,63.7,4.2,mb,21,87.8,,0.63,us,usp000j7qn,2014-11-07T01:45:51.023Z,"48 km SE of Iztapa, Guatemala",earthquake,,8.1,,10,reviewed,us,us
+2011-09-04T17:04:06.330Z,13.675,-90.377,10,4.1,md,11,115.8,,1.27,us,usp000j7kx,2014-11-07T01:45:50.122Z,"38 km SSW of Pasaco, Guatemala",earthquake,,,,,reviewed,us,snet
+2011-08-27T11:28:09.830Z,14.236,-90.148,50.3,5,mwc,161,77.9,,0.88,us,usp000j746,2015-03-24T01:57:19.956Z,"3 km ENE of Oratorio, Guatemala",earthquake,,5.6,,,reviewed,us,gcmt
+2011-08-24T04:48:00.890Z,13.986,-90.415,35,4.4,mb,23,160.7,,1.37,us,usp000j6y0,2014-11-07T01:45:41.763Z,"9 km S of Guazacapán, Guatemala",earthquake,,,,9,reviewed,us,us
+2011-08-23T03:55:59.040Z,14.283,-90.131,42.1,4.4,mb,72,88.1,,1.14,us,usp000j6we,2015-03-24T01:56:55.518Z,"2 km NNW of San José Acatempa, Guatemala",earthquake,,10,,50,reviewed,us,us
+2011-08-22T18:05:21.130Z,14.449,-90.107,10,4,mb,13,156.6,,1.33,us,usp000j6vs,2014-11-07T01:45:41.199Z,"8 km ESE of San Rafael Las Flores, Guatemala",earthquake,,,,4,reviewed,us,us
+2011-08-19T05:19:15.090Z,14.263,-90.116,20.6,4.3,mb,31,189.6,,0.67,us,usp000j6nw,2015-03-24T02:22:04.771Z,"1 km ESE of San José Acatempa, Guatemala",earthquake,,18.7,,20,reviewed,us,us
+2011-08-18T05:54:26.430Z,14.199,-90.12,39,4.3,mb,38,190.1,,0.89,us,usp000j6mm,2014-11-07T01:45:37.956Z,"6 km ESE of Oratorio, Guatemala",earthquake,,11,,26,reviewed,us,us
+2011-08-16T14:46:15.100Z,13.864,-90.137,10,4.3,mb,13,149.5,,1.21,us,usp000j6j3,2014-11-07T01:45:37.329Z,"13 km W of San Francisco Menéndez, El Salvador",earthquake,,0,,5,reviewed,us,us
+2011-08-01T03:28:39.760Z,14.015,-90.508,96.1,4.3,mb,39,139.5,,1.13,us,usp000j5tm,2015-03-24T02:21:39.939Z,"7 km SW of Taxisco, Guatemala",earthquake,,10.5,,34,reviewed,us,us
+2011-07-27T08:04:44.760Z,13.79,-90.661,37.8,4.1,mb,61,121.2,,1.58,us,usp000j5jr,2014-11-07T01:45:27.230Z,"16 km SSE of Iztapa, Guatemala",earthquake,,14.7,,41,reviewed,us,us
+2011-07-26T00:19:08.230Z,14.014,-90.059,30.4,4.2,mb,31,116.7,,1.41,us,usp000j5gu,2015-03-24T02:22:16.183Z,"3 km SE of Moyuta, Guatemala",earthquake,,28.2,,22,reviewed,us,us
+2011-06-26T17:54:15.800Z,13.529,-90.803,20,4,md,5,135.2,,,us,usp000j3t6,2014-11-07T01:45:10.839Z,"44 km S of Puerto San José, Guatemala",earthquake,,,,,reviewed,unm,unm
+2011-06-01T02:27:18.720Z,14.289,-90.828,127.2,4.3,mb,35,114.7,,1.11,us,usp000j2h5,2014-11-07T01:44:58.316Z,"4 km WSW of Escuintla, Guatemala",earthquake,,8.9,,27,reviewed,us,us
+2011-05-28T15:56:48.300Z,13.696,-90.959,77.9,4.3,md,5,291.5,,,us,usp000j2c0,2014-11-07T01:44:55.864Z,"29 km SSW of Puerto San José, Guatemala",earthquake,,,,,reviewed,unm,snet
+2011-04-05T14:14:55.760Z,13.995,-90.325,114.3,4.6,mb,55,77.9,,1.19,us,usp000hzbe,2014-11-07T01:44:28.792Z,"11 km SSW of San Juan Tecuaco, Guatemala",earthquake,,7.1,,17,reviewed,us,us
+2011-03-28T12:19:16.670Z,13.776,-90.807,76.7,4.5,mb,112,115.9,,1.1,us,usp000hyt4,2015-03-24T01:16:10.282Z,"16 km S of Puerto San José, Guatemala",earthquake,,5.7,,70,reviewed,us,us
+2011-03-15T22:39:57.850Z,13.558,-90.933,10,4.3,mb,29,97.9,,1.05,us,usp000hxe8,2014-11-07T01:44:10.321Z,"42 km SSW of Puerto San José, Guatemala",earthquake,,29.2,,7,reviewed,us,us
+2011-03-15T00:32:44.730Z,13.715,-90.727,90.6,4.8,mb,55,73.3,,1.15,us,usp000hx9f,2014-11-07T01:44:09.207Z,"24 km S of Iztapa, Guatemala",earthquake,,8.5,,35,reviewed,us,us
+2011-03-10T14:30:48.940Z,14.264,-90.366,35,4.6,mb,22,172.6,,1.55,us,usp000hvmw,2014-11-07T01:43:54.246Z,Guatemala,earthquake,,,,22,reviewed,us,us
+2011-03-10T14:30:21.780Z,14.157,-90.378,35,4.4,mb,45,107.2,,1.32,us,usp000hvmv,2014-11-07T01:43:54.241Z,"8 km N of Chiquimulilla, Guatemala",earthquake,,,,26,reviewed,us,us
+2011-02-20T00:58:19.300Z,13.663,-90.609,65.5,4.5,mb,88,135.5,,0.9,us,usp000husk,2014-11-07T01:43:41.463Z,"31 km SSE of Iztapa, Guatemala",earthquake,,6.7,,49,reviewed,us,us
+2011-01-27T22:59:58.220Z,13.801,-90.794,10,4,mb,8,158.2,,0.45,us,usp000htr4,2014-11-07T01:43:30.608Z,"14 km SSE of Puerto San José, Guatemala",earthquake,,,,5,reviewed,us,us
+2011-01-24T01:14:47.460Z,13.898,-89.835,35,4,md,9,177.4,,1.03,us,usp000htk0,2014-11-07T01:43:29.084Z,"2 km SSE of Ahuachapán, El Salvador",earthquake,,,,,reviewed,us,snet
+2011-01-14T23:55:43.300Z,14.847,-91.173,248.9,4,md,6,158.9,,,us,usp000ht4d,2014-11-07T01:43:26.529Z,"7 km NNW of Concepción, Guatemala",earthquake,,,,,reviewed,unm,unm
+2010-12-11T03:45:59.970Z,13.575,-90.696,82.5,4,mb,18,262.8,,1.08,us,usp000hqsh,2014-11-07T01:43:06.145Z,"39 km S of Iztapa, Guatemala",earthquake,,17.2,,5,reviewed,us,us
+2010-11-09T10:26:49.140Z,14.373,-90.647,206.3,4.8,mb,63,142.4,,1.04,us,usp000hpak,2014-11-07T01:42:53.377Z,"4 km SSW of San Vicente Pacaya, Guatemala",earthquake,,,,36,reviewed,us,us
+2010-11-03T15:13:32.090Z,14.013,-90.188,10,4.2,mb,8,299.4,,0.9,us,usp000hnz5,2014-11-07T01:42:51.128Z,"4 km NNE of Pasaco, Guatemala",earthquake,,0,,2,reviewed,us,us
+2010-10-28T17:11:48.310Z,13.661,-91.012,37.6,4.8,mb,127,109.4,,1.05,us,usp000hnqa,2014-11-07T01:42:46.642Z,"35 km SW of Puerto San José, Guatemala",earthquake,,7.8,,72,reviewed,us,us
+2010-10-15T23:41:06.550Z,14.079,-91.37,59.2,5,mwc,245,83.8,,1.27,us,usp000hn55,2016-11-10T02:34:46.560Z,"15 km SSW of Nueva Concepción, Guatemala",earthquake,,,,,reviewed,us,gcmt
+2010-10-01T04:52:59.680Z,13.761,-90.45,87.9,4.6,mb,72,113.9,,0.9,us,usp000hmec,2014-11-07T01:42:34.830Z,"33 km SE of Iztapa, Guatemala",earthquake,,8.8,,41,reviewed,us,us
+2010-09-27T03:38:13.670Z,13.671,-90.559,61.9,3.8,mb,14,121,,1.13,us,usp000hm86,2014-11-07T01:42:31.167Z,"33 km SSE of Iztapa, Guatemala",earthquake,,14.4,,4,reviewed,us,us
+2010-09-11T02:40:26.050Z,13.862,-90.916,104.7,4.4,mb,75,119,,0.94,us,usp000hkjc,2014-11-07T01:42:26.127Z,"12 km SW of Puerto San José, Guatemala",earthquake,,10,,53,reviewed,us,us
+2010-08-19T22:13:02.600Z,14.03,-91.121,67.7,5.5,mwc,227,63.6,,1.26,us,usp000hjfs,2020-09-21T16:59:12.470Z,"9 km SW of La Gomera, Guatemala",earthquake,,5,,,reviewed,us,gcmt
+2010-08-18T15:12:35.030Z,14.002,-90.446,112.7,4.8,mb,77,112.7,,1.19,us,usp000hjd9,2015-03-24T02:37:37.826Z,"7 km SSE of Taxisco, Guatemala",earthquake,,6.9,,45,reviewed,us,us
+2010-08-13T09:31:44.870Z,13.855,-90.495,93.3,4.1,mb,25,191.4,,1.06,us,usp000hj1w,2014-11-07T01:42:13.953Z,"23 km S of Taxisco, Guatemala",earthquake,,12.9,,14,reviewed,us,us
+2010-07-07T07:19:43.860Z,14.13,-90.894,97.5,4.7,mb,145,115.5,,1.12,us,usp000hezp,2015-03-24T01:10:14.784Z,"9 km SSW of Masagua, Guatemala",earthquake,,6.1,,86,reviewed,us,us
+2010-07-04T06:08:50.850Z,13.717,-90.774,42.3,4.3,mb,35,104.5,,1.04,us,usp000hevy,2014-11-07T01:41:50.429Z,"23 km SSE of Puerto San José, Guatemala",earthquake,,,,21,reviewed,us,us
+2010-06-23T21:35:23.540Z,13.899,-90.668,99.1,4.4,mb,66,101.3,,1.03,us,usp000heek,2014-11-07T01:41:43.785Z,"5 km SE of Iztapa, Guatemala",earthquake,,11.4,,37,reviewed,us,us
+2010-06-20T23:22:02.660Z,14.056,-91.118,71.3,4.4,mb,85,108.2,,1.22,us,usp000heb4,2015-03-24T01:09:49.103Z,"7 km WSW of La Gomera, Guatemala",earthquake,,6.8,,33,reviewed,us,us
+2010-04-26T15:47:38.020Z,13.99,-90.519,115.7,4.2,mb,33,121.8,,1.36,us,usp000hbxr,2014-11-07T01:41:19.452Z,"10 km SSW of Taxisco, Guatemala",earthquake,,8,,11,reviewed,us,us
+2010-04-05T10:00:54.990Z,14.882,-91.245,204.3,4.7,mb,114,95,,1.19,us,usp000hahn,2015-03-24T01:07:24.334Z,"8 km ENE of Nahualá, Guatemala",earthquake,,4.4,,54,reviewed,us,us
+2010-03-24T17:08:28.460Z,14.004,-91.385,56.3,5,mwc,186,90.7,,1.18,us,usp000h9y1,2016-11-10T02:26:21.100Z,"23 km SSW of Nueva Concepción, Guatemala",earthquake,,5.1,,,reviewed,us,gcmt
+2010-03-05T21:34:36.970Z,13.59,-90.921,18.5,5,mb,40,121.4,,0.76,us,usp000h8sp,2014-11-07T01:40:56.292Z,"38 km SSW of Puerto San José, Guatemala",earthquake,,11.9,,17,reviewed,us,us
+2010-01-18T19:35:56.500Z,13.71,-90.341,68.5,4.3,mb,38,77.8,,1.36,us,usp000h6a7,2014-11-07T01:40:30.358Z,"32 km SSW of Pasaco, Guatemala",earthquake,,,,11,reviewed,us,us
+2010-01-18T15:40:26.440Z,13.728,-90.132,54.7,5.9,mwc,269,47.3,,1.43,us,usp000h69z,2020-09-21T16:29:46.184Z,"17 km SW of San Francisco Menéndez, El Salvador",earthquake,,,,,reviewed,us,gcmt
+2009-12-02T11:46:17.770Z,13.505,-90.627,35,5.1,mwc,141,95.8,,1.38,us,usp000h4ny,2016-11-10T02:21:08.285Z,"48 km S of Iztapa, Guatemala",earthquake,,,,,reviewed,us,gcmt
+2009-11-10T15:19:27.790Z,14.388,-90.268,191.8,4.5,mb,23,96.9,,1.38,us,usp000h3xz,2014-11-07T01:40:05.873Z,"1 km NE of Nueva Santa Rosa, Guatemala",earthquake,,8.6,,6,reviewed,us,us
+2009-10-06T08:10:10.150Z,13.861,-90.496,113.1,4.5,mb,37,120.6,,1.04,us,usp000h2ef,2014-11-07T01:39:52.796Z,"23 km S of Taxisco, Guatemala",earthquake,,6.5,,16,reviewed,us,us
+2009-10-02T04:42:05.670Z,14.667,-91.021,168.9,4.8,mb,287,70.9,,1.11,us,usp000h27f,2014-11-07T01:39:51.055Z,"1 km SSW of Patzún, Guatemala",earthquake,,,,159,reviewed,us,us
+2009-09-30T17:56:28.580Z,13.631,-90.433,87.3,4.2,mb,27,157.4,,1.22,us,usp000h23v,2014-11-07T01:39:46.500Z,"44 km SE of Iztapa, Guatemala",earthquake,,7.2,,6,reviewed,us,us
+2009-08-27T15:19:55.220Z,13.969,-91.311,65.5,4.1,mb,22,108.4,,1.14,us,usp000h0xn,2014-11-07T01:39:34.042Z,"25 km S of Nueva Concepción, Guatemala",earthquake,,15.1,,6,reviewed,us,us
+2009-08-27T09:55:17.880Z,14.485,-90.468,184.9,4.2,mb,20,123.7,,1.11,us,usp000h0x9,2014-11-07T01:39:34.003Z,"3 km NW of Fraijanes, Guatemala",earthquake,,10.6,,6,reviewed,us,us
+2009-08-25T05:58:12.550Z,13.703,-90.665,89.8,4.3,mb,61,100.6,,0.91,us,usp000h0uk,2014-11-07T01:39:33.573Z,"25 km S of Iztapa, Guatemala",earthquake,,10.8,,25,reviewed,us,us
+2009-05-22T00:24:21.100Z,13.875,-90.742,69.1,5.5,mwc,282,60.4,,1.16,us,usp000gxd3,2020-09-21T16:07:01.857Z,"7 km SSW of Iztapa, Guatemala",earthquake,,,,,reviewed,us,us
+2009-05-20T21:40:09.000Z,14.125,-90.949,137.2,4.2,md,11,166.4,,0.87,us,usp000gxbq,2014-11-07T01:38:59.803Z,"11 km S of La Democracia, Guatemala",earthquake,,10.4,,,reviewed,us,unm
+2009-05-03T21:59:47.530Z,14.547,-91.365,117.6,4.3,mb,31,68.7,,1.17,us,usp000gwtc,2014-11-07T01:38:54.676Z,"2 km N of San Miguel Panán, Guatemala",earthquake,,,,17,reviewed,us,us
+2009-05-03T16:21:45.270Z,14.546,-91.143,108,6.3,mwc,451,53,,1.24,us,usp000gwt5,2020-09-21T16:05:41.114Z,"5 km S of San Lucas Tolimán, Guatemala",earthquake,,,,,reviewed,us,gcmt
+2009-04-13T21:09:36.740Z,13.64,-90.968,70.8,4.3,mb,39,106.1,,1.33,us,usp000gw3q,2014-11-07T01:38:46.316Z,"35 km SSW of Puerto San José, Guatemala",earthquake,,12.4,,17,reviewed,us,us
+2009-04-12T00:18:56.640Z,14.327,-90.537,10,4.3,mb,30,121.2,,1.31,us,usp000gw1t,2014-11-07T01:38:46.030Z,"12 km NNW of Pueblo Nuevo Viñas, Guatemala",earthquake,,,,7,reviewed,us,us
+2009-04-07T20:50:10.910Z,14.395,-90.379,10,4.6,mb,42,88.4,,1.35,us,usp000gvw5,2015-03-24T00:59:28.219Z,"1 km NW of Santa Cruz Naranjo, Guatemala",earthquake,,,,28,reviewed,us,us
+2009-04-07T15:13:59.830Z,14.213,-90.403,10,4.4,mb,25,88.3,,1.11,us,usp000gvvr,2015-03-24T02:11:00.346Z,"8 km E of Pueblo Nuevo Viñas, Guatemala",earthquake,,,,8,reviewed,us,us
+2009-04-05T03:22:15.600Z,14.304,-90.425,10,4.9,mwc,75,107.3,,1.37,us,usp000gvsc,2016-11-10T02:10:27.146Z,"6 km W of Barberena, Guatemala",earthquake,,,,,reviewed,us,gcmt
+2009-04-05T02:10:45.960Z,14.31,-90.555,10,4.4,mb,47,112.9,,1.26,us,usp000gvsb,2015-03-24T01:54:06.172Z,"12 km NW of Pueblo Nuevo Viñas, Guatemala",earthquake,,,,24,reviewed,us,us
+2009-04-04T21:22:05.820Z,14.378,-90.413,10,5.2,mwc,94,93.9,,1.33,us,usp000gvs1,2016-11-10T02:10:26.612Z,"4 km WSW of Santa Cruz Naranjo, Guatemala",earthquake,,,,,reviewed,us,gcmt
+2009-04-04T20:55:51.820Z,14.052,-90.574,10,4.5,mb,42,112.9,,1.31,us,usp000gvs0,2015-03-24T02:04:42.017Z,"11 km W of Taxisco, Guatemala",earthquake,,,,21,reviewed,us,us
+2009-04-01T15:31:30.450Z,13.531,-90.763,62.9,4.4,mb,27,107.6,,1.46,us,usp000gvnd,2014-11-07T01:38:42.194Z,"44 km S of Puerto San José, Guatemala",earthquake,,13.4,,1,reviewed,us,us
+2009-03-09T06:01:11.140Z,13.54,-90.57,49.8,5.4,mwc,255,49.2,,1.3,us,usp000gusg,2016-11-10T02:09:10.200Z,"45 km SSE of Iztapa, Guatemala",earthquake,,,,,reviewed,us,gcmt
+2009-03-08T22:15:02.790Z,14.046,-91.356,59,5,mwc,183,64.6,,1.01,us,usp000gury,2016-11-10T02:09:08.837Z,"18 km SSW of Nueva Concepción, Guatemala",earthquake,,,,,reviewed,us,gcmt
+2009-01-01T11:44:51.680Z,14.727,-91.388,169.1,4.7,mb,29,113.8,,1.17,us,usp000grz7,2014-11-07T01:38:07.332Z,"8 km SSW of Santa Catarina Ixtahuacán, Guatemala",earthquake,,6,,9,reviewed,us,us
+2008-12-26T15:28:15.430Z,13.498,-90.682,23.6,4,mb,15,177.8,,1.18,us,usp000grhw,2014-11-07T01:38:03.059Z,"48 km S of Iztapa, Guatemala",earthquake,,26.1,,1,reviewed,us,us
+2008-12-26T04:52:29.180Z,13.526,-90.379,66.4,3.8,mb,20,165.9,,1.33,us,usp000grgq,2014-11-07T01:38:02.947Z,"52 km SW of San Francisco Menéndez, El Salvador",earthquake,,10.9,,7,reviewed,us,us
+2008-11-24T00:29:01.030Z,14.403,-91.404,112.2,3.5,mb,16,165.9,,0.66,us,usp000gpap,2014-11-07T01:37:47.115Z,"5 km SSE of San José El Ídolo, Guatemala",earthquake,,11.7,,2,reviewed,us,us
+2008-11-11T15:05:55.730Z,14.028,-90.601,91.5,5.1,mwc,157,61.5,,1.08,us,usp000gnfg,2016-11-10T02:03:56.864Z,"15 km WSW of Taxisco, Guatemala",earthquake,,,,,reviewed,us,gcmt
+2008-11-01T19:04:30.220Z,13.522,-90.624,64.8,4.2,mb,32,130.4,,1.6,us,usp000gmmq,2014-11-07T01:37:38.300Z,"46 km S of Iztapa, Guatemala",earthquake,,13.3,,9,reviewed,us,us
+2008-10-24T15:12:43.920Z,13.797,-90.559,35,3.3,mb,11,168.6,,1.62,us,usp000gky6,2014-11-07T01:37:32.048Z,"22 km SE of Iztapa, Guatemala",earthquake,,,,1,reviewed,us,us
+2008-10-18T09:41:31.750Z,14.212,-90.356,193.7,4.4,mb,12,130.1,,1.05,us,usp000gkgt,2014-11-07T01:37:30.162Z,"9 km WNW of Santa María Ixhuatán, Guatemala",earthquake,,9.1,,1,reviewed,us,us
+2008-09-20T18:52:11.200Z,14.111,-91.184,129.5,4.2,md,4,312.5,,,us,usp000ghee,2014-11-07T01:37:13.854Z,"14 km WNW of La Gomera, Guatemala",earthquake,,,,,reviewed,unm,unm
+2008-09-16T02:53:29.750Z,13.783,-91.189,56.6,4.7,mb,123,131.2,,0.95,us,usp000gh4j,2014-11-07T01:37:12.384Z,"36 km SSW of La Gomera, Guatemala",earthquake,,7.1,,74,reviewed,us,us
+2008-08-18T19:11:50.500Z,14.245,-90.033,234.2,4.7,mb,95,103.1,,1.23,us,usp000geyr,2014-11-07T01:36:56.475Z,"2 km SSE of Quesada, Guatemala",earthquake,,,,59,reviewed,us,us
+2008-08-16T01:31:24.860Z,13.974,-91.198,73.1,3.9,mb,22,177.6,,0.98,us,usp000ges3,2014-11-07T01:36:54.375Z,"19 km SW of La Gomera, Guatemala",earthquake,,11.1,,9,reviewed,us,us
+2008-07-31T09:33:52.030Z,13.544,-90.665,59.6,4.6,mb,109,88,,1.17,us,usp000gdhk,2014-11-07T01:36:44.754Z,"43 km S of Iztapa, Guatemala",earthquake,,7.3,,68,reviewed,us,us
+2008-07-28T12:59:36.900Z,14.114,-91.344,71.5,3.6,mb,8,169.7,,1.03,us,usp000gdaz,2014-11-07T01:36:43.681Z,"10 km SSW of Nueva Concepción, Guatemala",earthquake,,20.5,,1,reviewed,us,us
+2008-07-23T17:29:46.440Z,14.343,-90.776,10,4,mb,11,180.5,,1.24,us,usp000gd00,2014-11-07T01:36:42.234Z,"4 km NNE of Escuintla, Guatemala",earthquake,,,,3,reviewed,us,us
+2008-07-09T11:57:37.300Z,14.36,-90.084,75.2,4.1,md,5,197.7,,,us,usp000gbqy,2014-11-07T01:36:36.068Z,"10 km NNW of Quesada, Guatemala",earthquake,,,,,reviewed,unm,unm
+2008-07-06T11:22:50.910Z,14.443,-89.925,235.6,4.3,mb,33,155.5,,1.02,us,usp000gbfk,2014-11-07T01:36:35.011Z,"8 km SW of Monjas, Guatemala",earthquake,,8.4,,20,reviewed,us,us
+2008-06-13T03:00:48.810Z,14.389,-91.473,93.3,5,mwc,140,72.2,,1.24,us,usp000g9dv,2016-11-10T01:57:21.253Z,"8 km SW of San José El Ídolo, Guatemala",earthquake,,,,,reviewed,us,gcmt
+2008-06-09T15:00:32.240Z,14.153,-91.166,90,3.9,mb,22,121.8,,1.28,us,usp000g913,2014-11-07T01:36:17.392Z,"14 km WNW of La Gomera, Guatemala",earthquake,,11.6,,5,reviewed,us,us
+2008-06-06T07:41:29.550Z,14.428,-90.149,243.7,4,mb,15,161.1,,1.46,us,usp000g8q4,2014-11-07T01:36:15.439Z,"6 km SSE of San Rafael Las Flores, Guatemala",earthquake,,11.3,,7,reviewed,us,us
+2008-06-06T03:29:52.320Z,13.668,-91.106,89.4,4.3,mb,91,176.8,,0.9,us,usp000g8pq,2014-11-07T01:36:15.380Z,"42 km SW of Puerto San José, Guatemala",earthquake,,8.7,,58,reviewed,us,us
+2008-05-27T11:27:55.800Z,13.616,-91.02,26,5.7,mwc,258,51.5,,1.32,us,usp000g7wm,2020-09-21T15:33:24.240Z,"40 km SSW of Puerto San José, Guatemala",earthquake,,,,,reviewed,us,us
+2008-05-26T10:34:35.070Z,13.75,-91.245,60.8,4.3,mb,43,95.8,,1.34,us,usp000g7ty,2014-11-07T01:36:06.523Z,"42 km SSW of La Gomera, Guatemala",earthquake,,9.3,,17,reviewed,us,us
+2008-05-25T04:17:05.680Z,14.407,-91.451,87.6,4.3,mb,61,167.3,,1.37,us,usp000g7qm,2014-11-07T01:36:06.058Z,"5 km SSW of San José El Ídolo, Guatemala",earthquake,,,,34,reviewed,us,us
+2008-05-18T19:44:15.680Z,13.821,-90.643,84.1,4.2,mb,42,107.5,,1.21,us,usp000g76e,2014-11-07T01:36:03.070Z,"14 km SSE of Iztapa, Guatemala",earthquake,,7.8,,15,reviewed,us,us
+2008-05-01T00:02:53.700Z,14.643,-91.342,187,4.2,mb,20,80.4,,,us,usp000g57h,2014-11-07T01:35:46.983Z,"7 km E of Santo Tomás La Unión, Guatemala",earthquake,,,,3,reviewed,unm,us
+2008-04-18T07:03:08.180Z,14.489,-90.646,185.8,4,mb,29,114.3,,1.2,us,usp000g47e,2014-11-07T01:35:39.823Z,"1 km NW of Amatitlán, Guatemala",earthquake,,6.6,,7,reviewed,us,us
+2008-04-17T21:10:54.980Z,14.239,-91.016,78.2,3.7,mb,7,197.2,,0.87,us,usp000g46d,2014-11-07T01:35:39.687Z,"7 km W of La Democracia, Guatemala",earthquake,,19.7,,1,reviewed,us,us
+2008-04-17T04:19:31.470Z,13.64,-90.889,35,4.2,md,6,182.7,,0.95,us,usp000g44q,2014-11-07T01:35:39.234Z,"32 km SSW of Puerto San José, Guatemala",earthquake,,,,,reviewed,us,unm
+2008-04-15T03:03:04.660Z,13.564,-90.599,33,6.1,mwc,372,25.5,,1.4,us,usp000g3y3,2020-09-18T22:10:54.624Z,"42 km SSE of Iztapa, Guatemala",earthquake,,,,,reviewed,us,us
+2008-04-06T22:09:16.070Z,14.307,-91.332,90.2,4.3,md,20,166.2,,1.22,us,usp000g38h,2014-11-07T01:35:32.655Z,"4 km NE of Tiquisate, Guatemala",earthquake,,8.4,,,reviewed,us,unm
+2008-04-06T20:50:44.290Z,14.479,-90.548,181.8,4.7,mb,37,132.4,,1.1,us,usp000g38a,2014-11-07T01:35:32.585Z,"1 km WSW of Villa Canales, Guatemala",earthquake,,8.8,,15,reviewed,us,us
+2008-04-04T12:11:55.230Z,14.071,-91.086,84,5,mwc,250,60.7,,1.17,us,usp000g33m,2016-11-10T01:54:04.036Z,"3 km WSW of La Gomera, Guatemala",earthquake,,4.9,,,reviewed,us,gcmt
+2008-03-23T21:07:31.120Z,14.411,-90.45,37.4,4.1,md,7,175.8,,0.35,us,usp000g25q,2014-11-07T01:35:18.510Z,"6 km S of Fraijanes, Guatemala",earthquake,,15.2,,,reviewed,us,unm
+2008-03-13T08:27:37.400Z,14.644,-90.395,102.9,4.3,md,8,262.5,,,us,usp000g1cx,2014-11-07T01:35:14.962Z,"4 km WSW of Palencia, Guatemala",earthquake,,,,,reviewed,unm,unm
+2008-02-28T13:19:53.270Z,13.652,-90.46,81.3,3.8,md,11,188.1,,1.52,us,usp000g07e,2014-11-07T01:35:04.863Z,"41 km SE of Iztapa, Guatemala",earthquake,,15.4,,,reviewed,us,snet
+2008-02-25T07:19:26.310Z,14.263,-89.732,192,4.3,mb,12,170.5,,1.27,us,usp000fzwz,2014-11-07T01:35:03.326Z,"8 km SSW of Asunción Mita, Guatemala",earthquake,,14.1,,2,reviewed,us,us
+2008-02-19T21:36:56.250Z,14.819,-90.858,208.3,3.8,mb,20,112.5,,0.98,us,usp000fz92,2014-11-07T01:34:58.954Z,"5 km E of San José Poaquil, Guatemala",earthquake,,8.2,,4,reviewed,us,us
+2008-02-05T11:50:21.170Z,14.279,-90.558,135.8,4,mb,13,117.7,,1.15,us,usp000fy7t,2014-11-07T01:34:54.121Z,"10 km WNW of Pueblo Nuevo Viñas, Guatemala",earthquake,,9.6,,2,reviewed,us,us
+2008-01-11T16:39:27.200Z,13.606,-90.436,85.9,4.3,mb,46,96.2,,1.42,us,usp000fwg3,2014-11-07T01:34:40.310Z,"46 km SE of Iztapa, Guatemala",earthquake,,7.5,,16,reviewed,us,us
+2008-01-10T18:04:21.150Z,14.183,-89.835,237,4.8,mb,78,72.4,,1.11,us,usp000fwdt,2014-11-07T01:34:40.060Z,"1 km NNW of El Adelanto, Guatemala",earthquake,,,,43,reviewed,us,us
+2008-01-07T17:27:04.050Z,14.185,-90.952,95,4.7,mb,20,116.1,,1.16,us,usp000fw6q,2014-11-07T01:34:38.086Z,"4 km S of La Democracia, Guatemala",earthquake,,9.9,,2,reviewed,us,us
+2008-01-05T01:56:45.460Z,14.129,-91.479,66.2,5.6,mwc,357,27.6,,1.45,us,usp000fvzw,2020-09-18T22:02:06.967Z,"20 km WSW of Nueva Concepción, Guatemala",earthquake,,,,,reviewed,us,us
+2007-12-31T22:00:29.350Z,13.698,-90.798,65.7,5,mwc,160,89.6,,1.02,us,usp000fvrb,2016-11-10T01:50:15.024Z,"25 km S of Puerto San José, Guatemala",earthquake,,5.5,,,reviewed,us,gcmt
+2007-12-17T22:23:48.720Z,14.341,-90.011,255.6,4.6,mb,53,105.8,,1.3,us,usp000funm,2014-11-07T01:34:26.272Z,"8 km NNE of Quesada, Guatemala",earthquake,,7.1,,19,reviewed,us,us
+2007-12-01T01:39:31.030Z,14.945,-90.966,248.6,4.5,mb,15,147.8,,1.14,us,usp000ftmp,2014-11-07T01:34:18.390Z,"12 km SSE of Chinique, Guatemala",earthquake,,13.5,,4,reviewed,us,us
+2007-11-14T17:35:41.250Z,13.8,-90.748,57,5.2,mb,198,61,,1.46,us,usp000fsjh,2015-05-13T18:53:53.000Z,"15 km SSW of Iztapa, Guatemala",earthquake,,,,68,reviewed,us,us
+2007-10-29T04:31:07.440Z,14.701,-90.888,206.8,4.7,mb,61,141.5,,1.08,us,usp000frh4,2014-11-07T01:34:00.375Z,"3 km ENE of Santa Cruz Balanyá, Guatemala",earthquake,,,,24,reviewed,us,us
+2007-09-09T01:25:43.830Z,13.82,-90.822,108.5,4.7,md,18,148.4,,1.07,us,usp000fmr1,2014-11-07T01:33:31.882Z,"11 km S of Puerto San José, Guatemala",earthquake,,8.8,,,reviewed,us,unm
+2007-09-03T21:21:16.050Z,13.585,-90.224,80.1,4.5,mb,18,106.9,,1.33,us,usp000fmcn,2014-11-07T01:33:30.123Z,"36 km SW of San Francisco Menéndez, El Salvador",earthquake,,10.9,,1,reviewed,us,us
+2007-08-30T04:05:35.570Z,13.906,-91.338,62.6,4.5,md,19,116.5,,0.89,us,usp000fkzj,2014-11-07T01:33:24.452Z,near the coast of Guatemala,earthquake,,8.2,,,reviewed,us,unm
+2007-08-24T00:37:05.390Z,13.582,-90.964,67.2,3.8,mb,20,160.6,,1.52,us,usp000fkjb,2014-11-07T01:33:22.263Z,"41 km SSW of Puerto San José, Guatemala",earthquake,,12.5,,1,reviewed,us,us
+2007-08-23T09:16:42.940Z,14.448,-90.447,203.5,4.9,mb,158,63.7,,1.03,us,usp000fkgv,2014-11-07T01:33:21.651Z,"2 km SSW of Fraijanes, Guatemala",earthquake,,3.8,,47,reviewed,us,us
+2007-08-12T06:13:37.850Z,14.104,-91.323,79.2,4.8,mb,191,72,,0.87,us,usp000fjfd,2015-03-24T00:50:37.075Z,"10 km SSW of Nueva Concepción, Guatemala",earthquake,,,,100,reviewed,us,us
+2007-08-06T17:03:17.880Z,13.561,-90.759,62.6,4.3,mb,44,93.5,,1.21,us,usp000fj1n,2014-11-07T01:33:12.688Z,"41 km S of Puerto San José, Guatemala",earthquake,,,,14,reviewed,us,us
+2007-07-24T02:51:56.900Z,14.232,-91.346,102.8,4.3,mb,27,186.5,,1.34,us,usp000fgzc,2014-11-07T01:33:02.933Z,"5 km SSE of Tiquisate, Guatemala",earthquake,,9.2,,8,reviewed,us,us
+2007-07-23T22:30:08.450Z,14.381,-90.954,113,5.5,mwb,400,36.7,,1.03,us,usp000fgys,2020-09-18T21:40:20.186Z,"9 km NE of Santa Lucía Cotzumalguapa, Guatemala",earthquake,,,,,reviewed,us,us
+2007-07-15T09:07:20.550Z,13.789,-90.179,90.7,4.8,mb,14,100.3,,1.44,us,usp000fg75,2014-11-07T01:32:57.666Z,"18 km WSW of San Francisco Menéndez, El Salvador",earthquake,,14.4,,2,reviewed,us,us
+2007-07-11T21:36:31.800Z,14.616,-91.219,187.3,4.4,md,4,323.4,,,us,usp000fg02,2014-11-07T01:32:56.584Z,"2 km SSE of Santiago Atitlán, Guatemala",earthquake,,,,,reviewed,unm,unm
+2007-06-25T00:36:24.140Z,14.265,-91.045,35,3.8,mb,6,205,,1.38,us,usp000fery,2014-11-07T01:32:45.674Z,"8 km SSW of Santa Lucía Cotzumalguapa, Guatemala",earthquake,,,,1,reviewed,us,us
+2007-06-13T19:29:40.180Z,13.554,-90.618,23,6.7,mwc,468,37.7,,1.09,us,usp000fdyv,2020-09-18T21:36:42.314Z,"43 km SSE of Iztapa, Guatemala",earthquake,,,,,reviewed,us,gcmt
+2007-06-08T15:08:38.050Z,13.639,-90.802,38.9,5.5,mwc,191,51.1,,1.24,us,usp000fdmu,2020-09-18T21:36:32.914Z,"31 km S of Puerto San José, Guatemala",earthquake,,,,,reviewed,us,gcmt
+2007-06-08T13:55:58.590Z,13.771,-90.813,78.9,4.6,mb,47,113.1,,1.09,us,usp000fdmm,2014-11-07T01:32:40.400Z,"17 km S of Puerto San José, Guatemala",earthquake,,9.3,,22,reviewed,us,us
+2007-06-08T13:32:00.770Z,13.835,-90.766,47.8,5.8,mwb,401,50.4,,1.47,us,usp000fdmh,2020-09-18T21:36:23.894Z,"11 km SSE of Puerto San José, Guatemala",earthquake,,,,,reviewed,us,us
+2007-06-07T08:34:14.070Z,14.035,-91.24,68.1,4.1,md,22,108.3,,1.19,us,usp000fdj1,2014-11-07T01:32:40.003Z,"19 km SSE of Nueva Concepción, Guatemala",earthquake,,,,,reviewed,us,gcg
+2007-06-06T12:33:24.310Z,13.894,-89.859,42.7,3.6,mb,8,124.9,,0.83,us,usp000fdg3,2014-11-07T01:32:39.758Z,"2 km NNW of Concepción de Ataco, El Salvador",earthquake,,50.5,,1,reviewed,us,us
+2007-06-03T09:30:30.780Z,13.77,-90.967,87.3,3.8,mb,10,217.2,,0.74,us,usp000fd9g,2014-11-07T01:32:38.493Z,"23 km SW of Puerto San José, Guatemala",earthquake,,18.8,,1,reviewed,us,us
+2007-05-30T02:17:52.000Z,14.499,-90.307,202.7,3.9,mb,10,196.9,,1.16,us,usp000fd12,2014-11-07T01:32:33.512Z,"11 km NW of Casillas, Guatemala",earthquake,,16.6,,2,reviewed,us,us
+2007-05-07T12:32:38.730Z,13.644,-90.652,57.1,4.6,mb,90,93.5,,1.14,us,usp000fbfb,2014-11-07T01:32:25.560Z,"32 km S of Iztapa, Guatemala",earthquake,,,,30,reviewed,us,us
+2007-04-25T06:09:42.750Z,13.893,-90.977,74.6,4.4,mb,32,96.6,,1.19,us,usp000fajf,2014-11-07T01:32:16.197Z,"17 km WSW of Puerto San José, Guatemala",earthquake,,,,10,reviewed,us,us
+2007-04-17T18:42:20.180Z,14.568,-89.979,244.4,4.5,mb,7,145.5,,0.84,us,usp000f9y3,2014-11-07T01:32:13.066Z,"7 km S of Jalapa, Guatemala",earthquake,,14.4,,2,reviewed,us,us
+2007-03-16T14:24:25.580Z,14.298,-91.249,107.7,4.4,mb,53,79,,1.29,us,usp000f6ud,2014-11-07T01:31:52.988Z,"12 km E of Tiquisate, Guatemala",earthquake,,6.6,,20,reviewed,us,us
+2007-03-14T21:20:20.040Z,13.856,-90.424,10,4.4,mb,17,120.9,,1.31,us,usp000f6qq,2014-11-07T01:31:52.531Z,"23 km SSE of Taxisco, Guatemala",earthquake,,,,2,reviewed,us,us
+2007-03-09T22:03:56.760Z,13.808,-90.232,35,4.4,mb,16,101.7,,1.46,us,usp000f6d9,2014-11-07T01:31:50.849Z,"18 km S of Pasaco, Guatemala",earthquake,,,,5,reviewed,us,us
+2007-03-07T18:59:55.000Z,14.232,-91.264,94.2,4.2,mb,30,116.5,,1.33,us,usp000f69g,2014-11-07T01:31:49.787Z,"5 km NE of Nueva Concepción, Guatemala",earthquake,,7.6,,3,reviewed,us,us
+2007-03-05T07:36:53.450Z,13.959,-91.416,63.2,4.4,mb,91,116.6,,1.09,us,usp000f645,2014-11-07T01:31:48.875Z,"29 km SSW of Nueva Concepción, Guatemala",earthquake,,,,30,reviewed,us,us
+2007-02-06T03:29:22.020Z,14.498,-90.697,35,4.1,mb,28,164.7,,1.37,us,usp000f4by,2015-03-24T00:49:05.576Z,"1 km ENE of Santa María de Jesús, Guatemala",earthquake,,,,7,reviewed,us,us
+2007-01-19T10:49:23.680Z,13.898,-91.254,68.5,4,mb,10,178.8,,1.19,us,usp000f2zq,2014-11-07T01:31:24.569Z,"29 km SW of La Gomera, Guatemala",earthquake,,15.2,,1,reviewed,us,us
+2007-01-04T12:24:53.780Z,13.498,-90.616,78.6,4.3,mb,25,135.9,,1.14,us,usp000f1pu,2014-11-07T01:31:18.389Z,"49 km SSE of Iztapa, Guatemala",earthquake,,8.4,,9,reviewed,us,us
+2007-01-01T14:39:57.440Z,13.746,-90.426,68,4.3,mb,44,112.6,,1.32,us,usp000f1gt,2014-11-07T01:31:16.363Z,"34 km SW of Pasaco, Guatemala",earthquake,,,,18,reviewed,us,us
+2006-12-30T17:42:14.570Z,13.79,-90.515,69.8,5.2,mwc,176,43.4,,1.03,us,usp000f1bn,2016-11-10T01:32:51.161Z,"26 km SE of Iztapa, Guatemala",earthquake,,,,,reviewed,us,gcmt
+2006-12-20T07:52:24.390Z,14.028,-89.785,10,4.1,mb,14,159.9,,1.8,us,usp000f0mk,2014-11-07T01:31:10.159Z,"6 km NNW of Atiquizaya, El Salvador",earthquake,,0,,2,reviewed,us,us
+2006-12-03T20:52:15.910Z,13.994,-91.207,61.2,6,mwc,455,34.9,,0.99,us,usp000ezf4,2020-09-18T21:17:41.271Z,"19 km WSW of La Gomera, Guatemala",earthquake,,,,,reviewed,us,gcmt
+2006-10-19T17:42:01.130Z,13.78,-90.449,92.1,4.5,mb,24,112.5,,1.36,us,usp000evj0,2014-11-07T01:30:36.013Z,"31 km S of Taxisco, Guatemala",earthquake,,,,7,reviewed,us,us
+2006-10-18T08:18:08.810Z,13.695,-91.075,51.9,4.1,mb,12,160.3,,1.81,us,usp000evet,2014-11-07T01:30:35.334Z,"37 km SW of Puerto San José, Guatemala",earthquake,,24.7,,1,reviewed,us,us
+2006-09-02T13:20:31.280Z,14.178,-91.338,81.3,5,mwc,105,61,,0.99,us,usp000esax,2016-11-10T01:27:48.355Z,"4 km WSW of Nueva Concepción, Guatemala",earthquake,,,,,reviewed,us,gcmt
+2006-08-28T02:35:16.180Z,13.514,-90.672,35,4.3,mb,41,157,,1.14,us,usp000erxs,2014-11-07T01:30:02.664Z,"46 km S of Iztapa, Guatemala",earthquake,,,,15,reviewed,us,us
+2006-08-25T22:59:41.930Z,14.744,-91.032,190.7,4.9,mwc,183,62.5,,0.95,us,usp000errs,2016-11-10T01:27:28.059Z,"4 km WSW of Tecpán Guatemala, Guatemala",earthquake,,4,,,reviewed,us,hrv
+2006-08-10T07:03:02.180Z,13.642,-90.518,61.6,5.4,mwc,292,59.9,,1.02,us,usp000eqmw,2016-11-10T01:26:44.992Z,"38 km SSE of Iztapa, Guatemala",earthquake,,,,,reviewed,us,hrv
+2006-06-28T08:45:18.730Z,14.533,-90.604,207.3,4.2,mb,23,128.5,,1.26,us,usp000emfm,2014-11-07T01:29:29.592Z,"2 km WNW of Villa Nueva, Guatemala",earthquake,,9,,6,reviewed,us,us
+2006-04-18T18:10:43.280Z,14.127,-90.93,19,4.3,mb,16,173.9,,1.2,us,usp000eevk,2014-11-07T01:28:51.716Z,"11 km S of La Democracia, Guatemala",earthquake,,43.1,,6,reviewed,us,us
+2006-02-28T08:29:47.180Z,13.7,-90.384,93.3,4.6,mb,22,115.4,,1.36,us,usp000eb1c,2014-11-07T01:28:22.877Z,"36 km SSW of Pasaco, Guatemala",earthquake,,10.1,,1,reviewed,us,us
+2006-02-13T14:35:27.450Z,14.213,-91.074,98.1,4.4,mb,31,121.7,,1.29,us,usp000ea0h,2014-11-07T01:28:18.286Z,"13 km W of La Democracia, Guatemala",earthquake,,8,,3,reviewed,us,us
+2006-02-02T17:09:44.570Z,14.03,-90.578,127,4.4,mb,35,107.4,,1.32,us,usp000e9az,2014-11-07T01:28:14.479Z,"12 km WSW of Taxisco, Guatemala",earthquake,,15.5,,7,reviewed,us,us
+2006-01-22T16:09:55.760Z,13.896,-90.659,75.5,4.8,mb,148,61.6,,1.16,us,usp000e8nz,2015-03-24T00:46:34.440Z,"6 km SE of Iztapa, Guatemala",earthquake,,,,67,reviewed,us,us
+2006-01-03T12:28:13.830Z,13.71,-90.117,82.3,5.1,mwc,99,37.8,,1.44,us,usp000e7gz,2016-11-10T01:16:28.970Z,"18 km SW of San Francisco Menéndez, El Salvador",earthquake,,,,,reviewed,us,hrv
+2006-01-01T10:22:45.110Z,13.759,-91.024,46.2,4.1,mb,24,147.1,,1.35,us,usp000e7bc,2014-11-07T01:28:01.072Z,"28 km SW of Puerto San José, Guatemala",earthquake,,11.9,,7,reviewed,us,us
+2005-12-13T14:14:34.770Z,13.691,-90.006,104.9,4.4,mb,13,184.8,,1.04,us,usp000e635,2014-11-07T01:27:53.402Z,"16 km S of San Francisco Menéndez, El Salvador",earthquake,,23.1,,3,reviewed,us,us
+2005-10-28T08:31:19.710Z,13.779,-90.272,93.7,4.6,mb,117,72,,1.19,us,usp000e30c,2014-11-07T01:27:29.820Z,"23 km SSW of Pasaco, Guatemala",earthquake,,,,39,reviewed,us,us
+2005-10-20T19:31:13.000Z,14.149,-91.134,73.4,4.6,mb,48,134.2,,1.54,us,usp000e2bg,2014-11-07T01:27:27.094Z,"11 km NW of La Gomera, Guatemala",earthquake,,10.5,,22,reviewed,us,us
+2005-10-19T23:30:25.080Z,13.698,-91.141,50.9,4.4,mb,61,137.3,,1.22,us,usp000e29k,2014-11-07T01:27:26.847Z,"42 km SW of Puerto San José, Guatemala",earthquake,,8.2,,24,reviewed,us,us
+2005-09-19T13:18:09.800Z,14.65,-91.465,199.7,4.6,md,12,192.7,,,us,usp000dzr0,2014-11-07T01:27:06.063Z,"6 km WNW of Santo Tomás La Unión, Guatemala",earthquake,,,,,reviewed,unm,unm
+2005-09-17T03:41:46.260Z,14.304,-90.377,183.2,4.8,mb,93,88,,1,us,usp000dzkc,2014-11-07T01:27:05.083Z,"1 km WSW of Barberena, Guatemala",earthquake,,,,34,reviewed,us,us
+2005-09-05T12:58:44.300Z,14.262,-91.422,15,3.4,mb,6,189.2,,0.72,us,usp000dytr,2014-11-07T01:27:00.706Z,"7 km WSW of Tiquisate, Guatemala",earthquake,,0,,1,reviewed,us,us
+2005-08-17T02:26:05.830Z,13.769,-90.533,65.1,4.3,mb,45,147.4,,1.14,us,usp000dxgn,2014-11-07T01:26:49.752Z,"26 km SE of Iztapa, Guatemala",earthquake,,,,14,reviewed,us,us
+2005-08-12T11:13:09.040Z,14.135,-90.958,82.4,3.8,mb,15,197.7,,0.78,us,usp000dx6n,2014-11-07T01:26:48.466Z,"10 km S of La Democracia, Guatemala",earthquake,,24.9,,4,reviewed,us,us
+2005-08-08T22:26:42.190Z,14.142,-90.553,87.4,4.1,mb,5,172.5,,0.05,us,usp000dwza,2014-11-07T01:26:47.410Z,"12 km NW of Taxisco, Guatemala",earthquake,,23.1,,1,reviewed,us,us
+2005-07-26T22:27:14.900Z,14.066,-90.917,63.2,4,mb,21,164.6,,1.15,us,usp000dw0g,2014-11-07T01:26:34.183Z,"14 km E of La Gomera, Guatemala",earthquake,,,,7,reviewed,us,us
+2005-07-09T10:02:37.290Z,14.293,-91.277,94.4,4.2,mb,29,158.6,,1.3,us,usp000duuk,2014-11-07T01:26:27.774Z,"9 km E of Tiquisate, Guatemala",earthquake,,11.5,,6,reviewed,us,us
+2005-06-18T16:18:11.280Z,14.341,-91.187,78.4,4.4,md,15,163.4,,1.44,us,usp000dtc8,2014-11-07T01:26:15.016Z,"9 km S of San Juan Bautista, Guatemala",earthquake,,12.6,,,reviewed,us,unm
+2005-06-06T00:22:23.850Z,13.806,-89.942,97.7,4,mb,24,68.6,,1.11,us,usp000dsat,2014-11-07T01:26:07.836Z,"8 km ESE of San Francisco Menéndez, El Salvador",earthquake,,,,8,reviewed,us,us
+2005-05-30T11:13:55.500Z,14.074,-91.409,63.2,5.2,mwc,206,67.9,,1.24,us,usp000drwe,2016-11-10T01:06:48.429Z,"18 km SW of Nueva Concepción, Guatemala",earthquake,,,,,reviewed,us,hrv
+2005-05-18T05:27:20.240Z,13.538,-90.621,68.7,4.5,mb,85,107.4,,1.22,us,usp000dr33,2014-11-07T01:25:55.465Z,near the coast of Guatemala,earthquake,,13.1,,41,reviewed,us,us
+2005-05-17T10:13:13.010Z,14.475,-91.123,135.1,3.9,mb,12,191.5,,0.83,us,usp000dr0x,2014-11-07T01:25:55.283Z,"7 km NE of Patulul, Guatemala",earthquake,,16.2,,3,reviewed,us,us
+2005-04-14T09:32:04.250Z,13.944,-90.455,75.1,4.2,mb,18,174.7,,0.91,us,usp000dnar,2014-11-07T01:25:35.486Z,"13 km S of Taxisco, Guatemala",earthquake,,8.3,,9,reviewed,us,us
+2005-04-12T02:40:26.540Z,14.078,-91.163,92.9,5.4,mwc,327,72,,0.88,us,usp000dn4a,2016-11-10T01:04:51.701Z,"11 km W of La Gomera, Guatemala",earthquake,,4.3,,,reviewed,us,hrv
+2005-03-19T09:04:35.180Z,13.85,-91.014,87.1,4,mb,18,180.7,,1.04,us,usp000djhx,2014-11-07T01:25:16.429Z,"22 km WSW of Puerto San José, Guatemala",earthquake,,9.2,,1,reviewed,us,us
+2005-03-18T08:46:35.960Z,14.187,-90.652,131.9,4.1,mb,15,193.7,,1.05,us,usp000djf2,2014-11-07T01:25:16.053Z,"4 km SSW of Guanagazapa, Guatemala",earthquake,,15.9,,3,reviewed,us,us
+2005-02-26T09:46:16.280Z,14.193,-91.4,69.9,4.6,mb,101,79.1,,1,us,usp000dh06,2014-11-07T01:25:03.886Z,"10 km W of Nueva Concepción, Guatemala",earthquake,,,,47,reviewed,us,us
+2005-02-05T12:10:22.370Z,14.33,-91.297,67.5,4.2,mb,23,176,,1.35,us,usp000dfj1,2014-11-07T01:24:56.301Z,"8 km SSE of Río Bravo, Guatemala",earthquake,,,,13,reviewed,us,us
+2005-01-20T11:53:46.000Z,13.632,-90.845,62.2,4.4,mb,55,81.2,,1.11,us,usp000ddv5,2014-11-07T01:24:42.182Z,"32 km S of Puerto San José, Guatemala",earthquake,,10.1,,30,reviewed,us,us
+2005-01-20T00:58:25.920Z,13.589,-90.239,81,4,mb,20,171.5,,1.44,us,usp000ddu4,2014-11-07T01:24:42.052Z,"37 km SW of San Francisco Menéndez, El Salvador",earthquake,,11.3,,7,reviewed,us,us
+2005-01-18T03:42:41.970Z,13.628,-90.982,62.2,4.4,mb,37,183.7,,1.32,us,usp000ddn6,2014-11-07T01:24:40.833Z,"37 km SSW of Puerto San José, Guatemala",earthquake,,10.5,,14,reviewed,us,us
+2005-01-11T03:13:57.160Z,14.594,-90.769,142,3.9,mb,11,124.6,,1.13,us,usp000dd16,2014-11-07T01:24:37.053Z,"1 km W of Pastores, Guatemala",earthquake,,16.3,,1,reviewed,us,us
+2005-01-08T02:52:52.890Z,13.764,-90.122,73.7,4.5,md,21,174.5,,1.16,us,usp000dcs0,2014-11-07T01:24:35.610Z,"14 km SW of San Francisco Menéndez, El Salvador",earthquake,,9.8,,,reviewed,us,unm
+2004-12-11T16:35:49.380Z,14.95,-90.813,206.7,4.6,mb,29,113.4,,1.04,us,usp000dafx,2014-11-07T01:24:15.822Z,"4 km SSW of Joyabaj, Guatemala",earthquake,,12.6,,14,reviewed,us,us
+2004-12-07T02:11:02.690Z,13.996,-91.145,80.2,3.9,mb,16,198.3,,1.33,us,usp000da7w,2014-11-07T01:24:14.793Z,"13 km SW of La Gomera, Guatemala",earthquake,,12.6,,4,reviewed,us,us
+2004-12-05T22:12:27.490Z,14.185,-91.199,77.1,4.2,mb,35,108.3,,1.29,us,usp000da4t,2014-11-07T01:24:14.201Z,"11 km E of Nueva Concepción, Guatemala",earthquake,,8.6,,14,reviewed,us,us
+2004-10-18T01:04:11.960Z,13.744,-91,10,4,mb,11,301,,1.32,us,usp000d6kb,2014-11-07T01:23:46.840Z,"27 km SW of Puerto San José, Guatemala",earthquake,,,,4,reviewed,us,us
+2004-08-21T04:29:35.040Z,14.519,-89.692,283.7,4.5,mb,43,96.2,,0.7,us,usp000d2k3,2014-11-07T01:23:14.874Z,Guatemala,earthquake,,8.1,,15,reviewed,us,us
+2004-08-03T15:39:53.400Z,13.857,-91.294,30.1,4.3,md,7,166,,,us,usp000d1d4,2014-11-07T01:23:08.095Z,"35 km SW of La Gomera, Guatemala",earthquake,,,,,reviewed,unm,unm
+2004-07-30T16:47:07.300Z,13.764,-90.996,44.9,4.1,mb,24,226.9,,1.11,us,usp000d154,2014-11-07T01:23:02.686Z,"26 km SW of Puerto San José, Guatemala",earthquake,,20.3,,9,reviewed,us,us
+2004-07-08T23:51:56.800Z,14.127,-91.085,84.9,4.4,mb,46,156.7,,1.19,us,usp000czt7,2014-11-07T01:22:52.227Z,"5 km NW of La Gomera, Guatemala",earthquake,,10.2,,21,reviewed,us,us
+2004-07-07T13:11:20.600Z,13.612,-90.238,62.3,3.5,md,21,127.9,,,us,usp000czqk,2014-11-07T01:22:51.736Z,"35 km SW of San Francisco Menéndez, El Salvador",earthquake,,,,,reviewed,snet,snet
+2004-06-27T10:00:43.140Z,13.694,-91.069,10,4.1,mb,36,183.5,,1.18,us,usp000cyyt,2014-11-07T01:22:42.278Z,"37 km SW of Puerto San José, Guatemala",earthquake,,,,13,reviewed,us,us
+2004-06-22T15:43:18.610Z,14.101,-91.073,82.4,4,mb,28,128.8,,1.41,us,usp000cyhd,2014-11-07T01:22:40.553Z,"2 km NW of La Gomera, Guatemala",earthquake,,10.2,,4,reviewed,us,us
+2004-06-18T19:16:53.630Z,13.8,-90.619,52.8,4.5,md,21,148.2,,1.26,us,usp000cy6q,2014-11-07T01:22:38.869Z,"17 km SSE of Iztapa, Guatemala",earthquake,,14.6,,,reviewed,us,unm
+2004-06-11T03:52:31.390Z,14.182,-91.171,43.7,3.6,mb,9,177.3,,0.96,us,usp000cxnn,2014-11-07T01:22:36.245Z,"14 km E of Nueva Concepción, Guatemala",earthquake,,18,,3,reviewed,us,us
+2004-06-07T16:04:45.580Z,13.944,-91.287,56.2,4,mb,30,148.6,,1.3,us,usp000cxc2,2014-11-07T01:22:34.869Z,"28 km S of Nueva Concepción, Guatemala",earthquake,,,,6,reviewed,us,us
+2004-05-30T12:35:07.460Z,14.503,-91.315,182.7,3.8,md,6,170.4,,0.8,us,usp000cwmt,2014-11-07T01:22:26.325Z,"4 km SSE of Chicacao, Guatemala",earthquake,,21.5,,,reviewed,us,unm
+2004-05-10T22:58:25.580Z,14.357,-91.232,103.3,3.8,mb,8,197.4,,1.13,us,usp000cupy,2014-11-07T01:22:17.106Z,"8 km S of Santa Bárbara, Guatemala",earthquake,,19.9,,2,reviewed,us,us
+2004-05-09T20:00:27.670Z,14.463,-91.359,117,3.5,mb,8,197.3,,0.65,us,usp000cuk2,2014-11-07T01:22:16.322Z,"6 km ENE of San José El Ídolo, Guatemala",earthquake,,24.1,,1,reviewed,us,us
+2004-05-06T13:45:07.960Z,14.176,-90.929,138.6,4.3,mb,17,120.1,,1.24,us,usp000cu9y,2014-11-07T01:22:15.293Z,"6 km SSE of La Democracia, Guatemala",earthquake,,27.4,,11,reviewed,us,us
+2004-05-03T05:12:40.100Z,14.461,-90.726,124.6,5.7,mwc,336,35.6,,1.34,us,usp000cu24,2020-09-18T19:54:35.189Z,"4 km SSW of Santa María de Jesús, Guatemala",earthquake,,,,,reviewed,us,hrv
+2004-04-23T12:41:41.690Z,13.666,-90.573,76.5,4,mb,28,130,,1.33,us,usp000ct76,2014-11-07T01:22:04.702Z,"32 km SSE of Iztapa, Guatemala",earthquake,,,,6,reviewed,us,us
+2004-03-28T07:31:58.290Z,13.572,-90.662,67.7,4.1,mb,57,71.4,,1.01,us,usp000cr3n,2014-11-07T01:21:48.258Z,"40 km S of Iztapa, Guatemala",earthquake,,6.6,,16,reviewed,us,us
+2004-03-20T05:21:15.510Z,13.75,-90.548,57.8,3.9,mb,22,150.4,,1.29,us,usp000cqe9,2014-11-07T01:21:45.018Z,"26 km SE of Iztapa, Guatemala",earthquake,,,,5,reviewed,us,us
+2004-02-15T02:10:27.810Z,13.642,-90.708,57.2,3.5,mb,12,144,,0.82,us,usp000cm70,2014-11-07T01:21:21.339Z,"32 km S of Iztapa, Guatemala",earthquake,,10.6,,5,reviewed,us,us
+2004-01-24T21:31:46.370Z,14.025,-90.69,71.6,4,mb,30,117.7,,1.39,us,usp000cjku,2014-11-07T01:21:07.388Z,"10 km N of Iztapa, Guatemala",earthquake,,,,12,reviewed,us,us
+2004-01-21T20:36:52.960Z,14.439,-89.986,272.4,3.9,mb,13,149,,1.11,us,usp000cjdn,2014-11-07T01:21:06.594Z,,earthquake,,30.1,,7,reviewed,us,us
+2004-01-02T16:43:13.620Z,14.379,-89.988,234.5,4.7,mb,57,140,,1.2,us,usp000cgvz,2014-11-07T01:20:56.715Z,"13 km NNE of Quesada, Guatemala",earthquake,,9.5,,23,reviewed,us,us
+2003-12-07T16:52:43.940Z,13.755,-90.126,69.8,3.6,mb,20,231.1,,1.04,us,usp000cerw,2014-11-07T01:20:42.480Z,"15 km SW of San Francisco Menéndez, El Salvador",earthquake,,,,6,reviewed,us,us
+2003-12-07T16:17:44.240Z,14.353,-89.999,200,4.3,mb,14,231.5,,0.77,us,usp000ceru,2014-11-07T01:20:42.476Z,"10 km NNE of Quesada, Guatemala",earthquake,,,,3,reviewed,us,us
+2003-11-18T07:28:15.420Z,14.345,-91.083,33,3.7,mb,12,333.8,,0.81,us,usp000cd99,2014-11-07T01:20:30.935Z,"6 km W of Santa Lucía Cotzumalguapa, Guatemala",earthquake,,,,1,reviewed,us,us
+2003-11-08T17:05:10.470Z,14.092,-91.34,33,3.6,mb,12,184.3,,0.41,us,usp000cccf,2014-11-07T01:20:25.815Z,"12 km SSW of Nueva Concepción, Guatemala",earthquake,,,,6,reviewed,us,us
+2003-10-19T13:37:43.550Z,13.737,-90.281,78.5,4.2,mb,54,107,,1.06,us,usp000casv,2014-11-07T01:20:13.775Z,"27 km SSW of Pasaco, Guatemala",earthquake,,,,17,reviewed,us,us
+2003-10-19T06:30:13.850Z,13.993,-91.332,79.6,3.9,mb,12,173.5,,1.35,us,usp000cas1,2014-11-07T01:20:13.718Z,"23 km S of Nueva Concepción, Guatemala",earthquake,,15.6,,1,reviewed,us,us
+2003-10-04T11:17:40.120Z,14.855,-91.065,33,3.7,mb,19,131.8,,0.95,us,usp000c9jn,2014-11-07T01:20:08.278Z,"10 km SSE of Chichicastenango, Guatemala",earthquake,,,,5,reviewed,us,us
+2003-10-04T10:13:19.950Z,13.975,-91.423,33,4.2,mb,16,300.7,,1.03,us,usp000c9je,2014-11-07T01:20:08.264Z,"28 km SSW of Nueva Concepción, Guatemala",earthquake,,,,4,reviewed,us,us
+2003-10-04T09:11:46.850Z,14.047,-91.19,33,4,mb,28,113.7,,1.16,us,usp000c9jb,2014-11-07T01:20:08.258Z,"15 km WSW of La Gomera, Guatemala",earthquake,,,,5,reviewed,us,us
+2003-10-04T07:55:37.760Z,14.258,-91.366,33,4,mb,28,97.5,,1.28,us,usp000c9j4,2014-11-07T01:20:08.242Z,"2 km SSW of Tiquisate, Guatemala",earthquake,,,,10,reviewed,us,us
+2003-10-01T02:12:38.510Z,14.557,-90.888,101.1,3.7,mb,23,176.6,,0.86,us,usp000c974,2014-11-07T01:20:04.030Z,"6 km E of Acatenango, Guatemala",earthquake,,12.9,,6,reviewed,us,us
+2003-09-23T20:28:03.680Z,13.964,-90.436,73.8,4,mb,25,107.2,,1.04,us,usp000c8ep,2014-11-07T01:19:54.873Z,"11 km SSE of Taxisco, Guatemala",earthquake,,,,4,reviewed,us,us
+2003-09-17T01:17:08.270Z,13.759,-90.274,100,4.1,mb,11,170.3,,0.93,us,usp000c7sm,2014-11-07T01:19:50.392Z,"25 km SSW of Pasaco, Guatemala",earthquake,,,,3,reviewed,us,us
+2003-09-17T00:57:00.760Z,13.675,-91.021,33,3.6,mb,16,230.5,,1.04,us,usp000c7sh,2014-11-07T01:19:50.382Z,"35 km SW of Puerto San José, Guatemala",earthquake,,,,1,reviewed,us,us
+2003-09-14T18:51:39.120Z,13.72,-90.284,100,3.8,mb,19,121.5,,1.27,us,usp000c7gw,2014-11-07T01:19:49.271Z,"29 km SSW of Pasaco, Guatemala",earthquake,,,,4,reviewed,us,us
+2003-09-06T04:54:37.900Z,14.854,-90.965,108.3,4.5,md,18,185.1,,1.11,us,usp000c6vz,2014-11-07T01:19:46.138Z,"6 km NW of San José Poaquil, Guatemala",earthquake,,11.3,,,reviewed,us,unm
+2003-08-29T03:09:55.790Z,13.756,-91.146,33,4.5,mb,82,108.2,,1.17,us,usp000c65x,2014-11-07T01:19:36.286Z,"37 km SSW of La Gomera, Guatemala",earthquake,,,,25,reviewed,us,us
+2003-08-26T12:53:12.700Z,14.007,-91.126,93.7,4.6,mb,112,158.1,,0.95,us,usp000c5z9,2014-11-07T01:19:35.520Z,"11 km SW of La Gomera, Guatemala",earthquake,,5,,36,reviewed,us,us
+2003-08-25T08:36:15.060Z,14.118,-90.641,33,3.6,mb,17,299.5,,0.68,us,usp000c5w8,2014-11-07T01:19:35.247Z,"11 km S of Guanagazapa, Guatemala",earthquake,,,,2,reviewed,us,us
+2003-08-25T06:28:35.180Z,14.034,-91.069,100,6,mwc,490,25.6,,0.95,us,usp000c5vz,2020-09-18T19:34:32.819Z,"5 km SSW of La Gomera, Guatemala",earthquake,,,,,reviewed,us,hrv
+2003-08-13T14:18:44.160Z,14.283,-90.089,230.6,4.7,mb,43,150.6,,0.99,us,usp000c4s2,2014-11-07T01:19:30.547Z,"4 km ENE of San José Acatempa, Guatemala",earthquake,,,,16,reviewed,us,us
+2003-06-08T08:24:00.510Z,14.146,-91.086,63,4.6,md,43,176.2,,1.26,us,usp000bzca,2014-11-07T01:18:52.525Z,"7 km NNW of La Gomera, Guatemala",earthquake,,,,,reviewed,us,unm
+2003-06-04T13:20:54.010Z,14.018,-91.091,33,3.7,mb,13,300.6,,1.16,us,usp000bz21,2014-11-07T01:18:50.792Z,"8 km SSW of La Gomera, Guatemala",earthquake,,,,2,reviewed,us,us
+2003-06-04T13:04:01.090Z,14.089,-91.278,88.2,4,mb,30,203.2,,1.04,us,usp000bz1y,2014-11-07T01:18:50.782Z,"12 km S of Nueva Concepción, Guatemala",earthquake,,11.6,,9,reviewed,us,us
+2003-06-04T10:17:39.490Z,14.715,-91.223,170.5,4.2,mb,31,113.5,,1.07,us,usp000bz1c,2014-11-07T01:18:50.725Z,"3 km SSW of Santa Cruz La Laguna, Guatemala",earthquake,,,,9,reviewed,us,us
+2003-06-01T13:09:43.480Z,14.693,-89.998,250,4,mb,8,237.3,,0.75,us,usp000byr4,2014-11-07T01:18:48.079Z,"6 km N of Jalapa, Guatemala",earthquake,,,,2,reviewed,us,us
+2003-05-30T07:58:17.420Z,13.636,-90.953,33,4,mb,29,182.9,,1,us,usp000byhn,2014-11-07T01:18:44.673Z,"35 km SSW of Puerto San José, Guatemala",earthquake,,,,10,reviewed,us,us
+2003-03-23T11:26:14.710Z,14.161,-91.255,33,3.9,mb,15,299.6,,1.24,us,usp000btas,2014-11-07T01:18:07.672Z,"6 km SE of Nueva Concepción, Guatemala",earthquake,,,,6,reviewed,us,us
+2003-03-22T08:06:10.830Z,14.214,-91.392,83.4,4.1,mb,42,218.3,,1.2,us,usp000bt7t,2014-11-07T01:18:07.392Z,"8 km SSW of Tiquisate, Guatemala",earthquake,,10,,20,reviewed,us,us
+2003-03-15T06:39:08.460Z,14.27,-91.322,74.8,4.6,mb,120,114.6,,1.18,us,usp000bsp9,2014-11-07T01:18:04.750Z,Guatemala,earthquake,,,,38,reviewed,us,us
+2003-02-28T05:35:03.480Z,13.921,-90.321,103.3,4.3,md,31,,,1.11,us,usp000brmy,2014-11-07T01:17:53.172Z,,earthquake,,6.9,,,reviewed,us,unm
+2003-02-17T08:45:59.450Z,14.422,-90.935,10,4.2,mb,18,,,1.05,us,usp000bqvs,2014-11-07T01:17:49.071Z,"9 km SSE of Yepocapa, Guatemala",earthquake,,,,7,reviewed,us,us
+2003-02-16T20:29:18.860Z,13.861,-91.329,62.9,4.5,md,18,,,1.42,us,usp000bqum,2014-11-07T01:17:48.966Z,"37 km S of Nueva Concepción, Guatemala",earthquake,,,,,reviewed,us,unm
+2003-02-05T19:01:11.090Z,13.774,-90.88,56.5,5.6,mwc,268,,,1.12,us,usp000bq1x,2020-09-18T19:16:46.379Z,near the coast of Guatemala,earthquake,,,,,reviewed,us,hrv
+2003-01-21T14:05:39.190Z,13.658,-90.937,33,4.1,mb,23,,,1.24,us,usp000bnxy,2014-11-07T01:17:36.972Z,near the coast of Guatemala,earthquake,,,,6,reviewed,us,us
+2003-01-21T07:06:53.200Z,13.563,-90.858,33,5.4,mwc,123,,,1.09,us,usp000bnxh,2016-11-09T21:43:09.152Z,"40 km S of Puerto San José, Guatemala",earthquake,,,,,reviewed,us,hrv
+2003-01-21T02:46:47.740Z,13.626,-90.774,24,6.5,mwc,316,,,0.99,us,usp000bnx3,2020-07-08T01:19:11.851Z,"33 km S of Puerto San José, Guatemala",earthquake,,,,,reviewed,us,hrv
+2003-01-02T08:35:04.890Z,14.75,-90.16,0,4.2,md,12,,,,us,usp000bmxu,2014-11-07T01:17:31.158Z,"4 km W of Sansare, Guatemala",earthquake,,,,,reviewed,unm,unm
+2003-01-01T04:15:48.130Z,14.201,-89.937,161.1,3.5,mb,10,,,1.42,us,usp000bmuz,2014-11-07T01:17:29.528Z,"10 km NNW of Comapa, Guatemala",earthquake,,21.8,,1,reviewed,us,us
+2002-12-01T11:37:56.690Z,14.448,-90.529,33,4,mb,28,,,1.21,us,usp000bjv3,2014-11-07T01:17:16.296Z,"3 km S of Villa Canales, Guatemala",earthquake,,,,12,reviewed,us,us
+2002-11-24T08:16:31.130Z,14.078,-91.025,70.9,4.2,mb,33,,,1.34,us,usp000bj9k,2014-11-07T01:17:10.782Z,"3 km E of La Gomera, Guatemala",earthquake,,14.7,,7,reviewed,us,us
+2002-11-18T03:07:29.680Z,14.847,-91.179,164.2,3.8,md,30,,,1.09,us,usp000bhx5,2014-11-07T01:17:09.098Z,"7 km NNW of Concepción, Guatemala",earthquake,,8.9,,,reviewed,us,unm
+2002-11-09T00:14:18.080Z,13.743,-91.187,33,6,mwc,274,,,1.06,us,usp000bh49,2020-09-18T19:11:04.972Z,"40 km SSW of La Gomera, Guatemala",earthquake,,,,,reviewed,us,hrv
+2002-10-24T21:47:33.970Z,13.662,-90.615,33,4.3,mb,35,,,0.85,us,usp000bf9e,2014-11-07T01:16:48.756Z,"31 km SSE of Iztapa, Guatemala",earthquake,,,,14,reviewed,us,us
+2002-09-22T07:46:39.280Z,14.2,-91.208,61,4.1,mb,94,,,1.3,us,usp000bcvb,2014-11-07T01:16:33.745Z,"9 km E of Nueva Concepción, Guatemala",earthquake,,,,22,reviewed,us,us
+2002-09-18T09:23:46.570Z,14.074,-91.102,102.8,4.5,md,39,,,1.09,us,usp000bck3,2014-11-07T01:16:32.524Z,Guatemala,earthquake,,6.8,,,reviewed,us,unm
+2002-07-20T01:44:08.510Z,13.983,-90.864,84.5,4.1,mb,44,,,1.13,us,usp000b8e9,2014-11-07T01:16:05.186Z,"7 km NW of Puerto San José, Guatemala",earthquake,,,,16,reviewed,us,us
+2002-07-11T14:17:25.010Z,14.143,-90.097,147.7,4.5,mb,48,,,1.06,us,usp000b7xr,2014-11-07T01:16:02.670Z,"9 km W of Jalpatagua, Guatemala",earthquake,,7.3,,14,reviewed,us,us
+2002-07-07T14:51:18.360Z,13.974,-90.606,101.5,4.2,mb,63,,,1.03,us,usp000b7pf,2014-11-07T01:16:01.671Z,"11 km ENE of Iztapa, Guatemala",earthquake,,5.6,,21,reviewed,us,us
+2002-07-06T13:46:40.490Z,14.36,-90.626,33,3.7,mb,15,,,1.28,us,usp000b7kz,2014-11-07T01:16:01.442Z,"6 km S of San Vicente Pacaya, Guatemala",earthquake,,,,4,reviewed,us,us
+2002-06-25T08:15:45.410Z,14.113,-91.258,70.5,5.2,mwc,245,,,1.27,us,usp000b6w8,2016-11-09T22:50:15.746Z,"10 km SSE of Nueva Concepción, Guatemala",earthquake,,,,,reviewed,us,hrv
+2002-06-24T03:23:57.200Z,13.81,-90.386,105.1,4.1,mb,22,,,1.49,us,usp000b6ty,2014-11-07T01:15:52.942Z,"26 km SW of Pasaco, Guatemala",earthquake,,19.5,,8,reviewed,us,us
+2002-06-18T07:46:05.010Z,13.79,-90.905,51.3,4.9,md,22,,,1.47,us,usp000b6da,2014-11-07T01:15:51.244Z,"17 km SSW of Puerto San José, Guatemala",earthquake,,,,,reviewed,us,unm
+2002-06-10T11:37:18.350Z,14.163,-90.488,33,4.1,mb,26,,,1.44,us,usp000b5wg,2014-11-07T01:15:48.451Z,"7 km S of Pueblo Nuevo Viñas, Guatemala",earthquake,,,,15,reviewed,us,us
+2002-06-06T10:05:46.630Z,14.193,-90.823,33,4.1,mb,16,,,1.51,us,usp000b5mn,2014-11-07T01:15:46.651Z,"2 km ESE of Masagua, Guatemala",earthquake,,,,9,reviewed,us,us
+2002-06-06T10:04:20.690Z,14.184,-90.386,33,4.2,mb,19,,,1.19,us,usp000b5mm,2014-11-07T01:15:46.648Z,"10 km ESE of Pueblo Nuevo Viñas, Guatemala",earthquake,,,,6,reviewed,us,us
+2002-05-26T19:18:55.430Z,14.618,-90.977,160.2,4.7,mb,222,,,1.24,us,usp000b50y,2014-11-07T01:15:40.470Z,"5 km WSW of Patzicía, Guatemala",earthquake,,,,100,reviewed,us,us
+2002-05-14T05:13:30.290Z,14.643,-90.822,189.3,4.2,mb,44,,,1.16,us,usp000b49w,2014-11-07T01:15:37.402Z,"2 km S of Chimaltenango, Guatemala",earthquake,,5.9,,5,reviewed,us,us
+2002-05-11T21:08:11.580Z,14.342,-91.236,61.2,3.7,mb,18,,,1.1,us,usp000b451,2014-11-07T01:15:36.826Z,"10 km S of Santa Bárbara, Guatemala",earthquake,,,,5,reviewed,us,us
+2002-05-05T20:49:27.630Z,15.096,-90.951,33,4.5,md,10,,,1.5,us,usp000b3tk,2014-11-07T01:15:35.034Z,"8 km S of San Andrés Sajcabajá, Guatemala",earthquake,,,,,reviewed,us,unm
+2002-04-26T03:29:39.600Z,14.131,-90.744,163.3,4.2,md,11,,,0.76,us,usp000b36k,2014-11-07T01:15:28.630Z,"13 km SE of Masagua, Guatemala",earthquake,,11.7,,,reviewed,us,unm
+2002-04-11T21:34:03.810Z,13.631,-91.06,10,4.3,mb,65,,,1.06,us,usp000b27m,2014-11-07T01:15:24.214Z,"41 km SW of Puerto San José, Guatemala",earthquake,,,,17,reviewed,us,us
+2002-03-28T16:38:42.930Z,14.769,-91.142,169.6,4.6,mb,80,,,1.37,us,usp000b18u,2014-11-07T01:15:15.189Z,"1 km SSE of Concepción, Guatemala",earthquake,,,,10,reviewed,us,us
+2002-03-13T03:12:05.990Z,13.75,-90.643,100,4,mb,22,,,1.09,us,usp000b073,2014-11-07T01:15:07.940Z,"21 km SSE of Iztapa, Guatemala",earthquake,,,,9,reviewed,us,us
+2002-03-12T20:10:55.510Z,13.883,-90.9,104.5,4,mb,32,,,0.87,us,usp000b06m,2014-11-07T01:15:07.889Z,"9 km WSW of Puerto San José, Guatemala",earthquake,,,,16,reviewed,us,us
+2002-03-07T05:07:15.230Z,14.634,-91.411,118.1,4.8,mb,148,,,1.26,us,usp000azv3,2014-11-07T01:15:05.618Z,"0 km N of Santo Tomás La Unión, Guatemala",earthquake,,,,46,reviewed,us,us
+2002-02-28T20:49:28.110Z,14.612,-89.927,33,3.9,mb,10,,,0.63,us,usp000azcd,2014-11-07T01:14:58.920Z,"7 km ESE of Jalapa, Guatemala",earthquake,,,,3,reviewed,us,us
+2002-01-09T04:12:02.030Z,14.712,-91.043,152.6,4,mb,22,,,0.94,us,usp000aw3d,2014-11-07T01:14:39.705Z,"4 km NW of Patzún, Guatemala",earthquake,,,,4,reviewed,us,us
+2001-12-25T10:43:02.270Z,14.544,-90.001,250,4.1,mb,11,,,0.99,us,usp000av8q,2014-11-07T01:14:31.653Z,"10 km S of Jalapa, Guatemala",earthquake,,,,2,reviewed,us,us
+2001-11-23T11:30:09.930Z,14.008,-91.066,73,4.4,mb,36,,,1.26,us,usp000atbx,2014-11-07T01:14:17.720Z,"8 km S of La Gomera, Guatemala",earthquake,,12.2,,13,reviewed,us,us
+2001-11-18T02:41:15.280Z,13.706,-90.731,70.1,4.7,md,44,,,1.02,us,usp000at22,2014-11-07T01:14:16.169Z,"25 km S of Iztapa, Guatemala",earthquake,,5.4,,,reviewed,us,unm
+2001-11-09T21:53:45.840Z,14.97,-91.124,33,4.2,mb,14,,,1.44,us,usp000asjd,2014-11-07T01:14:13.494Z,"3 km NNW of Chichicastenango, Guatemala",earthquake,,,,2,reviewed,us,us
+2001-10-08T18:06:31.200Z,13.691,-90.449,33,3.7,mb,10,,,0.96,us,usp000aqg6,2014-11-07T01:13:57.580Z,"38 km SE of Iztapa, Guatemala",earthquake,,,,1,reviewed,us,us
+2001-10-08T13:59:15.750Z,14.416,-91.465,33,3.8,mb,20,,,1.01,us,usp000aqfq,2014-11-07T01:13:57.539Z,"5 km SW of San José El Ídolo, Guatemala",earthquake,,,,4,reviewed,us,us
+2001-10-08T13:57:21.580Z,14.521,-91.403,33,4.1,mb,26,,,1.14,us,usp000aqfp,2014-11-07T01:13:57.537Z,"2 km SSE of San Antonio Suchitepéquez, Guatemala",earthquake,,,,9,reviewed,us,us
+2001-09-25T15:07:46.340Z,13.664,-90.786,33,4.3,mb,50,,,1,us,usp000apsb,2014-11-07T01:13:50.673Z,"29 km S of Puerto San José, Guatemala",earthquake,,,,13,reviewed,us,us
+2001-09-24T05:48:18.700Z,14.118,-90.213,33,3.8,mb,15,,,1.19,us,usp000apq0,2014-11-07T01:13:50.368Z,"6 km ENE of San Juan Tecuaco, Guatemala",earthquake,,,,1,reviewed,us,us
+2001-09-19T08:04:46.050Z,13.899,-90.62,87.6,4.7,mb,68,,,1.11,us,usp000apf9,2014-11-07T01:13:49.220Z,"10 km ESE of Iztapa, Guatemala",earthquake,,,,30,reviewed,us,us
+2001-09-10T02:40:03.010Z,14.083,-91.34,33,4,mb,22,,,1.03,us,usp000anxm,2014-11-07T01:13:45.903Z,"13 km SSW of Nueva Concepción, Guatemala",earthquake,,,,7,reviewed,us,us
+2001-08-26T14:50:28.470Z,13.851,-89.976,97.1,4.5,mb,49,,,1.24,us,usp000an2x,2014-11-07T01:13:36.996Z,"4 km ENE of San Francisco Menéndez, El Salvador",earthquake,,13.2,,12,reviewed,us,us
+2001-07-19T02:34:55.350Z,14.394,-90.496,165,4.6,mb,44,,,1.02,us,usp000ajth,2014-11-07T01:13:18.724Z,Guatemala,earthquake,,11.3,,14,reviewed,us,us
+2001-06-02T05:34:34.120Z,14.261,-91.039,108.5,4.7,mb,148,,,1.08,us,usp000afx1,2014-11-07T01:12:56.104Z,"8 km SSW of Santa Lucía Cotzumalguapa, Guatemala",earthquake,,,,68,reviewed,us,us
+2001-05-31T23:18:03.840Z,14.352,-90.885,33,3.3,mb,6,,,0.68,us,usp000afur,2014-11-07T01:12:52.618Z,"12 km WNW of Escuintla, Guatemala",earthquake,,,,1,reviewed,us,us
+2001-05-12T16:13:34.890Z,13.947,-91.202,33,3.8,mb,15,,,1.2,us,usp000aeun,2014-11-07T01:12:47.416Z,"21 km SW of La Gomera, Guatemala",earthquake,,,,4,reviewed,us,us
+2001-05-12T15:09:31.960Z,14.187,-91.198,33,3.4,mb,8,,,1.64,us,usp000aeug,2014-11-07T01:12:47.409Z,"11 km E of Nueva Concepción, Guatemala",earthquake,,,,1,reviewed,us,us
+2001-05-12T14:36:30.930Z,14.173,-91.143,33,3.5,mb,7,,,0.62,us,usp000aeud,2014-11-07T01:12:47.405Z,"13 km NW of La Gomera, Guatemala",earthquake,,,,1,reviewed,us,us
+2001-05-09T15:38:38.490Z,14.294,-91.284,55.3,4,mb,10,,,1.21,us,usp000aepd,2014-11-07T01:12:46.738Z,"8 km E of Tiquisate, Guatemala",earthquake,,,,1,reviewed,us,us
+2001-04-28T20:30:42.680Z,14.398,-91.339,108.8,3.6,mb,8,,,1.33,us,usp000ae4a,2014-11-07T01:12:39.146Z,"2 km W of Río Bravo, Guatemala",earthquake,,18.7,,1,reviewed,us,us
+2001-04-28T17:28:49.080Z,14.172,-90.912,93.9,4.2,mb,40,,,1.27,us,usp000ae3x,2014-11-07T01:12:39.118Z,"7 km SSE of La Democracia, Guatemala",earthquake,,,,12,reviewed,us,us
+2001-04-22T11:43:30.690Z,13.935,-91.106,72.3,4.2,mb,26,,,1.36,us,usp000adsw,2014-11-07T01:12:37.451Z,"17 km SSW of La Gomera, Guatemala",earthquake,,17.6,,10,reviewed,us,us
+2001-04-18T18:56:45.970Z,14.335,-91.115,33,4.1,mb,13,,,1.01,us,usp000adgt,2014-11-07T01:12:35.867Z,"9 km W of Santa Lucía Cotzumalguapa, Guatemala",earthquake,,,,4,reviewed,us,us
+2001-04-15T08:28:28.910Z,14.207,-89.929,200,4.3,mb,38,,,1.3,us,usp000ad9k,2014-11-07T01:12:35.007Z,"10 km SSW of Jutiapa, Guatemala",earthquake,,,,13,reviewed,us,us
+2001-03-18T14:55:00.180Z,13.69,-90.97,33,4.2,mb,16,,,1.26,us,usp000abpe,2014-11-07T01:12:22.177Z,"30 km SSW of Puerto San José, Guatemala",earthquake,,,,4,reviewed,us,us
+2001-02-22T04:55:15.660Z,13.786,-91.182,80.5,4.1,mb,14,,,1.34,us,usp000aa3h,2014-11-07T01:12:10.874Z,"35 km SSW of La Gomera, Guatemala",earthquake,,16.4,,5,reviewed,us,us
+2001-01-23T05:23:32.270Z,14.017,-90.907,64.4,5.9,mwb,271,,,0.94,us,usp000a86j,2020-09-18T18:06:22.080Z,"13 km NW of Puerto San José, Guatemala",earthquake,,,,,reviewed,us,us
+2001-01-11T07:54:51.040Z,13.585,-90.724,66.2,4.3,mb,40,,,1.31,us,usp000a7gp,2014-11-07T01:11:55.075Z,"38 km S of Iztapa, Guatemala",earthquake,,11.6,,19,reviewed,us,us
+2001-01-09T09:50:42.210Z,14.1,-91.252,33,4.1,mb,10,,,1.04,us,usp000a7ca,2014-11-07T01:11:53.571Z,"12 km SSE of Nueva Concepción, Guatemala",earthquake,,,,1,reviewed,us,us
+2000-12-17T13:54:51.150Z,13.645,-90.501,76.1,4.3,mb,26,,,1.37,us,usp000a67s,2014-11-07T01:11:44.477Z,"38 km SE of Iztapa, Guatemala",earthquake,,15,,12,reviewed,us,us
+2000-11-25T00:26:29.350Z,14.207,-91.026,92.9,4.1,mb,39,,,1.06,us,usp000a4vr,2014-11-07T01:11:33.670Z,"8 km WSW of La Democracia, Guatemala",earthquake,,10.8,,8,reviewed,us,us
+2000-11-09T03:44:05.270Z,14.868,-91.014,179,4.4,mb,21,,,0.93,us,usp000a392,2014-11-07T01:11:26.949Z,"9 km NNW of Santa Apolonia, Guatemala",earthquake,,9.6,,8,reviewed,us,us
+2000-11-08T09:15:25.000Z,14.918,-89.885,33,4.6,mb,13,,,1.39,us,usp000a377,2014-11-07T01:11:26.775Z,"1 km ENE of El Jícaro, Guatemala",earthquake,,,,3,reviewed,us,us
+2000-08-31T21:57:09.540Z,13.898,-91.333,45.4,4.4,mb,40,,,1.24,us,usp0009zg7,2014-11-07T01:10:56.838Z,"33 km S of Nueva Concepción, Guatemala",earthquake,,15.9,,14,reviewed,us,us
+2000-08-28T01:54:06.910Z,13.964,-91.33,33,4.1,mb,14,,,1.07,us,usp0009z97,2014-11-07T01:10:55.394Z,"26 km S of Nueva Concepción, Guatemala",earthquake,,,,6,reviewed,us,us
+2000-08-25T03:21:01.300Z,14.103,-91.336,145.7,4.2,md,4,,,,us,usp0009z4g,2014-11-07T01:10:54.808Z,Guatemala,earthquake,,,,,reviewed,unm,unm
+2000-08-19T01:02:56.190Z,14.857,-91.16,199.4,4.1,md,22,,,1.23,us,usp0009yrn,2014-11-07T01:10:53.304Z,"8 km N of Concepción, Guatemala",earthquake,,8.8,,,reviewed,us,unm
+2000-08-10T09:22:50.520Z,14.569,-90.928,135.1,4,mb,11,,,0.52,us,usp0009y83,2014-11-07T01:10:50.876Z,"2 km NE of Acatenango, Guatemala",earthquake,,25.2,,4,reviewed,us,us
+2000-08-02T00:23:01.870Z,13.679,-90.643,66.1,5.2,mwc,112,,,1.28,us,usp0009xkz,2016-11-09T23:07:39.088Z,"28 km SSE of Iztapa, Guatemala",earthquake,,,,,reviewed,us,hrv
+2000-07-29T17:33:07.550Z,14.177,-91.029,33,4.3,mb,11,,,1.12,us,usp0009xdg,2014-11-07T01:10:41.645Z,"10 km WSW of La Democracia, Guatemala",earthquake,,,,4,reviewed,us,us
+2000-06-09T11:26:21.040Z,14.383,-90.38,33,5,mb,27,,,0.81,us,usp0009uae,2014-11-07T01:10:20.751Z,"1 km WSW of Santa Cruz Naranjo, Guatemala",earthquake,,,,1,reviewed,us,us
+2000-06-03T07:18:14.080Z,14.108,-91.106,58.2,4.4,md,15,,,1.46,us,usp0009tvb,2014-11-07T01:10:17.450Z,"6 km WNW of La Gomera, Guatemala",earthquake,,,,,reviewed,us,unm
+2000-04-28T20:25:46.530Z,14.355,-90.856,73.4,3.9,mb,,,,1.01,us,usp0009s0z,2014-11-07T01:09:57.563Z,"9 km NW of Escuintla, Guatemala",earthquake,,,,5,reviewed,us,us
+2000-04-28T15:58:31.180Z,15.045,-90.379,33,3.2,mb,,,,1.38,us,usp0009s0e,2014-11-07T01:09:57.502Z,"5 km SSE of San Miguel Chicaj, Guatemala",earthquake,,,,1,reviewed,us,us
+2000-04-01T04:56:18.310Z,13.831,-90.459,33,3.4,mb,,,,1.11,us,usp0009qm1,2014-11-07T01:09:48.452Z,"26 km S of Taxisco, Guatemala",earthquake,,,,2,reviewed,us,us
+2000-01-18T16:49:34.670Z,13.955,-89.851,196.6,4.6,mb,,,,1,us,usp0009may,2014-11-07T01:09:20.451Z,"3 km N of Ahuachapán, El Salvador",earthquake,,11.5,,11,reviewed,us,us
+1999-12-12T17:57:28.580Z,14.765,-91.186,157.5,5.8,mwc,,,,1.22,us,usp0009jt2,2020-09-15T21:08:59.145Z,"0 km SSW of Sololá, Guatemala",earthquake,,,,,reviewed,us,hrv
+1999-11-26T05:35:35.970Z,13.984,-90.434,83.1,4.2,mb,,,,1.26,us,usp0009j43,2014-11-07T01:09:00.587Z,"9 km SSE of Taxisco, Guatemala",earthquake,,,,5,reviewed,us,us
+1999-10-01T03:21:50.140Z,14.86,-91.201,33,3.7,mb,,,,1.38,us,usp0009f8p,2014-11-07T01:08:36.355Z,"9 km N of Sololá, Guatemala",earthquake,,,,2,reviewed,us,us
+1999-09-24T23:42:08.850Z,14.026,-90.224,33,4,mb,,,,0.96,us,usp0009ezf,2014-11-07T01:08:31.686Z,"5 km NNW of Pasaco, Guatemala",earthquake,,,,5,reviewed,us,us
+1999-09-21T14:11:41.480Z,13.939,-90.791,78.1,4.5,mb,,,,1.19,us,usp0009ete,2014-11-07T01:08:31.000Z,"3 km ENE of Puerto San José, Guatemala",earthquake,,,,18,reviewed,us,us
+1999-09-18T21:23:45.380Z,14.456,-91.354,33,4.1,mb,,,,1.18,us,usp0009ema,2014-11-07T01:08:30.032Z,"7 km NNW of Río Bravo, Guatemala",earthquake,,,,6,reviewed,us,us
+1999-09-14T02:03:38.920Z,13.909,-89.832,33,4,mb,,,,1.15,us,usp0009edx,2014-11-07T01:08:28.621Z,"1 km SE of Ahuachapán, El Salvador",earthquake,,,,9,reviewed,us,us
+1999-08-30T13:17:58.550Z,14.406,-90.83,104.1,4.3,mb,,,,1.14,us,usp0009due,2014-11-07T01:08:21.344Z,"9 km SSW of Alotenango, Guatemala",earthquake,,,,14,reviewed,us,us
+1999-08-24T22:00:54.490Z,13.693,-90.845,53.3,4.3,ms,,,,1.14,us,usp0009dkb,2014-11-07T01:08:19.806Z,"26 km S of Puerto San José, Guatemala",earthquake,,6.6,,5,reviewed,us,us
+1999-08-20T21:33:20.610Z,13.992,-90.736,91.6,4.6,mb,,,,1.26,us,usp0009ddr,2014-11-07T01:08:18.399Z,"7 km NNW of Iztapa, Guatemala",earthquake,,,,23,reviewed,us,us
+1999-07-15T02:47:52.730Z,13.865,-91.116,68.7,4.3,mb,,,,1.07,us,usp0009bmq,2014-11-07T01:08:05.915Z,"24 km SSW of La Gomera, Guatemala",earthquake,,5.5,,17,reviewed,us,us
+1999-07-13T13:02:30.600Z,13.749,-90.42,70,5.6,mwc,,,,1.04,us,usp0009bj6,2020-09-15T20:52:17.181Z,"34 km SW of Pasaco, Guatemala",earthquake,,,,,reviewed,us,hrv
+1999-06-26T21:25:15.990Z,14.331,-90.768,175.9,4.4,mb,,,,1.16,us,usp0009akx,2014-11-07T01:07:57.381Z,"3 km NNE of Escuintla, Guatemala",earthquake,,7.8,,5,reviewed,us,us
+1999-06-06T07:08:05.860Z,13.897,-90.768,33,6.3,mwb,,,,1.25,us,usp00099cu,2020-07-08T00:47:27.359Z,"6 km ESE of Puerto San José, Guatemala",earthquake,,,,,reviewed,us,us
+1999-05-28T13:28:10.730Z,14.786,-91.087,196,4.6,mb,,,,1.38,us,usp00098x9,2014-11-07T01:07:43.970Z,"6 km E of Concepción, Guatemala",earthquake,,11,,8,reviewed,us,us
+1999-05-18T21:37:59.120Z,14.947,-91.281,33,3.4,mb,,,,1.04,us,usp000989c,2014-11-07T01:07:41.609Z,"8 km WSW of Patzité, Guatemala",earthquake,,,,1,reviewed,us,us
+1999-04-29T13:41:37.010Z,13.654,-90.366,33,4,mb,,,,1.2,us,usp000971j,2014-11-07T01:07:31.532Z,"39 km SSW of Pasaco, Guatemala",earthquake,,,,2,reviewed,us,us
+1999-04-25T05:18:48.920Z,14.31,-91.443,200,4.4,mb,,,,1.08,us,usp00096ur,2014-11-07T01:07:30.152Z,"9 km WNW of Tiquisate, Guatemala",earthquake,,,,8,reviewed,us,us
+1999-04-22T20:55:08.230Z,14.303,-90.803,33,4,mb,,,,0.93,us,usp00096qv,2014-11-07T01:07:29.739Z,"1 km W of Escuintla, Guatemala",earthquake,,,,5,reviewed,us,us
+1999-04-17T15:30:06.080Z,14.229,-91.341,62.4,4.6,mb,,,,0.96,us,usp00096fr,2014-11-07T01:07:28.870Z,"5 km NW of Nueva Concepción, Guatemala",earthquake,,,,24,reviewed,us,us
+1999-04-13T08:17:18.490Z,14.308,-90.762,33,3.7,mb,,,,0.97,us,usp0009678,2014-11-07T01:07:27.445Z,"2 km ENE of Escuintla, Guatemala",earthquake,,,,5,reviewed,us,us
+1999-02-24T19:11:33.590Z,13.609,-90.697,85.2,5.3,mwc,,,,1.07,us,usp00093c5,2016-11-09T21:57:29.192Z,"35 km S of Iztapa, Guatemala",earthquake,,8,,,reviewed,us,hrv
+1999-02-06T15:22:35.280Z,14.403,-91.396,91.9,4.3,mb,,,,1.03,us,usp00092ce,2014-11-07T01:06:59.149Z,"5 km SSE of San José El Ídolo, Guatemala",earthquake,,,,7,reviewed,us,us
+1999-01-05T13:49:35.760Z,14.604,-91.136,200,4.6,mb,,,,1.12,us,usp00090nu,2014-11-07T01:06:46.799Z,"1 km NE of San Lucas Tolimán, Guatemala",earthquake,,,,2,reviewed,us,us
+1998-12-19T17:46:34.570Z,13.996,-91.171,59.9,4.5,mb,,,,1.21,us,usp0008zw6,2014-11-07T01:06:40.806Z,"15 km SW of La Gomera, Guatemala",earthquake,,12,,18,reviewed,us,us
+1998-12-13T10:32:33.980Z,13.812,-90.733,33,3.9,mb,,,,1.1,us,usp0008zjm,2014-11-07T01:06:38.878Z,"13 km SSW of Iztapa, Guatemala",earthquake,,,,4,reviewed,us,us
+1998-11-16T14:48:55.210Z,13.685,-90.841,33,4.1,mb,,,,1.11,us,usp0008ya3,2014-11-07T01:06:27.527Z,"26 km S of Puerto San José, Guatemala",earthquake,,,,3,reviewed,us,us
+1998-11-12T21:13:17.870Z,14.925,-91.32,100,3.4,mb,,,,0.55,us,usp0008y3m,2014-11-07T01:06:26.704Z,"4 km ENE of Totonicapán, Guatemala",earthquake,,,,2,reviewed,us,us
+1998-10-30T12:17:12.170Z,13.944,-91.39,33,4.6,mb,,,,0.75,us,usp0008x9x,2014-11-07T01:06:18.611Z,"29 km SSW of Nueva Concepción, Guatemala",earthquake,,,,15,reviewed,us,us
+1998-09-29T03:12:22.770Z,13.816,-90.185,101.8,3.8,mb,,,,1.25,us,usp0008vpn,2014-11-07T01:06:06.924Z,"17 km S of Pasaco, Guatemala",earthquake,,,,3,reviewed,us,us
+1998-08-16T14:48:19.100Z,14.25,-89.981,202,4.7,mb,,,,1.19,us,usp0008tc4,2014-11-07T01:05:49.530Z,"6 km ESE of Quesada, Guatemala",earthquake,,,,12,reviewed,us,us
+1998-07-31T06:12:15.350Z,14.704,-90.628,228.1,4.5,mb,,,,1.03,us,usp0008sh0,2014-11-07T01:05:39.793Z,"2 km SE of San Juan Sacatepéquez, Guatemala",earthquake,,,,26,reviewed,us,us
+1998-07-29T16:07:13.310Z,13.893,-91.342,33,4.1,mb,,,,1.45,us,usp0008sct,2014-11-07T01:05:39.440Z,"34 km S of Nueva Concepción, Guatemala",earthquake,,,,4,reviewed,us,us
+1998-07-18T23:23:57.210Z,13.927,-91.152,82.1,4.4,mb,,,,0.96,us,usp0008rub,2014-11-07T01:05:37.052Z,"20 km SSW of La Gomera, Guatemala",earthquake,,14.4,,21,reviewed,us,us
+1998-07-12T22:31:27.440Z,14.466,-90.793,33,4.3,mb,,,,1.1,us,usp0008rd4,2014-11-07T01:05:35.048Z,"2 km SSE of Alotenango, Guatemala",earthquake,,,,7,reviewed,us,us
+1998-06-14T08:09:21.130Z,14.704,-91.166,33,4,mb,,,,0.53,us,usp0008pw7,2014-11-07T01:05:24.747Z,"4 km WSW of Santa Catarina Palopó, Guatemala",earthquake,,,,3,reviewed,us,us
+1998-06-03T12:12:24.570Z,14.828,-91.145,250,4.1,mb,,,,0.92,us,usp0008p89,2014-11-07T01:05:21.397Z,"4 km N of Concepción, Guatemala",earthquake,,,,12,reviewed,us,us
+1998-05-31T16:27:53.800Z,13.786,-91.16,33,4.5,mb,,,,1.06,us,usp0008p3c,2014-11-07T01:05:17.420Z,"34 km SSW of La Gomera, Guatemala",earthquake,,,,22,reviewed,us,us
+1998-05-25T19:14:21.320Z,13.691,-90.919,70.4,4.8,mb,,,,1.02,us,usp0008nqb,2014-11-07T01:05:15.858Z,"28 km SSW of Puerto San José, Guatemala",earthquake,,3.6,,52,reviewed,us,us
+1998-05-21T10:10:14.760Z,13.63,-90.841,33,4.1,mb,,,,1.28,us,usp0008ng0,2014-11-07T01:05:14.777Z,"32 km S of Puerto San José, Guatemala",earthquake,,,,8,reviewed,us,us
+1998-05-20T02:33:27.100Z,13.549,-90.722,33,4.2,mb,,,,1.27,us,usp0008ndj,2014-11-07T01:05:14.421Z,"42 km S of Iztapa, Guatemala",earthquake,,,,13,reviewed,us,us
+1998-05-17T10:06:40.060Z,13.982,-91.249,33,4.3,mb,,,,1.32,us,usp0008n8s,2014-11-07T01:05:13.931Z,"23 km WSW of La Gomera, Guatemala",earthquake,,,,17,reviewed,us,us
+1998-05-12T09:38:54.070Z,13.57,-90.815,33,4.3,mb,,,,1.25,us,usp0008my0,2014-11-07T01:05:12.567Z,"39 km S of Puerto San José, Guatemala",earthquake,,,,5,reviewed,us,us
+1998-05-12T01:32:53.200Z,13.54,-90.925,33,4.3,mb,,,,1.23,us,usp0008mxh,2014-11-07T01:05:12.529Z,"44 km SSW of Puerto San José, Guatemala",earthquake,,,,13,reviewed,us,us
+1998-05-12T00:56:13.260Z,13.866,-90.998,33,5.6,mwc,,,,1.24,us,usp0008mxf,2020-09-15T20:09:47.518Z,"20 km WSW of Puerto San José, Guatemala",earthquake,,,,,reviewed,us,hrv
+1998-05-10T18:52:50.100Z,13.628,-90.841,33,4.3,mb,,,,1.37,us,usp0008muu,2014-11-07T01:05:12.149Z,"33 km S of Puerto San José, Guatemala",earthquake,,,,9,reviewed,us,us
+1998-05-10T06:05:58.910Z,13.676,-90.747,33,6.3,mwc,,,,1.23,us,usp0008mt9,2020-09-15T20:09:24.968Z,"28 km S of Iztapa, Guatemala",earthquake,,,,,reviewed,us,hrv
+1998-05-09T11:42:11.640Z,13.621,-90.724,33,5.4,mwc,,,,1.14,us,usp0008mrr,2016-11-09T22:29:15.332Z,"34 km S of Iztapa, Guatemala",earthquake,,,,,reviewed,us,hrv
+1998-05-07T01:34:38.570Z,14.067,-91.005,33,3.4,mb,,,,1.15,us,usp0008mks,2014-11-07T01:05:11.079Z,"5 km ESE of La Gomera, Guatemala",earthquake,,,,1,reviewed,us,us
+1998-04-30T11:11:43.610Z,14.415,-91.174,33,3.6,mb,,,,1.06,us,usp0008m66,2014-11-07T01:05:05.395Z,"1 km SSE of San Juan Bautista, Guatemala",earthquake,,,,1,reviewed,us,us
+1998-04-15T12:05:46.940Z,14.559,-90.262,248.2,4.5,mb,,,,1.1,us,usp0008ka6,2014-11-07T01:04:59.947Z,"9 km WNW of Mataquescuintla, Guatemala",earthquake,,,,9,reviewed,us,us
+1998-03-21T12:02:54.430Z,14.319,-90.088,217.7,4.3,mb,,,,1.19,us,usp0008ht5,2014-11-07T01:04:48.463Z,"7 km NE of San José Acatempa, Guatemala",earthquake,,,,13,reviewed,us,us
+1998-03-18T02:54:54.390Z,13.929,-91.054,33,4.5,mb,,,,1.1,us,usp0008hmz,2014-11-07T01:04:46.583Z,"16 km S of La Gomera, Guatemala",earthquake,,,,15,reviewed,us,us
+1998-03-04T14:42:33.090Z,14.358,-91.38,33,4.4,mb,,,,1.08,us,usp0008gxw,2014-11-07T01:04:41.600Z,"8 km SW of Río Bravo, Guatemala",earthquake,,,,4,reviewed,us,us
+1998-03-03T02:24:43.880Z,14.38,-91.466,62.8,6.1,mwc,,,,0.93,us,usp0008gv3,2020-09-15T20:02:27.972Z,"9 km SSW of San José El Ídolo, Guatemala",earthquake,,,,,reviewed,us,hrv
+1998-02-27T02:57:54.450Z,13.621,-90.744,58.6,4.5,mb,,,,0.88,us,usp0008gnw,2014-11-07T01:04:35.751Z,near the coast of Guatemala,earthquake,,,,12,reviewed,us,us
+1998-02-27T02:56:37.880Z,14.401,-91.333,33,3.7,mb,,,,0.66,us,usp0008gnv,2014-11-07T01:04:35.749Z,"1 km W of Río Bravo, Guatemala",earthquake,,,,2,reviewed,us,us
+1998-02-26T14:54:05.950Z,13.487,-90.495,33,4.7,mb,,,,1.47,us,usp0008gmu,2014-11-07T01:04:35.638Z,"54 km SSE of Iztapa, Guatemala",earthquake,,,,1,reviewed,us,us
+1998-02-18T10:49:43.130Z,14.429,-91.296,33,3.6,mb,,,,1.45,us,usp0008g6c,2014-11-07T01:04:33.913Z,"3 km NE of Río Bravo, Guatemala",earthquake,,,,1,reviewed,us,us
+1998-02-17T04:53:35.980Z,14.169,-91.251,33,4.1,mb,,,,1.07,us,usp0008g3t,2014-11-07T01:04:33.662Z,"6 km ESE of Nueva Concepción, Guatemala",earthquake,,,,4,reviewed,us,us
+1998-02-04T13:25:32.210Z,14.196,-90.621,100,3.5,mb,,,,0.47,us,usp0008fe8,2014-11-07T01:04:28.858Z,"4 km SE of Guanagazapa, Guatemala",earthquake,,,,1,reviewed,us,us
+1998-01-23T10:53:08.090Z,13.95,-89.882,143.9,4.8,mb,,,,1.25,us,usp0008euw,2014-11-07T01:04:22.407Z,"5 km NW of Ahuachapán, El Salvador",earthquake,,,,11,reviewed,us,us
+1998-01-15T05:21:11.070Z,14.418,-91.225,33,3.6,mb,,,,1.36,us,usp0008ecf,2014-11-07T01:04:20.395Z,"1 km S of Santa Bárbara, Guatemala",earthquake,,,,1,reviewed,us,us
+1998-01-15T01:49:11.800Z,13.955,-91.223,60.7,4.7,mb,,,,1.17,us,usp0008ec6,2014-11-07T01:04:20.358Z,"23 km SW of La Gomera, Guatemala",earthquake,,,,15,reviewed,us,us
+1998-01-12T09:39:29.440Z,14.272,-91.335,33,3.8,mb,,,,1.34,us,usp0008e5c,2014-11-07T01:04:19.466Z,"3 km ESE of Tiquisate, Guatemala",earthquake,,,,1,reviewed,us,us
+1998-01-10T08:20:05.760Z,14.374,-91.473,33,6.6,mwc,,,,0.93,us,usp0008e1g,2020-07-08T00:39:26.242Z,"10 km SSW of San José El Ídolo, Guatemala",earthquake,,,,,reviewed,us,hrv
+1997-12-22T13:17:46.590Z,13.653,-90.587,72.6,4.6,mb,,,,1.42,us,usp0008d1c,2014-11-07T01:04:09.256Z,"33 km SSE of Iztapa, Guatemala",earthquake,,,,6,reviewed,us,us
+1997-12-22T10:03:45.180Z,13.742,-90.316,59.3,6.1,mwc,,,,1.27,us,usp0008d16,2020-09-15T19:57:15.740Z,"28 km SSW of Pasaco, Guatemala",earthquake,,,,,reviewed,us,hrv
+1997-12-13T03:51:27.210Z,13.948,-90.894,100,4.2,mb,,,,1.46,us,usp0008cjd,2014-11-07T01:04:07.103Z,"8 km WNW of Puerto San José, Guatemala",earthquake,,,,10,reviewed,us,us
+1997-12-09T23:42:05.920Z,14.505,-90.959,33,4.2,mb,,,,0.85,us,usp0008cc4,2014-11-07T01:04:06.483Z,"0 km WNW of Yepocapa, Guatemala",earthquake,,,,5,reviewed,us,us
+1997-12-04T22:14:26.280Z,13.638,-90.618,86.5,5.5,mwc,,,,0.98,us,usp0008bs1,2020-09-15T19:53:42.165Z,"34 km SSE of Iztapa, Guatemala",earthquake,,4.6,,,reviewed,us,hrv
+1997-12-04T20:08:48.360Z,13.718,-90.667,78.9,4.4,mb,,,,0.91,us,usp0008brr,2014-11-07T01:04:02.814Z,"24 km S of Iztapa, Guatemala",earthquake,,6.8,,12,reviewed,us,us
+1997-12-04T14:56:41.790Z,13.639,-90.658,80.5,6,mwc,,,,0.93,us,usp0008brc,2020-09-15T19:53:30.575Z,"33 km S of Iztapa, Guatemala",earthquake,,4,,,reviewed,us,hrv
+1997-12-02T17:48:47.610Z,13.775,-90.673,76.4,4.5,mb,,,,1.38,us,usp0008bnd,2014-11-07T01:04:01.817Z,"17 km SSE of Iztapa, Guatemala",earthquake,,,,7,reviewed,us,us
+1997-11-27T18:40:44.470Z,14.483,-91.148,33,3.9,mb,,,,1.04,us,usp0008bef,2014-11-07T01:03:57.804Z,"6 km NNE of Patulul, Guatemala",earthquake,,,,1,reviewed,us,us
+1997-08-05T03:33:59.390Z,13.782,-91.159,100,4,mb,,,,1.22,us,usp00085tt,2014-11-07T01:03:15.906Z,"35 km SSW of La Gomera, Guatemala",earthquake,,,,7,reviewed,us,us
+1997-06-07T11:44:02.340Z,14.29,-91.44,33,4.1,mb,,,,0.86,us,usp000838e,2014-11-07T01:02:54.257Z,"8 km W of Tiquisate, Guatemala",earthquake,,,,2,reviewed,us,us
+1997-06-02T03:40:34.040Z,14.091,-91.402,33,4.2,mb,,,,0.73,us,usp0008322,2014-11-07T01:02:52.471Z,"16 km SW of Nueva Concepción, Guatemala",earthquake,,,,7,reviewed,us,us
+1997-05-29T10:37:12.900Z,14.112,-91.283,100,4.3,mb,,,,0.92,us,usp00082yf,2014-11-07T01:02:49.997Z,"9 km S of Nueva Concepción, Guatemala",earthquake,,,,9,reviewed,us,us
+1997-05-23T19:13:15.000Z,13.643,-90.929,33,4.9,mb,,,,1.23,us,usp00082rx,2014-11-07T01:02:49.099Z,"33 km SSW of Puerto San José, Guatemala",earthquake,,,,37,reviewed,us,us
+1997-05-15T04:39:21.580Z,14.46,-89.775,274.2,5.5,mwc,,,,0.85,us,usp00082b1,2020-09-15T19:32:59.996Z,"3 km WNW of Santa Catarina Mita, Guatemala",earthquake,,,,,reviewed,us,hrv
+1997-05-12T23:10:25.710Z,14.244,-90.981,33,3.9,mb,,,,0.71,us,usp0008271,2014-11-07T01:02:46.450Z,"3 km WNW of La Democracia, Guatemala",earthquake,,,,1,reviewed,us,us
+1997-04-07T15:59:45.610Z,14.418,-90.668,200,3.8,mb,,,,1.33,us,usp0008048,2014-11-07T01:02:31.226Z,"3 km W of San Vicente Pacaya, Guatemala",earthquake,,,,2,reviewed,us,us
+1997-04-04T14:01:06.430Z,13.846,-90.86,66.2,5,mb,,,,1.28,us,usp0007zyb,2014-11-07T01:02:30.079Z,"9 km SSW of Puerto San José, Guatemala",earthquake,,,,30,reviewed,us,us
+1997-03-22T20:32:58.320Z,14.349,-91.373,73.2,4,mb,,,,1.32,us,usp0007z9d,2014-11-07T01:02:21.993Z,"7 km N of Tiquisate, Guatemala",earthquake,,,,2,reviewed,us,us
+1997-03-15T19:47:44.000Z,14.255,-91.496,33,4.3,mb,,,,1.21,us,usp0007ywc,2014-11-07T01:02:19.968Z,"14 km WSW of Tiquisate, Guatemala",earthquake,,,,2,reviewed,us,us
+1997-03-13T06:59:38.270Z,14.216,-89.863,250,4.6,mb,,,,1.07,us,usp0007yrj,2014-11-07T01:02:19.507Z,"6 km NW of El Adelanto, Guatemala",earthquake,,,,11,reviewed,us,us
+1997-02-22T17:03:54.940Z,13.932,-90.748,33,4.3,mb,,,,1.32,us,usp0007xnd,2014-11-07T01:02:10.872Z,"4 km W of Iztapa, Guatemala",earthquake,,,,5,reviewed,us,us
+1997-02-17T03:20:34.680Z,13.939,-91.185,33,4,mb,,,,1.33,us,usp0007xc9,2014-11-07T01:02:09.475Z,"21 km SW of La Gomera, Guatemala",earthquake,,,,3,reviewed,us,us
+1997-01-11T16:45:08.710Z,14.019,-91.188,100,4.5,mb,,,,1.44,us,usp0007vrm,2014-11-07T01:01:57.533Z,"16 km WSW of La Gomera, Guatemala",earthquake,,,,2,reviewed,us,us
+1996-12-28T17:40:05.050Z,14.687,-91.321,100,3.8,mb,,,,1.21,us,usp0007v49,2014-11-07T01:01:50.582Z,"3 km SSW of Santa María Visitación, Guatemala",earthquake,,,,2,reviewed,us,us
+1996-12-17T07:17:29.100Z,14.4,-91.499,64.4,4.5,mb,,,,1.17,us,usp0007uk2,2014-11-07T01:01:47.845Z,"8 km S of Santo Domingo Suchitepéquez, Guatemala",earthquake,,,,9,reviewed,us,us
+1996-12-16T05:54:27.310Z,14.168,-91.005,100,4,mb,,,,1.13,us,usp0007uhn,2014-11-07T01:01:47.678Z,"9 km SW of La Democracia, Guatemala",earthquake,,,,1,reviewed,us,us
+1996-12-09T07:03:09.480Z,14.398,-91.219,87.5,3.4,mb,,,,0.98,us,usp0007u5u,2014-11-07T01:01:45.806Z,"4 km SSE of Santa Bárbara, Guatemala",earthquake,,,,2,reviewed,us,us
+1996-12-08T21:38:31.620Z,14.922,-90.665,33,3.8,mb,,,,1.01,us,usp0007u52,2014-11-07T01:01:45.704Z,"0 km SW of Pachalum, Guatemala",earthquake,,,,1,reviewed,us,us
+1996-12-06T05:53:18.560Z,13.551,-90.568,77.8,3.5,mb,,,,0.36,us,usp0007u17,2014-11-07T01:01:44.946Z,"44 km SSE of Iztapa, Guatemala",earthquake,,24.7,,1,reviewed,us,us
+1996-12-05T19:44:08.880Z,13.715,-90.4,87.4,4.2,mb,,,,1.23,us,usp0007u0a,2014-11-07T01:01:44.623Z,"35 km SW of Pasaco, Guatemala",earthquake,,9.9,,4,reviewed,us,us
+1996-11-18T09:43:08.110Z,13.799,-90.455,33,4,mb,,,,1.21,us,usp0007t67,2014-11-07T01:01:36.494Z,"29 km S of Taxisco, Guatemala",earthquake,,,,1,reviewed,us,us
+1996-11-14T08:52:20.050Z,13.656,-90.488,54.8,4.6,mb,,,,1.23,us,usp0007t0b,2014-11-07T01:01:35.180Z,"38 km SE of Iztapa, Guatemala",earthquake,,,,7,reviewed,us,us
+1996-11-04T09:23:04.970Z,13.79,-90.459,100,3.3,mb,,,,0.97,us,usp0007sdm,2014-11-07T01:01:32.064Z,"30 km S of Taxisco, Guatemala",earthquake,,,,1,reviewed,us,us
+1996-10-27T17:33:06.650Z,13.572,-90.841,33,3.5,md,,,,0.32,us,usp0007s16,2014-11-07T01:01:26.413Z,"39 km S of Puerto San José, Guatemala",earthquake,,,,,reviewed,us,sss
+1996-09-22T19:55:29.680Z,15.028,-90.986,204.2,4.7,mb,,,,1,us,usp0007qba,2014-11-07T01:01:12.769Z,"4 km ESE of Chinique, Guatemala",earthquake,,,,70,reviewed,us,us
+1996-09-07T19:34:40.370Z,14.213,-90.239,33,4.1,mb,,,,0.69,us,usp0007pn3,2014-11-07T01:01:08.247Z,"4 km ENE of Santa María Ixhuatán, Guatemala",earthquake,,,,2,reviewed,us,us
+1996-04-21T07:39:55.360Z,13.732,-90.644,78.1,3.7,mb,,,,1.3,us,usp0007ge4,2014-11-07T01:00:18.382Z,"23 km SSE of Iztapa, Guatemala",earthquake,,27.1,,7,reviewed,us,us
+1996-02-17T10:23:49.360Z,14.21,-91.174,95.5,5.1,mb,,,,1,us,usp0007d3z,2014-11-07T00:59:54.500Z,"13 km E of Nueva Concepción, Guatemala",earthquake,,3.4,,45,reviewed,us,us
+1996-02-16T22:36:06.980Z,14.312,-91.007,100,4,mb,,,,1,us,usp0007d1b,2014-11-07T00:59:54.168Z,"3 km SE of Santa Lucía Cotzumalguapa, Guatemala",earthquake,,,,10,reviewed,us,us
+1996-02-16T21:59:40.640Z,14.61,-91.495,100,3.5,mb,,,,1.1,us,usp0007d1a,2014-11-07T00:59:54.166Z,"1 km E of Zunilito, Guatemala",earthquake,,,,3,reviewed,us,us
+1996-01-08T01:18:59.860Z,15.015,-90.598,33,3.8,mb,,,,0.8,us,usp0007am1,2014-11-07T00:59:37.729Z,"10 km SSE of Cubulco, Guatemala",earthquake,,,,2,reviewed,us,us
+1995-12-06T12:06:18.990Z,13.639,-90.9,33,4.2,mb,,,,1.3,us,usp00078e8,2014-11-07T00:59:23.160Z,"33 km SSW of Puerto San José, Guatemala",earthquake,,,,18,reviewed,us,us
+1995-12-01T18:08:03.410Z,14.162,-91.206,92.9,4.5,mb,,,,1.3,us,usp00077x0,2014-11-07T00:59:18.486Z,"10 km ESE of Nueva Concepción, Guatemala",earthquake,,5.1,,25,reviewed,us,us
+1995-11-20T14:39:05.940Z,14.352,-90.366,10,3.8,mb,,,,0.5,us,usp0007757,2014-11-07T00:59:12.017Z,"4 km S of Santa Cruz Naranjo, Guatemala",earthquake,,,,1,reviewed,us,us
+1995-11-20T14:35:47.160Z,14.414,-90.468,10,3.9,mb,,,,0.8,us,usp0007756,2014-11-07T00:59:12.015Z,"6 km SSW of Fraijanes, Guatemala",earthquake,,,,1,reviewed,us,us
+1995-09-29T10:20:05.120Z,13.78,-90.531,89.4,4.2,mb,,,,1.2,us,usp000745b,2014-11-07T00:58:47.965Z,near the coast of Guatemala,earthquake,,20.7,,9,reviewed,us,us
+1995-09-28T04:51:02.880Z,13.673,-90.464,33,3.9,mb,,,,1.3,us,usp000743h,2014-11-07T00:58:47.742Z,"39 km SE of Iztapa, Guatemala",earthquake,,,,10,reviewed,us,us
+1995-09-19T15:40:08.570Z,13.874,-90.658,63.8,5.3,mw,,,,1.3,us,usp00073ks,2016-11-09T23:31:29.375Z,"8 km SE of Iztapa, Guatemala",earthquake,,,,,reviewed,us,hrv
+1995-09-06T12:18:57.580Z,13.878,-90.954,33,4.3,mb,,,,1,us,usp00072zu,2014-11-07T00:58:41.634Z,"15 km WSW of Puerto San José, Guatemala",earthquake,,,,8,reviewed,us,us
+1995-08-13T21:23:43.980Z,14.752,-91.061,23,4.2,mb,,,,1.4,us,usp00071tj,2014-11-07T00:58:31.451Z,"7 km W of Tecpán Guatemala, Guatemala",earthquake,,,,13,reviewed,us,us
+1995-07-29T12:48:00.780Z,13.62,-90.13,95,3.9,mb,,,,1.2,us,usp0007141,2014-11-07T00:58:23.874Z,"27 km SSW of San Francisco Menéndez, El Salvador",earthquake,,5.7,,7,reviewed,us,us
+1995-04-15T20:18:04.690Z,13.886,-90.618,85.8,4.4,mb,,,,1.2,us,usp0006vqx,2014-11-07T00:57:42.329Z,"10 km ESE of Iztapa, Guatemala",earthquake,,4.2,,18,reviewed,us,us
+1995-04-13T13:39:02.310Z,14.064,-90.641,76.6,4.1,mb,,,,1.3,us,usp0006vkq,2014-11-07T00:57:41.725Z,"16 km NNE of Iztapa, Guatemala",earthquake,,8.8,,11,reviewed,us,us
+1995-04-10T11:54:16.840Z,13.961,-91.082,20,4.1,mb,,,,1,us,usp0006vf8,2014-11-07T00:57:41.082Z,"13 km SSW of La Gomera, Guatemala",earthquake,,,,6,reviewed,us,us
+1995-02-25T15:53:08.820Z,14.081,-91.282,45.9,4.7,mb,,,,1.1,us,usp0006tha,2014-11-07T00:57:22.800Z,"13 km S of Nueva Concepción, Guatemala",earthquake,,,,54,reviewed,us,us
+1995-02-17T04:25:19.960Z,13.751,-90.567,79.1,3.9,md,,,,0.7,us,usp0006t3a,2014-11-07T00:57:20.595Z,"25 km SE of Iztapa, Guatemala",earthquake,,11.1,,,reviewed,us,sss
+1995-02-03T01:23:20.640Z,13.55,-90.664,47.5,4.3,mb,,,,1.1,us,usp0006s9s,2014-11-07T00:57:16.221Z,"42 km S of Iztapa, Guatemala",earthquake,,13.9,,27,reviewed,us,us
+1995-01-29T03:37:22.570Z,14.062,-89.937,62.9,4.1,mb,,,,0.9,us,usp0006s1j,2014-11-07T00:57:12.011Z,"6 km SSW of Comapa, Guatemala",earthquake,,20.8,,4,reviewed,us,us
+1995-01-06T03:31:43.150Z,13.903,-91.164,85.3,4.5,mb,,,,0.9,us,usp0006qx2,2014-11-07T00:57:06.014Z,"23 km SSW of La Gomera, Guatemala",earthquake,,5.1,,6,reviewed,us,us
+1995-01-02T14:02:18.540Z,14.675,-90.647,33,4.2,md,,,,1.4,us,usp0006qrz,2014-11-07T00:57:04.471Z,"1 km SSW of San Pedro Sacatepéquez, Guatemala",earthquake,,,,,reviewed,us,san
+1995-01-01T08:23:29.500Z,14.256,-89.983,224.5,3.8,mb,,,,0.6,us,usp0006qpz,2014-11-07T00:57:03.258Z,"6 km ESE of Quesada, Guatemala",earthquake,,5.8,,5,reviewed,us,us
+1994-09-09T08:56:49.800Z,14.161,-91.459,69.7,4.1,mb,,,,1.1,us,usp0006j5c,2014-11-07T00:56:14.791Z,"17 km SW of Tiquisate, Guatemala",earthquake,,17.4,,6,reviewed,us,us
+1994-07-11T19:51:53.920Z,14.323,-91.083,67.8,4.3,mb,,,,1.5,us,usp0006fgh,2014-11-07T00:55:51.064Z,"6 km WSW of Santa Lucía Cotzumalguapa, Guatemala",earthquake,,,,11,reviewed,us,us
+1994-06-04T22:30:54.700Z,14.763,-90.732,223.3,4.3,mb,,,,1,us,usp0006drb,2014-11-07T00:55:39.228Z,"6 km ESE of San Martín Jilotepeque, Guatemala",earthquake,,3.8,,17,reviewed,us,us
+1994-06-01T10:15:48.740Z,13.789,-90.913,90,3.9,mb,,,,1.2,us,usp0006dgf,2014-11-07T00:55:35.459Z,"18 km SSW of Puerto San José, Guatemala",earthquake,,,,1,reviewed,us,us
+1994-05-12T19:43:58.500Z,14,-91.213,66,4.6,mb,,,,1.3,us,usp0006cf9,2014-11-07T00:55:28.185Z,"19 km WSW of La Gomera, Guatemala",earthquake,,,,24,reviewed,us,us
+1994-05-03T22:58:01.620Z,14.195,-91.238,33,4,mb,,,,0.7,us,usp0006c0x,2014-11-07T00:55:26.060Z,"6 km E of Nueva Concepción, Guatemala",earthquake,,,,3,reviewed,us,us
+1994-05-03T03:56:48.610Z,13.963,-90.959,90.8,5.5,mw,,,,1.1,us,usp0006byz,2020-09-15T17:07:32.683Z,"15 km WNW of Puerto San José, Guatemala",earthquake,,4.4,,,reviewed,us,hrv
+1994-05-02T18:41:46.170Z,14.288,-90.229,10,4.7,mb,,,,1,us,usp0006bxk,2014-11-07T00:55:25.230Z,"7 km E of Cuilapa, Guatemala",earthquake,,,,4,reviewed,us,us
+1994-05-01T20:23:13.740Z,14.867,-91.324,157.6,5.2,mw,,,,1,us,usp0006bwc,2016-11-09T22:25:39.209Z,"2 km NNW of Nahualá, Guatemala",earthquake,,3,,,reviewed,us,hrv
+1994-04-23T03:21:38.940Z,13.798,-90.978,79.9,4.6,mb,,,,1.1,us,usp0006bgt,2014-11-07T00:55:20.349Z,"22 km SW of Puerto San José, Guatemala",earthquake,,5.9,,29,reviewed,us,us
+1994-03-29T22:05:35.250Z,14.085,-90.479,33,4.2,mb,,,,1.1,us,usp0006ac6,2014-11-07T00:55:11.499Z,"2 km NNW of Taxisco, Guatemala",earthquake,,,,1,reviewed,us,us
+1994-01-28T21:17:03.770Z,14.299,-91.375,72,4.1,mb,,,,1.1,us,usp00067n2,2014-11-07T00:54:51.172Z,"2 km NW of Tiquisate, Guatemala",earthquake,,12.9,,5,reviewed,us,us
+1994-01-19T23:40:47.740Z,14.565,-90.992,10,3.8,md,,,,0.6,us,usp000670j,2014-11-07T00:54:49.043Z,"5 km WNW of Acatenango, Guatemala",earthquake,,,,,reviewed,us,gcg
+1993-11-11T16:46:42.350Z,13.813,-90.437,70.5,5.6,mw,,,,1.1,us,usp00063j0,2020-09-15T16:47:42.871Z,"28 km S of Taxisco, Guatemala",earthquake,,,,,reviewed,us,hrv
+1993-09-27T06:47:20.730Z,14.379,-90.43,33,4.3,mb,,,,1.2,us,usp000613w,2014-11-07T00:54:03.142Z,"6 km W of Santa Cruz Naranjo, Guatemala",earthquake,,,,1,reviewed,us,us
+1993-09-12T03:22:38.500Z,13.826,-90.429,68.2,6,mw,,,,1.1,us,usp000606e,2020-09-15T16:38:59.489Z,"27 km S of Taxisco, Guatemala",earthquake,,,,,reviewed,us,hrv
+1993-08-22T10:02:11.210Z,14.238,-90.701,108,5.8,mw,,,,1.1,us,usp0005yzv,2020-09-15T16:35:14.961Z,Guatemala,earthquake,,3.7,,,reviewed,us,hrv
+1993-08-01T15:32:56.980Z,14.722,-90.977,237.2,4.3,mb,,,,0.7,us,usp0005xt3,2014-11-07T00:53:37.501Z,"4 km SSE of Tecpán Guatemala, Guatemala",earthquake,,6,,26,reviewed,us,us
+1993-05-20T04:55:54.450Z,13.757,-90.952,31.3,5.8,mw,,,,1.1,us,usp0005t53,2020-09-15T16:23:21.149Z,"23 km SW of Puerto San José, Guatemala",earthquake,,,,,reviewed,us,hrv
+1993-05-19T20:39:57.090Z,13.96,-90.978,33,4.3,mb,,,,1.1,us,usp0005t4b,2014-11-07T00:53:02.694Z,"15 km SSE of La Gomera, Guatemala",earthquake,,,,4,reviewed,us,us
+1993-05-09T09:17:57.190Z,13.514,-90.719,61.6,4.6,mb,,,,1.2,us,usp0005sfq,2014-11-07T00:52:59.174Z,"46 km S of Iztapa, Guatemala",earthquake,,6.1,,15,reviewed,us,us
+1993-04-19T01:52:13.540Z,14.882,-90.567,33,4.2,mb,,,,1.7,us,usp0005rde,2014-11-07T00:52:50.414Z,"6 km SW of Granados, Guatemala",earthquake,,,,4,reviewed,us,us
+1993-04-19T00:18:02.310Z,14.285,-90.183,33,4.4,mb,,,,1.2,us,usp0005rd4,2020-08-29T02:12:43.258Z,"6 km N of Oratorio, Guatemala",earthquake,,,,8,reviewed,us,us
+1993-04-18T07:27:51.920Z,14.742,-91.148,33,3.8,mb,,,,1.7,us,usp0005rca,2014-11-07T00:52:50.203Z,"0 km E of Panajachel, Guatemala",earthquake,,,,1,reviewed,us,us
+1993-03-13T09:45:08.310Z,14.91,-90.727,33,4.2,mb,,,,1.7,us,usp0005peq,2014-11-07T00:52:35.181Z,"7 km WSW of Pachalum, Guatemala",earthquake,,,,2,reviewed,us,us
+1993-03-12T01:08:36.590Z,13.59,-90.897,63.4,4.9,mb,,,,1.4,us,usp0005pc7,2014-11-07T00:52:34.787Z,"38 km SSW of Puerto San José, Guatemala",earthquake,,,,15,reviewed,us,us
+1993-02-16T22:03:50.160Z,13.573,-90.798,33,3.6,mb,,,,1.6,us,usp0005n6v,2014-11-07T00:52:24.764Z,"39 km S of Puerto San José, Guatemala",earthquake,,,,1,reviewed,us,us
+1993-01-13T09:41:58.410Z,14.239,-90.21,185,4.5,mb,,,,1,us,usp0005kpx,2014-11-07T00:52:13.650Z,"3 km WNW of Oratorio, Guatemala",earthquake,,10.3,,8,reviewed,us,us
+1992-10-31T18:12:52.730Z,14.253,-90.772,179.8,4.7,mb,,,,0.9,us,usp0005g4r,2014-11-07T00:51:44.812Z,"5 km SSE of Escuintla, Guatemala",earthquake,,10.9,,5,reviewed,us,us
+1992-09-29T17:58:27.640Z,13.851,-90.984,33,4.3,mb,,,,1.1,us,usp0005eq6,2014-11-07T00:51:32.291Z,"19 km WSW of Puerto San José, Guatemala",earthquake,,,,6,reviewed,us,us
+1992-09-28T05:56:57.800Z,13.497,-90.705,19.4,4.5,mb,,,,1.1,us,usp0005emw,2014-11-07T00:51:31.350Z,"48 km S of Iztapa, Guatemala",earthquake,,20.4,,13,reviewed,us,us
+1992-09-24T07:47:34.710Z,13.675,-91.106,33,4.6,mb,,,,1.2,us,usp0005eea,2014-11-07T00:51:30.462Z,"41 km SW of Puerto San José, Guatemala",earthquake,,,,17,reviewed,us,us
+1992-09-24T06:10:25.080Z,14.319,-91.447,33,4.6,mb,,,,0.9,us,usp0005ee5,2014-11-07T00:51:30.453Z,"10 km WNW of Tiquisate, Guatemala",earthquake,,,,1,reviewed,us,us
+1992-09-21T09:22:26.770Z,14.03,-91.07,33,4.5,mb,,,,1.3,us,usp0005e97,2014-11-07T00:51:29.844Z,"6 km SSW of La Gomera, Guatemala",earthquake,,,,3,reviewed,us,us
+1992-03-20T17:16:24.340Z,13.719,-90.851,61.1,5.4,mw,,,,1.4,us,usp00054jx,2016-11-09T22:07:19.701Z,"23 km S of Puerto San José, Guatemala",earthquake,,,,,reviewed,us,hrv
+1992-02-13T16:58:05.850Z,13.712,-90.21,91,3.8,mb,,,,0.8,us,usp000530v,2014-11-07T00:50:05.782Z,"25 km SW of San Francisco Menéndez, El Salvador",earthquake,,12.9,,1,reviewed,us,us
+1992-02-11T06:44:19.310Z,14.244,-90.639,72.5,4.2,mb,,,,1.3,us,usp00052x1,2014-11-07T00:50:05.297Z,"2 km NNE of Guanagazapa, Guatemala",earthquake,,34.1,,5,reviewed,us,us
+1992-02-09T21:38:42.730Z,13.808,-90.612,84.5,4.4,mb,,,,1.2,us,usp00052uz,2014-11-07T00:50:05.003Z,"17 km SE of Iztapa, Guatemala",earthquake,,4.9,,9,reviewed,us,us
+1992-01-21T12:54:14.760Z,14.03,-91.038,63,4.3,mb,,,,1.2,us,usp000521f,2014-11-07T00:49:55.845Z,"6 km SSE of La Gomera, Guatemala",earthquake,,14,,8,reviewed,us,us
+1991-10-30T17:55:08.550Z,13.571,-90.437,33,4.7,mb,,,,1.1,us,usp0004yms,2014-11-07T00:49:28.470Z,"49 km SE of Iztapa, Guatemala",earthquake,,,,11,reviewed,us,us
+1991-10-30T17:46:44.510Z,13.579,-90.485,33,4.9,mb,,,,1,us,usp0004ymr,2014-11-07T00:49:28.465Z,"45 km SSE of Iztapa, Guatemala",earthquake,,,,16,reviewed,us,us
+1991-10-26T17:08:20.220Z,13.911,-91,33,4.2,mb,,,,1.1,us,usp0004ye6,2014-11-07T00:49:27.749Z,"19 km W of Puerto San José, Guatemala",earthquake,,,,4,reviewed,us,us
+1991-10-14T15:46:46.910Z,14.282,-90.8,31.5,4.4,mb,,,,1.2,us,usp0004xtp,2014-11-07T00:49:23.890Z,Guatemala,earthquake,,13.6,,1,reviewed,us,us
+1991-10-02T15:37:28.180Z,15.181,-90.323,33,4.4,mb,,,,1.3,us,usp0004xaa,2014-11-07T00:49:20.854Z,"8 km N of Salamá, Guatemala",earthquake,,,,1,reviewed,us,us
+1991-09-23T07:37:11.330Z,13.923,-90.95,33,4.3,mb,,,,1.4,us,usp0004wyf,2014-11-07T00:49:16.978Z,near the coast of Guatemala,earthquake,,,,2,reviewed,us,us
+1991-09-18T23:34:47.930Z,14.568,-90.953,5,4.7,mb,,,,1.3,us,usp0004wsp,2014-11-07T00:49:15.818Z,"1 km NW of Acatenango, Guatemala",earthquake,,,,10,reviewed,us,us
+1991-09-18T12:28:24.100Z,14.34,-91.371,77.1,4.4,mb,,,,1.6,us,usp0004ws2,2014-11-07T00:49:15.769Z,"6 km N of Tiquisate, Guatemala",earthquake,,25.8,,2,reviewed,us,us
+1991-09-18T09:48:13.110Z,14.646,-90.986,5,6.2,mw,,,,1.3,us,usp0004wrv,2020-08-29T01:00:30.574Z,"4 km SE of Patzún, Guatemala",earthquake,,,,,reviewed,us,hrv
+1991-08-19T05:23:56.640Z,14.101,-90.672,33,4.3,mb,,,,0.8,us,usp0004vk7,2014-11-07T00:49:06.763Z,Guatemala,earthquake,,,,1,reviewed,us,us
+1991-07-12T05:14:35.920Z,14.012,-90.063,82.5,4.6,mb,,,,1,us,usp0004u1d,2014-11-07T00:48:54.202Z,"3 km SSE of Moyuta, Guatemala",earthquake,,,,16,reviewed,us,us
+1991-06-30T22:08:12.360Z,14.092,-91.346,75.5,4.1,mb,,,,1.5,us,usp0004tme,2014-11-07T00:48:47.965Z,"12 km SSW of Nueva Concepción, Guatemala",earthquake,,24.8,,3,reviewed,us,us
+1991-04-09T18:28:40.200Z,13.586,-90.707,33,3.6,mb,,,,0.9,us,usp0004q4s,2014-11-07T00:48:20.750Z,"38 km S of Iztapa, Guatemala",earthquake,,,,1,reviewed,us,us
+1991-04-06T00:02:09.050Z,13.918,-90.47,33,4.9,mb,,,,1.1,us,usp0004q04,2014-11-07T00:48:19.907Z,"16 km S of Taxisco, Guatemala",earthquake,,,,3,reviewed,us,us
+1991-03-28T19:01:27.070Z,14.152,-91.199,44.4,4.4,mb,,,,1,us,usp0004pp8,2014-11-07T00:48:14.977Z,"12 km ESE of Nueva Concepción, Guatemala",earthquake,,24,,3,reviewed,us,us
+1991-03-02T04:12:41.330Z,14.008,-91.382,74.6,4.4,mb,,,,1.3,us,usp0004nka,2014-11-07T00:48:08.697Z,"23 km SSW of Nueva Concepción, Guatemala",earthquake,,5.2,,4,reviewed,us,us
+1991-03-02T03:32:11.930Z,14.407,-89.785,261.2,4.5,mb,,,,1,us,usp0004nk7,2014-11-07T00:48:08.637Z,"6 km SW of Santa Catarina Mita, Guatemala",earthquake,,,,37,reviewed,us,us
+1991-01-16T06:04:55.310Z,13.783,-90.687,69.1,5.5,mw,,,,1.3,us,usp0004krp,2020-08-29T00:27:07.152Z,"16 km S of Iztapa, Guatemala",earthquake,,,,,reviewed,us,hrv
+1990-12-18T06:49:29.920Z,14.11,-90.419,224.6,3.7,mb,,,,0.7,us,usp0004j9q,2014-11-07T00:47:37.796Z,"3 km N of Guazacapán, Guatemala",earthquake,,29.4,,2,reviewed,us,us
+1990-10-28T01:18:35.630Z,14.254,-90.038,184.6,4.5,mb,,,,0.9,us,usp0004g89,2014-11-07T00:47:19.199Z,"1 km S of Quesada, Guatemala",earthquake,,32.9,,2,reviewed,us,us
+1990-09-22T02:49:54.320Z,13.706,-90.778,94.4,4.1,mb,,,,0.9,us,usp0004eye,2014-11-07T00:47:07.808Z,"24 km S of Puerto San José, Guatemala",earthquake,,14.3,,2,reviewed,us,us
+1990-09-15T08:45:55.000Z,13.764,-90.686,85.9,4.7,mb,,,,1.1,us,usp0004erh,2014-11-07T00:47:07.086Z,"18 km S of Iztapa, Guatemala",earthquake,,5.5,,4,reviewed,us,us
+1990-09-13T03:26:09.780Z,13.81,-90.622,33,4,mb,,,,1.3,us,usp0004eng,2014-11-07T00:47:06.785Z,"16 km SE of Iztapa, Guatemala",earthquake,,,,5,reviewed,us,us
+1990-08-25T06:12:38.740Z,13.854,-90.659,83.6,4.3,mb,,,,1.2,us,usp0004dvc,2014-11-07T00:46:59.245Z,"10 km SSE of Iztapa, Guatemala",earthquake,,7.6,,4,reviewed,us,us
+1990-07-31T09:55:16.540Z,14.23,-91.081,93.1,4.5,mb,,,,1.1,us,usp0004cs7,2014-11-07T00:46:47.868Z,"13 km SSW of Santa Lucía Cotzumalguapa, Guatemala",earthquake,,5.3,,10,reviewed,us,us
+1990-07-16T05:56:35.060Z,13.949,-91.097,68.1,4.3,mb,,,,1.2,us,usp0004bxj,2014-11-07T00:46:41.711Z,"15 km SSW of La Gomera, Guatemala",earthquake,,,,5,reviewed,us,us
+1990-06-11T08:20:12.930Z,14.116,-90.234,194.1,4.2,mb,,,,1.3,us,usp0004acq,2014-11-07T00:46:30.913Z,"5 km NE of San Juan Tecuaco, Guatemala",earthquake,,11.7,,9,reviewed,us,us
+1990-05-18T06:32:11.580Z,13.546,-90.435,33,4,mb,,,,0.5,us,usp00049ff,2014-11-07T00:46:22.722Z,"52 km SE of Iztapa, Guatemala",earthquake,,,,3,reviewed,us,us
+1990-02-13T02:51:40.350Z,13.744,-90.601,33,4.8,mb,,,,1,us,usp00045dc,2014-11-07T00:45:43.255Z,"23 km SSE of Iztapa, Guatemala",earthquake,,,,13,reviewed,us,us
+1989-09-02T20:48:12.450Z,13.545,-90.632,69.2,4.5,mb,,,,1.3,us,usp0003z5n,2014-11-07T00:44:48.924Z,"43 km S of Iztapa, Guatemala",earthquake,,7.4,,2,reviewed,us,us
+1989-08-07T12:11:00.920Z,14.34,-90.524,139.3,4.4,mb,,,,0.9,us,usp0003y6h,2014-11-07T00:44:40.890Z,"13 km NNW of Pueblo Nuevo Viñas, Guatemala",earthquake,,4,,1,reviewed,us,us
+1989-08-07T05:29:52.440Z,13.631,-90.759,54.2,4.5,mb,,,,1.1,us,usp0003y62,2014-11-07T00:44:40.844Z,"33 km SSE of Puerto San José, Guatemala",earthquake,,,,4,reviewed,us,us
+1989-08-02T03:17:07.460Z,13.831,-90.556,89.7,4.5,mb,,,,1.1,us,usp0003xyb,2014-11-07T00:44:38.328Z,"19 km SE of Iztapa, Guatemala",earthquake,,3.6,,2,reviewed,us,us
+1989-07-28T08:18:54.920Z,14.081,-90.86,33,4.6,mb,,,,1.4,us,usp0003xsh,2014-11-07T00:44:35.173Z,"13 km S of Masagua, Guatemala",earthquake,,,,1,reviewed,us,us
+1989-07-26T16:08:45.390Z,14.427,-91.416,61.5,5.4,mw,,,,1.3,us,usp0003xqm,2016-11-09T23:04:44.446Z,"2 km SSE of San José El Ídolo, Guatemala",earthquake,,,,,reviewed,us,hrv
+1989-06-23T09:02:51.970Z,14.251,-91.177,94.6,4.3,mb,,,,1.4,us,usp0003wj3,2014-11-07T00:44:23.847Z,"14 km ENE of Nueva Concepción, Guatemala",earthquake,,15.9,,8,reviewed,us,us
+1988-12-16T09:17:04.860Z,13.968,-90.855,70.1,5.8,mw,,,,1.4,us,usp0003pwk,2020-08-28T22:26:36.988Z,"5 km NW of Puerto San José, Guatemala",earthquake,,3.2,,,reviewed,us,hrv
+1988-11-16T05:28:19.920Z,14.146,-91.106,76.3,4.9,mb,,,,1.3,us,usp0003nwq,2014-11-07T00:43:06.491Z,"9 km NW of La Gomera, Guatemala",earthquake,,3.2,,26,reviewed,us,us
+1988-11-04T02:43:11.350Z,13.836,-90.645,67.5,5.7,mw,,,,1.2,us,usp0003nh4,2020-08-28T22:21:08.469Z,"12 km SSE of Iztapa, Guatemala",earthquake,,,,,reviewed,us,hrv
+1988-11-03T15:17:02.510Z,13.742,-90.774,70.2,5,mb,,,,1.2,us,usp0003ng6,2014-11-07T00:43:03.559Z,"21 km SSE of Puerto San José, Guatemala",earthquake,,,,5,reviewed,us,us
+1988-11-03T14:47:10.780Z,13.881,-90.45,68.5,6.6,mw,,,,1.1,us,usp0003ng5,2020-07-07T23:52:20.985Z,"20 km S of Taxisco, Guatemala",earthquake,,,,,reviewed,us,hrv
+1988-10-15T10:13:26.810Z,14.683,-90.875,33,4.8,mb,,,,1.5,us,usp0003mum,2014-11-07T00:42:58.033Z,"4 km NNE of Zaragoza, Guatemala",earthquake,,,,11,reviewed,us,us
+1988-10-15T08:02:56.980Z,14.632,-90.828,42.1,4.6,mb,,,,1.3,us,usp0003muh,2014-11-07T00:42:58.022Z,"1 km ENE of San Andrés Itzapa, Guatemala",earthquake,,16.1,,11,reviewed,us,us
+1988-09-13T19:45:28.290Z,13.659,-90.85,55.3,5.6,mw,,,,1.3,us,usp0003ky7,2020-08-28T22:17:42.836Z,"29 km S of Puerto San José, Guatemala",earthquake,,4.6,,,reviewed,us,hrv
+1988-09-05T06:56:34.030Z,14.237,-90.508,182.3,4.6,mb,,,,0.9,us,usp0003kpk,2014-11-07T00:42:47.319Z,"3 km WNW of Pueblo Nuevo Viñas, Guatemala",earthquake,,6.2,,4,reviewed,us,us
+1988-07-20T09:40:01.400Z,13.721,-91.119,57,4.9,mb,,,,1.2,us,usp0003j11,2014-11-07T00:42:31.520Z,"39 km SW of Puerto San José, Guatemala",earthquake,,4.1,,20,reviewed,us,us
+1988-07-20T01:18:50.600Z,14.39,-90.292,193.6,4.7,mb,,,,0.9,us,usp0003j0p,2014-11-07T00:42:31.471Z,"0 km ENE of Santa Rosa de Lima, Guatemala",earthquake,,2.9,,8,reviewed,us,us
+1988-06-25T16:33:08.600Z,14.557,-90.568,10,3.8,m,,,,0.3,us,usp0003h9w,2014-11-07T00:42:21.625Z,"3 km NNE of Villa Nueva, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-06-07T01:41:01.910Z,14.556,-90.537,7.7,4.2,mb,,,,0.9,us,usp0003gss,2014-11-07T00:42:17.915Z,Guatemala,earthquake,,3.5,,3,reviewed,us,us
+1988-05-30T00:58:17.540Z,14.501,-90.505,10,2.9,m,,,,0.6,us,usp0003gh3,2014-11-07T00:42:11.994Z,"3 km ENE of Villa Canales, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-25T23:45:21.650Z,14.555,-90.552,10,2.8,m,,,,0.4,us,usp0003gd2,2014-11-07T00:42:11.598Z,"4 km NE of Villa Nueva, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-25T22:34:54.180Z,14.544,-90.541,10,2.6,m,,,,0.2,us,usp0003gcz,2014-11-07T00:42:11.592Z,"5 km NNE of Petapa, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-25T22:19:38.350Z,14.52,-90.569,10,3.1,m,,,,1.5,us,usp0003gcy,2014-11-07T00:42:11.590Z,"1 km ESE of Villa Nueva, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-25T15:17:10.990Z,14.561,-90.562,10,2.8,m,,,,0.2,us,usp0003gcm,2014-11-07T00:42:11.506Z,"4 km NNE of Villa Nueva, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-25T01:30:05.410Z,14.576,-90.548,10,2.5,m,,,,0.2,us,usp0003gbt,2014-11-07T00:42:11.406Z,"5 km W of Santa Catarina Pinula, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-24T04:18:48.580Z,14.561,-90.534,10,2.7,m,,,,0.7,us,usp0003gah,2014-11-07T00:42:11.305Z,"3 km WSW of Santa Catarina Pinula, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-23T21:54:34.490Z,14.58,-90.549,10,2.5,m,,,,0.4,us,usp0003gab,2014-11-07T00:42:11.285Z,"5 km W of Santa Catarina Pinula, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-23T21:52:37.470Z,14.544,-90.511,10,3.2,m,,,,1.5,us,usp0003gaa,2014-11-07T00:42:11.283Z,"3 km SSW of Santa Catarina Pinula, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-23T17:35:53.350Z,14.535,-90.547,10,2.6,m,,,,0.3,us,usp0003ga5,2014-11-07T00:42:11.267Z,"4 km NNE of Petapa, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-23T17:21:28.860Z,14.562,-90.546,10,3,m,,,,0.4,us,usp0003ga4,2014-11-07T00:42:11.265Z,"5 km W of Santa Catarina Pinula, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-23T15:01:16.780Z,14.531,-90.549,10,3,m,,,,0.4,us,usp0003g9z,2014-11-07T00:42:11.255Z,"3 km NNE of Petapa, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-23T09:11:09.620Z,14.542,-90.546,10,2.9,m,,,,0.6,us,usp0003g9s,2014-11-07T00:42:11.239Z,"4 km ENE of Villa Nueva, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-23T09:05:02.800Z,14.539,-90.56,10,3.4,m,,,,0.4,us,usp0003g9r,2014-11-07T00:42:11.237Z,"3 km ENE of Villa Nueva, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-23T06:38:38.360Z,14.513,-90.575,10,3.1,m,,,,1.3,us,usp0003g9j,2014-11-07T00:42:11.224Z,"1 km SE of Villa Nueva, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-23T06:14:26.560Z,14.549,-90.564,10,2.7,m,,,,0.3,us,usp0003g9g,2014-11-07T00:42:11.221Z,"3 km NE of Villa Nueva, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-23T05:43:19.310Z,14.54,-90.545,10,2.9,m,,,,0.5,us,usp0003g9b,2014-11-07T00:42:11.214Z,"4 km NNE of Petapa, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-23T03:13:12.510Z,14.53,-90.578,10,2.7,m,,,,0.4,us,usp0003g98,2014-11-07T00:42:11.208Z,"0 km NE of Villa Nueva, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-23T02:12:51.420Z,14.537,-90.54,10,2.7,m,,,,1.3,us,usp0003g95,2014-11-07T00:42:11.202Z,"4 km NNE of Petapa, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-23T02:10:14.340Z,14.538,-90.563,10,3.3,m,,,,0.3,us,usp0003g94,2014-11-07T00:42:11.201Z,"2 km ENE of Villa Nueva, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-23T01:33:06.440Z,14.55,-90.551,10,3.2,m,,,,0.3,us,usp0003g93,2014-11-07T00:42:11.199Z,"4 km NE of Villa Nueva, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-23T00:00:12.930Z,14.56,-90.546,10,2.7,m,,,,0.3,us,usp0003g8z,2014-11-07T00:42:11.176Z,"5 km WSW of Santa Catarina Pinula, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-22T23:51:38.750Z,14.698,-90.78,10,2.8,m,,,,1,us,usp0003g8x,2014-11-07T00:42:11.172Z,"5 km NNE of El Tejar, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-22T23:41:20.570Z,14.558,-90.559,10,2.5,m,,,,0.2,us,usp0003g8w,2014-11-07T00:42:11.170Z,"4 km NE of Villa Nueva, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-22T22:50:39.080Z,14.561,-90.557,10,3.2,m,,,,0.3,us,usp0003g8s,2014-11-07T00:42:11.159Z,"5 km NE of Villa Nueva, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-22T22:09:11.120Z,14.57,-90.55,10,2.8,m,,,,0.3,us,usp0003g8p,2014-11-07T00:42:11.150Z,"5 km W of Santa Catarina Pinula, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-22T22:08:28.860Z,14.552,-90.554,10,2.6,m,,,,0.2,us,usp0003g8n,2014-11-07T00:42:11.149Z,"4 km NE of Villa Nueva, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-22T19:48:04.780Z,14.548,-90.513,10,2.7,m,,,,0.4,us,usp0003g8k,2014-11-07T00:42:11.146Z,"2 km SSW of Santa Catarina Pinula, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-22T19:44:48.990Z,14.527,-90.585,16.4,4.6,mb,,,,0.9,us,usp0003g8j,2020-08-28T22:04:03.478Z,"0 km NNE of Villa Nueva, Guatemala",earthquake,,8.5,,9,reviewed,us,us
+1988-05-22T19:42:07.300Z,14.527,-90.586,10,4.4,mb,,,,1.3,us,usp0003g8h,2014-11-07T00:42:11.141Z,"0 km NNW of Villa Nueva, Guatemala",earthquake,,,,3,reviewed,us,us
+1988-05-22T10:57:17.330Z,14.526,-90.583,10,2.6,m,,,,0,us,usp0003g80,2014-11-07T00:42:11.079Z,"0 km ENE of Villa Nueva, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-22T07:17:25.740Z,14.564,-90.56,10,2.5,m,,,,0.2,us,usp0003g7v,2014-11-07T00:42:10.965Z,"5 km NNE of Villa Nueva, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-22T07:13:59.260Z,14.586,-90.535,10,2.7,m,,,,0.3,us,usp0003g7u,2014-11-07T00:42:10.963Z,"4 km WNW of Santa Catarina Pinula, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-22T07:12:39.920Z,14.561,-90.555,10,3.5,m,,,,0.5,us,usp0003g7s,2014-11-07T00:42:10.936Z,"5 km NE of Villa Nueva, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-22T02:43:36.710Z,14.571,-90.545,10,2.5,m,,,,0.1,us,usp0003g7g,2014-11-07T00:42:10.896Z,"4 km W of Santa Catarina Pinula, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-21T23:46:35.070Z,14.568,-90.549,10,2.6,m,,,,0.4,us,usp0003g7b,2014-11-07T00:42:10.886Z,"5 km W of Santa Catarina Pinula, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-21T23:00:10.010Z,14.567,-90.55,10,2.5,m,,,,0.2,us,usp0003g75,2014-11-07T00:42:10.874Z,"5 km W of Santa Catarina Pinula, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-21T22:04:55.760Z,14.558,-90.556,10,3.1,m,,,,0.3,us,usp0003g70,2014-11-07T00:42:10.857Z,"4 km NE of Villa Nueva, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-21T18:31:47.600Z,14.582,-90.552,10,3.5,m,,,,0.7,us,usp0003g6m,2014-11-07T00:42:10.823Z,"5 km WNW of Santa Catarina Pinula, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-21T18:21:07.400Z,14.569,-90.552,10,3.3,m,,,,0.2,us,usp0003g6k,2014-11-07T00:42:10.821Z,"5 km W of Santa Catarina Pinula, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-21T16:20:33.990Z,14.57,-90.564,10,2.7,m,,,,0.3,us,usp0003g6d,2014-11-07T00:42:10.808Z,"5 km NNE of Villa Nueva, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-21T16:16:11.200Z,14.579,-90.555,10,3.5,m,,,,0.2,us,usp0003g6c,2014-11-07T00:42:10.806Z,"6 km W of Santa Catarina Pinula, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-21T14:48:42.850Z,14.569,-90.549,10,2.6,m,,,,0.2,us,usp0003g62,2014-11-07T00:42:10.718Z,"5 km W of Santa Catarina Pinula, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-21T14:25:49.470Z,14.505,-90.601,10,2.6,m,,,,0.2,us,usp0003g5y,2014-11-07T00:42:10.699Z,"2 km SW of Villa Nueva, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-21T14:12:53.660Z,14.564,-90.545,10,3.1,m,,,,0.3,us,usp0003g5x,2014-11-07T00:42:10.697Z,"4 km W of Santa Catarina Pinula, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-21T14:01:31.890Z,14.56,-90.558,10,3.1,m,,,,0.3,us,usp0003g5w,2014-11-07T00:42:10.696Z,"4 km NE of Villa Nueva, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-21T13:12:55.100Z,14.555,-90.537,10,2.9,m,,,,0.5,us,usp0003g5v,2014-11-07T00:42:10.694Z,"4 km WSW of Santa Catarina Pinula, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-21T12:28:46.110Z,14.553,-90.551,10,2.8,m,,,,0.3,us,usp0003g5t,2014-11-07T00:42:10.691Z,"4 km NE of Villa Nueva, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-21T12:27:46.230Z,14.569,-90.558,10,2.8,m,,,,0.4,us,usp0003g5s,2014-11-07T00:42:10.690Z,"5 km NNE of Villa Nueva, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-21T11:26:39.660Z,14.567,-90.556,10,3,m,,,,0.3,us,usp0003g5q,2014-11-07T00:42:10.686Z,"5 km NE of Villa Nueva, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-21T11:22:08.090Z,14.528,-90.586,10,2.7,m,,,,0.1,us,usp0003g5n,2014-11-07T00:42:10.683Z,"0 km N of Villa Nueva, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-21T10:24:16.700Z,14.547,-90.571,10,2.8,m,,,,0.2,us,usp0003g5j,2014-11-07T00:42:10.680Z,"2 km NNE of Villa Nueva, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-21T07:36:46.490Z,14.527,-90.586,10,2.7,m,,,,0.2,us,usp0003g5f,2014-11-07T00:42:10.676Z,"0 km NNW of Villa Nueva, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-21T07:11:59.930Z,14.584,-90.539,10,3,m,,,,0.2,us,usp0003g5e,2014-11-07T00:42:10.675Z,"4 km WNW of Santa Catarina Pinula, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-20T13:26:39.290Z,14.615,-90.561,33,2.7,m,,,,0.8,us,usp0003g4p,2014-11-07T00:42:10.572Z,"5 km ESE of Mixco, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-19T22:28:24.790Z,14.629,-90.518,10,3.7,m,,,,0.3,us,usp0003g3z,2014-11-07T00:42:09.874Z,"1 km SSW of Guatemala City, Guatemala",earthquake,,,,,reviewed,us,gcg
+1988-05-07T07:45:34.680Z,14.204,-90.905,165.7,4.4,mb,,,,1,us,usp0003fr4,2014-11-07T00:42:06.337Z,"5 km ESE of La Democracia, Guatemala",earthquake,,6.1,,4,reviewed,us,us
+1988-03-21T03:32:38.820Z,13.967,-91.289,68.4,4.5,mb,,,,1.2,us,usp0003e5h,2014-11-07T00:41:49.047Z,"25 km S of Nueva Concepción, Guatemala",earthquake,,5.2,,7,reviewed,us,us
+1988-02-18T20:37:45.450Z,13.725,-90.549,83.3,4.2,mb,,,,1,us,usp0003d53,2014-11-07T00:41:40.278Z,"28 km SE of Iztapa, Guatemala",earthquake,,5,,1,reviewed,us,us
+1988-01-19T11:36:36.190Z,14.406,-90.84,164.7,5.9,mw,,,,1.2,us,usp0003c66,2020-08-28T21:48:26.250Z,"9 km SSW of Alotenango, Guatemala",earthquake,,,,,reviewed,us,hrv
+1987-12-06T08:39:24.080Z,13.649,-90.756,71.6,4.5,mb,,,,1.1,us,usp0003b0g,2014-11-07T00:41:21.340Z,"31 km SSE of Puerto San José, Guatemala",earthquake,,4.9,,6,reviewed,us,us
+1987-11-18T11:39:30.810Z,13.933,-90.315,33,4.8,mb,,,,0.9,us,usp0003a7y,2014-11-07T00:41:14.289Z,"12 km WSW of Pasaco, Guatemala",earthquake,,,,5,reviewed,us,us
+1987-09-13T11:20:52.220Z,14.272,-89.979,123.4,5.8,mw,,,,1,us,usp00038c1,2020-08-28T21:31:01.495Z,"6 km E of Quesada, Guatemala",earthquake,,2.5,,,reviewed,us,hrv
+1987-08-13T09:21:22.790Z,14.028,-91.243,61.9,5.1,mw,,,,1.2,us,usp00037g7,2016-11-09T23:14:22.907Z,"20 km SSE of Nueva Concepción, Guatemala",earthquake,,,,,reviewed,us,hrv
+1987-06-11T23:47:43.610Z,14.155,-91.426,65.4,4.5,mb,,,,1.2,us,usp00035qh,2014-11-07T00:40:32.171Z,"14 km WSW of Nueva Concepción, Guatemala",earthquake,,,,5,reviewed,us,us
+1987-05-23T03:27:57.170Z,14.049,-91.314,80.7,5.2,mw,,,,1.2,us,usp000356w,2016-11-09T22:35:34.857Z,"16 km S of Nueva Concepción, Guatemala",earthquake,,5,,,reviewed,us,hrv
+1987-03-21T19:34:38.320Z,14.114,-91.214,85.7,4.4,mb,,,,1.1,us,usp00033gz,2014-11-07T00:40:06.165Z,"13 km SE of Nueva Concepción, Guatemala",earthquake,,5.6,,9,reviewed,us,us
+1987-03-13T09:36:07.290Z,14.439,-91.279,88.4,4.4,mb,,,,1.2,us,usp0003399,2014-11-07T00:40:03.867Z,"5 km W of Santa Bárbara, Guatemala",earthquake,,7.9,,6,reviewed,us,us
+1987-03-11T23:28:16.580Z,14.244,-91.479,80.4,4.6,mb,,,,1.5,us,usp000337d,2014-11-07T00:40:03.355Z,"13 km WSW of Tiquisate, Guatemala",earthquake,,6.4,,9,reviewed,us,us
+1987-02-09T06:16:46.470Z,14.071,-90.544,93.1,4.7,mb,,,,1.2,us,usp00032ac,2014-11-07T00:39:49.497Z,"8 km W of Taxisco, Guatemala",earthquake,,,,11,reviewed,us,us
+1987-02-08T12:44:00.000Z,13.827,-90.995,69.6,4.3,mb,,,,1.2,us,usp000329d,2014-11-07T00:39:48.573Z,"21 km WSW of Puerto San José, Guatemala",earthquake,,,,6,reviewed,us,us
+1986-10-22T09:25:52.820Z,13.631,-90.624,33,4.4,m,,,,0.7,us,usp0002z7q,2014-11-07T00:39:11.047Z,"34 km SSE of Iztapa, Guatemala",earthquake,,,,,reviewed,us,gcg
+1986-07-01T22:14:01.310Z,13.969,-91.42,71.6,4,mb,,,,1.3,us,usp0002vmz,2014-11-07T00:38:38.465Z,"28 km SSW of Nueva Concepción, Guatemala",earthquake,,6.5,,4,reviewed,us,us
+1986-05-04T17:56:19.140Z,14.28,-91.5,33,4.7,mb,,,,1.3,us,usp0002thb,2014-11-07T00:38:20.239Z,"15 km W of Tiquisate, Guatemala",earthquake,,,,3,reviewed,us,us
+1986-03-24T10:33:57.550Z,14.132,-91.318,66.8,5.4,mw,,,,1.2,us,usp0002s74,2016-11-09T22:09:08.992Z,"7 km SSW of Nueva Concepción, Guatemala",earthquake,,3.4,,,reviewed,us,hrv
+1986-02-15T21:37:48.610Z,14.774,-91.414,136.1,5.9,mw,,,,1,us,usp0002r19,2020-08-27T00:48:57.312Z,"6 km SE of Cantel, Guatemala",earthquake,,4.3,,,reviewed,us,hrv
+1985-12-04T09:05:02.800Z,13.629,-90.778,57.2,4.3,mb,,,,1.5,us,usp0002nhw,2014-11-07T00:37:35.680Z,"33 km S of Puerto San José, Guatemala",earthquake,,12.4,,8,reviewed,us,us
+1985-11-28T07:20:07.850Z,14.176,-89.875,270.8,4.4,mb,,,,1,us,usp0002nan,2014-11-07T00:37:31.261Z,"5 km W of El Adelanto, Guatemala",earthquake,,55.6,,7,reviewed,us,us
+1985-11-27T15:08:57.720Z,13.882,-90.939,74.4,5.6,mw,,,,1.2,us,usp0002n9p,2020-08-27T00:37:55.206Z,"13 km WSW of Puerto San José, Guatemala",earthquake,,3,,,reviewed,us,hrv
+1985-09-17T10:39:29.790Z,13.72,-90.842,33,4.6,mb,,,,1.1,us,usp0002jun,2014-11-07T00:37:10.762Z,"23 km S of Puerto San José, Guatemala",earthquake,,,,11,reviewed,us,us
+1985-09-08T15:29:51.810Z,14.326,-91.279,33,4.6,mb,,,,1.3,us,usp0002jht,2014-11-07T00:37:08.170Z,"9 km SSE of Río Bravo, Guatemala",earthquake,,,,12,reviewed,us,us
+1985-09-02T19:28:36.150Z,14.284,-91.124,145.7,4.1,mb,,,,1.1,us,usp0002jcg,2014-11-07T00:37:06.752Z,"12 km WSW of Santa Lucía Cotzumalguapa, Guatemala",earthquake,,16.8,,3,reviewed,us,us
+1985-08-18T23:15:00.310Z,13.99,-91.095,33,4.7,mb,,,,1.4,us,usp0002hwh,2014-11-07T00:37:01.889Z,"11 km SSW of La Gomera, Guatemala",earthquake,,,,7,reviewed,us,us
+1985-06-20T15:25:33.320Z,13.654,-90.514,33,4.7,mb,,,,1.2,us,usp0002g0f,2014-11-07T00:36:44.531Z,"37 km SE of Iztapa, Guatemala",earthquake,,,,14,reviewed,us,us
+1985-06-13T11:42:32.350Z,14.729,-90.546,222.6,5,mb,,,,1,us,usp0002ft9,2014-11-07T00:36:43.698Z,"5 km WNW of Chinautla, Guatemala",earthquake,,,,67,reviewed,us,us
+1985-04-09T15:34:26.400Z,13.761,-90.642,73.1,4.3,mb,,,,1.1,us,usp0002dmy,2014-11-07T00:36:26.038Z,"20 km SSE of Iztapa, Guatemala",earthquake,,8.7,,7,reviewed,us,us
+1984-12-18T16:06:42.410Z,14.255,-91.405,33,4.5,mb,,,,0.8,us,usp0002a6p,2014-11-07T00:35:53.276Z,"5 km WSW of Tiquisate, Guatemala",earthquake,,,,2,reviewed,us,us
+1984-11-23T19:27:32.990Z,14.55,-90.736,213.2,4.8,mb,,,,1.3,us,usp00029c1,2014-11-07T00:35:44.502Z,"1 km S of Antigua Guatemala, Guatemala",earthquake,,11,,1,reviewed,us,us
+1984-11-10T23:08:21.850Z,14.022,-91.194,54.2,4.7,mb,,,,1.1,us,usp00028yx,2014-11-07T00:35:42.168Z,"16 km WSW of La Gomera, Guatemala",earthquake,,6.3,,18,reviewed,us,us
+1984-11-08T03:17:38.760Z,13.793,-90.613,60.7,4.4,mb,,,,1.1,us,usp00028vv,2014-11-07T00:35:41.521Z,"18 km SSE of Iztapa, Guatemala",earthquake,,7.4,,6,reviewed,us,us
+1984-11-08T03:07:23.280Z,13.598,-90.607,66.9,4.9,mb,,,,1.3,us,usp00028vu,2014-11-07T00:35:41.508Z,"38 km SSE of Iztapa, Guatemala",earthquake,,6.1,,15,reviewed,us,us
+1984-11-05T05:57:55.530Z,14.164,-91.151,91,4.7,mb,,,,1.4,us,usp00028tc,2014-11-07T00:35:40.787Z,"13 km NW of La Gomera, Guatemala",earthquake,,5,,20,reviewed,us,us
+1984-10-31T20:44:02.150Z,14.282,-89.796,259.2,4.2,mb,,,,0.9,us,usp00028ph,2014-11-07T00:35:37.259Z,"9 km N of Yupiltepeque, Guatemala",earthquake,,13.7,,4,reviewed,us,us
+1984-08-19T11:06:43.620Z,14.872,-89.834,33,4.3,mb,,,,1.5,us,usp00026hs,2014-11-07T00:35:19.482Z,"7 km SE of San Cristóbal Acasaguastlán, Guatemala",earthquake,,,,4,reviewed,us,us
+1984-07-17T00:00:07.950Z,13.797,-90.88,33,4.7,mb,,,,1.2,us,usp00025sz,2014-11-07T00:35:11.731Z,"15 km SSW of Puerto San José, Guatemala",earthquake,,,,4,reviewed,us,us
+1984-06-14T01:49:24.890Z,14.217,-91.35,33,4.2,mb,,,,1,us,usp000250m,2014-11-07T00:35:02.134Z,"5 km WNW of Nueva Concepción, Guatemala",earthquake,,,,5,reviewed,us,us
+1984-05-16T06:27:29.310Z,13.494,-90.559,33,4.3,ms,,,,1.2,us,usp00024dz,2014-11-07T00:34:55.145Z,"51 km SSE of Iztapa, Guatemala",earthquake,,,,1,reviewed,us,us
+1984-05-12T08:46:42.860Z,13.878,-91.169,33,4.3,mb,,,,1.1,us,usp00024an,2014-11-07T00:34:54.062Z,"25 km SSW of La Gomera, Guatemala",earthquake,,,,8,reviewed,us,us
+1984-04-18T17:00:16.460Z,14.012,-90.651,77.2,4.5,mb,,,,1.2,us,usp00023ne,2014-11-07T00:34:46.621Z,"10 km NE of Iztapa, Guatemala",earthquake,,,,6,reviewed,us,us
+1984-02-27T00:49:09.110Z,13.926,-90.998,33,4.8,mb,,,,1.1,us,usp000229e,2014-11-07T00:34:31.948Z,"18 km SSE of La Gomera, Guatemala",earthquake,,,,16,reviewed,us,us
+1984-02-10T21:49:33.600Z,13.926,-90.612,86.7,4.7,mb,,,,0.8,us,usp00021vu,2014-11-07T00:34:29.888Z,"10 km E of Iztapa, Guatemala",earthquake,,4.1,,7,reviewed,us,us
+1984-01-06T06:00:35.650Z,14.149,-90.719,59.2,4.5,mb,,,,0.9,us,usp000212b,2014-11-07T00:34:21.670Z,"11 km SW of Guanagazapa, Guatemala",earthquake,,8.6,,6,reviewed,us,us
+1983-11-30T03:49:57.450Z,13.83,-90.845,66.8,5.2,mb,,,,1.1,us,usp000205c,2014-11-07T00:34:09.930Z,"11 km SSW of Puerto San José, Guatemala",earthquake,,4.3,,24,reviewed,us,us
+1983-11-29T19:28:32.280Z,13.853,-90.599,82.5,4.7,mb,,,,1.5,us,usp000204x,2014-11-07T00:34:09.791Z,"14 km SE of Iztapa, Guatemala",earthquake,,9.1,,3,reviewed,us,us
+1983-11-28T12:49:24.380Z,14.159,-91.234,102.6,4.3,mb,,,,1.5,us,usp0002045,2014-11-07T00:34:09.713Z,"8 km ESE of Nueva Concepción, Guatemala",earthquake,,14.9,,6,reviewed,us,us
+1983-10-12T13:12:07.940Z,13.657,-90.986,67.5,5.1,mb,,,,1.1,us,usp0001yxz,2016-11-09T23:42:17.784Z,"34 km SSW of Puerto San José, Guatemala",earthquake,,2.1,,33,reviewed,us,us
+1983-08-27T11:06:28.440Z,13.787,-90.963,33,4.6,mb,,,,1.2,us,usp0001xz1,2014-11-07T00:33:40.310Z,"21 km SW of Puerto San José, Guatemala",earthquake,,,,8,reviewed,us,us
+1983-08-19T10:04:21.100Z,13.871,-91.348,33,4.4,mb,,,,0.9,us,usp0001xsc,2014-11-07T00:33:39.008Z,"36 km S of Nueva Concepción, Guatemala",earthquake,,,,6,reviewed,us,us
+1983-08-04T13:52:41.240Z,14.429,-91.277,87,5.1,mb,,,,1.2,us,usp0001xb6,2016-11-09T23:09:08.038Z,"5 km NE of Río Bravo, Guatemala",earthquake,,,,29,reviewed,us,us
+1983-07-03T01:45:31.640Z,13.623,-90.409,85.3,4.9,mb,,,,1.2,us,usp0001whu,2014-11-07T00:33:24.788Z,"44 km SSW of Pasaco, Guatemala",earthquake,,6,,11,reviewed,us,us
+1983-07-01T10:20:03.780Z,13.823,-90.347,99.8,4.4,mb,,,,1.2,us,usp0001wh2,2014-11-07T00:33:23.504Z,"22 km SW of Pasaco, Guatemala",earthquake,,7.7,,6,reviewed,us,us
+1983-06-09T22:07:29.890Z,14.379,-91.391,116.5,4.5,mb,,,,1,us,usp0001vzw,2014-11-07T00:33:18.740Z,"8 km WSW of Río Bravo, Guatemala",earthquake,,6.2,,9,reviewed,us,us
+1983-04-14T07:19:29.870Z,14.189,-91.395,87.6,5.4,mb,,,,1.1,us,usp0001uek,2016-11-09T22:17:54.044Z,"10 km W of Nueva Concepción, Guatemala",earthquake,,1.7,,80,reviewed,us,us
+1983-03-15T01:24:18.700Z,13.532,-90.56,33,4.4,mb,,,,1.1,us,usp0001tnf,2014-11-07T00:32:49.322Z,"47 km SSE of Iztapa, Guatemala",earthquake,,,,3,reviewed,us,us
+1983-03-14T09:23:30.740Z,13.663,-90.926,96.2,4.4,mb,,,,1.1,us,usp0001tn0,2014-11-07T00:32:49.226Z,"31 km SSW of Puerto San José, Guatemala",earthquake,,12,,5,reviewed,us,us
+1983-02-18T07:41:49.700Z,14.736,-91.046,150,4.6,mb,,,,0.9,us,usp0001t4x,2014-11-07T00:32:42.346Z,"6 km WSW of Tecpán Guatemala, Guatemala",earthquake,,,,3,reviewed,us,us
+1983-01-17T17:52:15.780Z,14.249,-91.072,83,5,mb,,,,1.1,us,usp0001sat,2014-11-07T00:32:30.589Z,"10 km SSW of Santa Lucía Cotzumalguapa, Guatemala",earthquake,,5,,24,reviewed,us,us
+1983-01-15T05:42:46.890Z,13.896,-90.441,99.5,4.8,mb,,,,1.2,us,usp0001s82,2014-11-07T00:32:29.430Z,"19 km S of Taxisco, Guatemala",earthquake,,4.4,,6,reviewed,us,us
+1982-11-29T14:58:02.870Z,13.565,-90.813,66.1,4.2,mb,,,,1.3,us,usp0001r6q,2014-11-07T00:32:15.044Z,"40 km S of Puerto San José, Guatemala",earthquake,,6.4,,2,reviewed,us,us
+1982-11-29T11:04:59.110Z,13.619,-90.711,61.7,4.9,mb,,,,1.1,us,usp0001r6k,2016-11-10T00:05:10.408Z,"34 km S of Iztapa, Guatemala",earthquake,,2.9,,13,reviewed,us,us
+1982-11-09T11:46:42.760Z,14.299,-91.263,100.6,4.7,mb,,,,1.1,us,usp0001qsz,2014-11-07T00:32:10.112Z,"10 km E of Tiquisate, Guatemala",earthquake,,3.8,,6,reviewed,us,us
+1982-10-31T06:03:04.500Z,14.086,-90.274,98,5.3,mb,,,,1.2,us,usp0001qmt,2020-04-16T20:08:21.386Z,"0 km WNW of San Juan Tecuaco, Guatemala",earthquake,,,,63,reviewed,us,us
+1982-10-30T16:07:01.880Z,13.984,-90.582,86,4.3,mb,,,,0.9,us,usp0001qmc,2014-11-07T00:32:05.837Z,"14 km ENE of Iztapa, Guatemala",earthquake,,16.1,,4,reviewed,us,us
+1982-10-25T10:19:37.260Z,14.42,-90.533,192,4.6,mb,,,,1,us,usp0001qgn,2014-11-07T00:32:04.727Z,"6 km S of Villa Canales, Guatemala",earthquake,,,,6,reviewed,us,us
+1982-10-21T20:52:03.050Z,15.195,-90.878,33,4.7,mb,,,,1.3,us,usp0001qe0,2014-11-07T00:32:03.607Z,"4 km NW of Canillá, Guatemala",earthquake,,,,3,reviewed,us,us
+1982-10-18T12:56:58.480Z,13.847,-90.847,77.8,5.3,mb,,,,1.2,us,usp0001qb8,2016-11-09T23:44:50.797Z,"9 km SSW of Puerto San José, Guatemala",earthquake,,3.4,,18,reviewed,us,us
+1982-08-25T09:46:59.690Z,14.005,-90.761,33,4.5,mb,,,,1.2,us,usp0001p86,2014-11-07T00:31:47.449Z,"9 km NW of Iztapa, Guatemala",earthquake,,,,1,reviewed,us,us
+1982-08-20T21:28:05.090Z,13.93,-90.914,80.8,5.3,mb,,,,1.1,us,usp0001p5t,2016-11-09T23:17:13.743Z,"9 km W of Puerto San José, Guatemala",earthquake,,3.5,,38,reviewed,us,us
+1982-07-31T21:55:36.060Z,14.012,-90.938,91.6,4.5,mb,,,,0.9,us,usp0001nsf,2014-11-07T00:31:39.297Z,"14 km ESE of La Gomera, Guatemala",earthquake,,6.5,,8,reviewed,us,us
+1982-06-14T22:54:51.330Z,14.271,-90.288,91,4.7,mb,,,,0.8,us,usp0001mxq,2014-11-07T00:31:28.038Z,"1 km ESE of Cuilapa, Guatemala",earthquake,,7.7,,2,reviewed,us,us
+1982-05-07T06:56:12.370Z,13.761,-90.638,65.8,4.4,mb,,,,1,us,usp0001m52,2014-11-07T00:31:16.615Z,"20 km SSE of Iztapa, Guatemala",earthquake,,3.3,,4,reviewed,us,us
+1982-01-03T16:43:04.600Z,13.548,-90.632,68.5,4.6,mb,,,,1.2,us,usp0001hvd,2014-11-07T00:30:37.386Z,"43 km S of Iztapa, Guatemala",earthquake,,5.4,,6,reviewed,us,us
+1981-12-31T02:44:06.120Z,15.139,-90.94,33,4.1,mb,,,,1.5,us,usp0001htj,2014-11-07T00:30:34.435Z,"4 km S of San Andrés Sajcabajá, Guatemala",earthquake,,,,2,reviewed,us,us
+1981-12-30T20:32:36.030Z,13.511,-90.632,33,4.6,mb,,,,1.1,us,usp0001htb,2014-11-07T00:30:34.405Z,"47 km S of Iztapa, Guatemala",earthquake,,,,7,reviewed,us,us
+1981-11-07T22:02:49.000Z,14.595,-90.416,200.2,5.3,mb,,,,0.9,us,usp0001gv7,2016-11-09T23:54:35.326Z,"5 km N of San José Pinula, Guatemala",earthquake,,2.4,,89,reviewed,us,us
+1981-08-10T08:23:05.530Z,13.93,-90.433,88.7,4.9,mb,,,,1.1,us,usp0001f6z,2014-11-07T00:29:55.063Z,"15 km SSE of Taxisco, Guatemala",earthquake,,4.3,,16,reviewed,us,us
+1981-04-03T16:12:13.750Z,13.964,-90.178,115.6,4.9,mb,,,,1.1,us,usp0001d08,2014-11-07T00:29:09.478Z,"3 km ESE of Pasaco, Guatemala",earthquake,,5.9,,21,reviewed,us,us
+1980-12-03T14:52:49.800Z,13.527,-90.736,68,4.8,mb,,,,,us,usp0001b52,2014-11-06T23:24:27.877Z,"45 km S of Iztapa, Guatemala",earthquake,,,,,reviewed,us,us
+1980-11-18T10:50:45.900Z,14.047,-91.187,98,4.6,mb,,,,,us,usp0001avh,2014-11-06T23:24:27.404Z,"14 km WSW of La Gomera, Guatemala",earthquake,,,,,reviewed,us,us
+1980-11-04T16:21:15.300Z,13.861,-90.926,83,5.4,mb,,,,,us,usp0001ann,2016-11-09T23:53:00.286Z,"13 km WSW of Puerto San José, Guatemala",earthquake,,,,,reviewed,us,us
+1980-10-21T05:40:51.800Z,14.603,-91.173,104,4.2,mb,,,,,us,usp0001abs,2014-11-06T23:24:26.752Z,"2 km WNW of San Lucas Tolimán, Guatemala",earthquake,,,,,reviewed,us,us
+1980-07-06T18:33:06.300Z,14.136,-90.542,56,4.8,mb,,,,,us,usp00018q0,2014-11-06T23:24:24.099Z,"11 km NW of Taxisco, Guatemala",earthquake,,,,,reviewed,us,us
+1980-06-11T02:38:31.900Z,14.127,-90.992,95,5,mb,,,,,us,usp0001846,2014-11-06T23:24:23.275Z,"8 km NE of La Gomera, Guatemala",earthquake,,,,,reviewed,us,us
+1980-05-18T07:09:38.000Z,14.716,-91.317,105,5.3,mb,,,,,us,usp000179x,2020-08-26T21:01:16.687Z,"0 km W of Santa María Visitación, Guatemala",earthquake,,,,,reviewed,us,us
+1980-05-13T17:20:27.100Z,14.225,-90.032,47,4.8,mb,,,,,us,usp000176m,2014-11-06T23:24:21.760Z,"5 km S of Quesada, Guatemala",earthquake,,,,,reviewed,us,us
+1980-04-29T19:07:59.700Z,13.715,-90.863,128,4.7,mb,,,,,us,usp00016ys,2014-11-06T23:24:21.247Z,"23 km S of Puerto San José, Guatemala",earthquake,,,,,reviewed,us,us
+1980-04-21T13:17:57.100Z,14.558,-89.839,33,4.6,mb,,,,,us,usp00016sr,2014-11-06T23:24:20.646Z,"7 km NNE of Monjas, Guatemala",earthquake,,,,,reviewed,us,us
+1980-03-07T06:00:49.700Z,13.637,-90.463,103,4.7,mb,,,,,us,usp00015vf,2014-11-06T23:24:18.774Z,"42 km SE of Iztapa, Guatemala",earthquake,,,,,reviewed,us,us
+1980-02-11T23:27:33.600Z,14.342,-90.24,33,4.8,mb,,,,,us,usp00015d9,2014-11-06T23:24:17.676Z,"5 km SE of Nueva Santa Rosa, Guatemala",earthquake,,,,,reviewed,us,us
+1980-02-11T08:55:59.700Z,14.261,-90.836,33,3.9,mb,,,,,us,usp00015d3,2014-11-06T23:24:17.661Z,"6 km NNE of Masagua, Guatemala",earthquake,,,,,reviewed,us,us
+1980-02-10T19:26:45.400Z,14.251,-91.051,92,4.4,mb,,,,,us,usp00015cz,2014-11-06T23:24:17.652Z,"9 km SSW of Santa Lucía Cotzumalguapa, Guatemala",earthquake,,,,,reviewed,us,us
+1980-02-08T05:09:28.400Z,13.536,-90.717,33,4.5,mb,,,,,us,usp00015bw,2014-11-06T23:24:17.567Z,"43 km S of Iztapa, Guatemala",earthquake,,,,,reviewed,us,us
+1980-01-08T16:43:50.900Z,14.276,-91.362,89,4.5,mb,,,,,us,usp00014xk,2014-11-06T23:24:15.678Z,"0 km S of Tiquisate, Guatemala",earthquake,,,,,reviewed,us,us
+1980-01-01T13:48:04.200Z,13.804,-90.733,59,4.6,mb,,,,,us,usp00014tq,2014-11-06T23:24:14.430Z,"14 km S of Iztapa, Guatemala",earthquake,,,,,reviewed,us,us
+1979-12-20T12:08:34.300Z,14.324,-90.201,238,4.6,mb,,,,,us,usp00014m3,2014-11-06T23:22:08.342Z,"10 km SE of Nueva Santa Rosa, Guatemala",earthquake,,,,,reviewed,us,us
+1979-11-13T09:35:36.000Z,13.834,-90.486,85,4.6,mb,,,,,us,usp0001400,2014-11-06T23:22:07.310Z,"25 km S of Taxisco, Guatemala",earthquake,,,,,reviewed,us,us
+1979-11-13T04:19:01.300Z,14.565,-91.154,130,4.9,mb,,,,,us,usp00013zx,2014-11-06T23:22:07.307Z,"3 km SSW of San Lucas Tolimán, Guatemala",earthquake,,,,,reviewed,us,us
+1979-11-12T01:40:25.100Z,13.736,-90.858,92,4.7,mb,,,,,us,usp00013z8,2014-11-06T23:22:07.282Z,"21 km S of Puerto San José, Guatemala",earthquake,,,,,reviewed,us,us
+1979-10-28T12:54:01.000Z,13.817,-90.66,90,4,mb,,,,,us,usp00013re,2014-11-06T23:22:06.965Z,"13 km SSE of Iztapa, Guatemala",earthquake,,,,,reviewed,us,us
+1979-10-27T21:43:24.900Z,13.778,-90.73,65,6.6,ms,,,,,us,usp00013r5,2020-07-07T23:25:00.786Z,"17 km S of Iztapa, Guatemala",earthquake,,,,,reviewed,us,us
+1979-10-27T16:10:58.500Z,13.707,-90.879,84,4.9,mb,,,,,us,usp00013r1,2014-11-06T23:22:06.948Z,"25 km SSW of Puerto San José, Guatemala",earthquake,,,,,reviewed,us,us
+1979-10-27T15:02:28.400Z,14.198,-90.359,59,4.9,mb,,,,,us,usp00013r0,2014-11-06T23:22:06.948Z,"9 km W of Santa María Ixhuatán, Guatemala",earthquake,,,,,reviewed,us,us
+1979-10-27T14:35:57.300Z,13.833,-90.881,58,6.8,ms,,,,,us,usp00013qx,2020-07-07T23:24:41.630Z,"12 km SSW of Puerto San José, Guatemala",earthquake,,,,,reviewed,us,us
+1979-10-09T07:49:29.200Z,14.321,-90.082,33,5,mb,,,,,us,usp00013au,2020-08-26T20:38:25.862Z,"7 km NW of Quesada, Guatemala",earthquake,,,,,reviewed,us,us
+1979-07-07T09:33:02.400Z,14.03,-91.018,93,5.1,mb,,,,,us,usp00011rj,2016-11-09T22:55:52.047Z,"6 km SE of La Gomera, Guatemala",earthquake,,,,,reviewed,us,us
+1979-05-28T11:19:42.500Z,14.01,-89.795,107,4.4,mb,,,,,us,usp00010yw,2014-11-06T23:22:01.636Z,"5 km NW of Atiquizaya, El Salvador",earthquake,,,,,reviewed,us,us
+1979-04-07T13:34:33.000Z,14.663,-90.575,92,4.5,mb,,,,,us,usp0000zvw,2014-11-06T23:21:59.763Z,"4 km NE of Mixco, Guatemala",earthquake,,,,,reviewed,us,us
+1979-03-08T13:18:49.100Z,14.37,-91.423,139,4.3,mb,,,,,us,usp0000z7g,2014-11-06T23:21:58.092Z,"8 km S of San José El Ídolo, Guatemala",earthquake,,,,,reviewed,us,us
+1978-10-31T06:30:33.600Z,13.77,-91.078,60,5,mb,,,,,us,usp0000x70,2014-11-06T23:21:53.286Z,"32 km WSW of Puerto San José, Guatemala",earthquake,,,,,reviewed,us,us
+1978-10-30T19:09:40.100Z,13.767,-91.206,58,5,mb,,,,,us,usp0000x6v,2014-11-06T23:21:53.281Z,"38 km SSW of La Gomera, Guatemala",earthquake,,,,,reviewed,us,us
+1978-10-30T18:23:36.000Z,13.881,-91.05,73,5.3,mb,,,,,us,usp0000x6t,2020-04-16T20:29:26.890Z,"22 km S of La Gomera, Guatemala",earthquake,,,,,reviewed,us,us
+1978-09-10T23:24:15.600Z,14.27,-91.497,94,5.6,mb,,,,,us,usp0000wg6,2020-08-26T19:59:33.517Z,"14 km W of Tiquisate, Guatemala",earthquake,,,,,reviewed,us,us
+1978-08-18T15:35:17.800Z,14.374,-91.454,96,5.5,mb,,,,,us,usp0000w3u,2020-08-26T19:57:18.676Z,"9 km SSW of San José El Ídolo, Guatemala",earthquake,,,,,reviewed,us,us
+1978-08-02T02:33:08.100Z,14.408,-91.527,90,4.3,mb,,,,,us,usp0000vwe,2014-11-06T23:21:51.064Z,"8 km S of San Lorenzo, Guatemala",earthquake,,,,,reviewed,us,us
+1978-07-31T20:18:48.500Z,13.905,-90.06,54,5,mb,,,,,us,usp0000vvk,2014-11-06T23:21:51.036Z,"8 km NW of San Francisco Menéndez, El Salvador",earthquake,,,,,reviewed,us,us
+1978-07-29T14:37:32.700Z,14.843,-91.022,10,4.9,mb,,,,,us,usp0000vur,2020-08-26T19:55:01.341Z,"7 km NW of Santa Apolonia, Guatemala",earthquake,,,,,reviewed,us,us
+1978-04-15T17:18:39.000Z,14.2,-91.386,107,5.2,mb,,,,,us,usp0000u45,2014-11-06T23:21:48.547Z,"9 km W of Nueva Concepción, Guatemala",earthquake,,,,,reviewed,us,us
+1978-03-30T19:30:12.600Z,15.047,-90.304,33,5.1,mb,,,,,us,usp0000tuv,2014-11-06T23:21:48.239Z,"6 km SSE of Salamá, Guatemala",earthquake,,,,,reviewed,us,us
+1978-03-14T07:49:49.600Z,14.1,-90.989,153,4.7,mb,,,,,us,usp0000td0,2014-11-06T23:21:47.626Z,"7 km ENE of La Gomera, Guatemala",earthquake,,,,,reviewed,us,us
+1978-03-04T17:35:09.400Z,14.341,-91.334,101,5.2,mb,,,,,us,usp0000t7v,2014-11-06T23:21:47.462Z,"6 km SSW of Río Bravo, Guatemala",earthquake,,,,,reviewed,us,us
+1978-02-22T19:31:41.400Z,14.059,-90.566,102,5.1,mb,,,,,us,usp0000t3h,2014-11-06T23:21:47.321Z,"10 km W of Taxisco, Guatemala",earthquake,,,,,reviewed,us,us
+1978-02-22T07:34:40.000Z,14.316,-91.501,90,4.2,mb,,,,,us,usp0000t39,2014-11-06T23:21:47.292Z,"15 km WNW of Tiquisate, Guatemala",earthquake,,,,,reviewed,us,us
+1978-02-22T06:07:37.000Z,14.249,-91.378,100,5.7,mb,,,,,us,usp0000t37,2020-08-26T19:38:20.262Z,"4 km SSW of Tiquisate, Guatemala",earthquake,,,,,reviewed,us,us
+1978-02-19T19:42:43.300Z,13.682,-90.694,74,5.1,mb,,,,,us,usp0000t1s,2016-11-09T21:54:49.077Z,"27 km S of Iztapa, Guatemala",earthquake,,,,,reviewed,us,us
+1977-11-04T12:49:47.500Z,13.862,-90.588,104,5,mb,,,,,us,usp0000rcb,2014-11-06T23:21:45.078Z,"15 km ESE of Iztapa, Guatemala",earthquake,,,,,reviewed,us,us
+1977-10-30T22:28:39.500Z,13.653,-90.117,96,4,mb,,,,,us,usp0000rad,2014-11-06T23:21:45.017Z,"23 km SSW of San Francisco Menéndez, El Salvador",earthquake,,,,,reviewed,us,us
+1977-10-25T06:33:58.500Z,14.966,-91.223,117,4.8,mb,,,,,us,usp0000r78,2014-11-06T23:21:44.905Z,"1 km W of Patzité, Guatemala",earthquake,,,,,reviewed,us,us
+1977-08-21T11:33:50.800Z,13.788,-90.057,84,4.8,mb,,,,,us,usp0000q8c,2014-11-06T23:21:43.675Z,"7 km SW of San Francisco Menéndez, El Salvador",earthquake,,,,,reviewed,us,us
+1977-08-15T05:54:28.100Z,14.399,-90.963,121,4.3,mb,,,,,us,usp0000q3q,2014-11-06T23:21:43.515Z,"9 km NE of Santa Lucía Cotzumalguapa, Guatemala",earthquake,,,,,reviewed,us,us
+1977-06-13T05:28:39.100Z,13.787,-90.418,111,4.4,mb,,,,,us,usp0000p97,2014-11-06T23:21:42.373Z,"31 km SW of Pasaco, Guatemala",earthquake,,,,,reviewed,us,us
+1977-04-30T02:42:29.200Z,13.587,-90.592,59,4.4,mb,,,,,us,usp0000npj,2014-11-06T23:21:41.602Z,"40 km SSE of Iztapa, Guatemala",earthquake,,,,,reviewed,us,us
+1977-04-07T20:28:28.700Z,14.757,-91.239,33,4.9,mb,,,,,us,usp0000na0,2014-11-06T23:21:40.733Z,"2 km WSW of San José Chacayá, Guatemala",earthquake,,,,,reviewed,us,us
+1977-03-31T07:41:20.800Z,13.685,-91.043,174,4.7,mb,,,,,us,usp0000n6y,2014-11-06T23:21:40.600Z,"35 km SW of Puerto San José, Guatemala",earthquake,,,,,reviewed,us,us
+1977-03-31T07:39:01.800Z,13.748,-91.17,55,4.9,mb,,,,,us,usp0000n6x,2014-11-06T23:21:40.598Z,"39 km SSW of La Gomera, Guatemala",earthquake,,,,,reviewed,us,us
+1977-03-13T07:36:12.700Z,14.36,-91.329,183,4.5,mb,,,,,us,usp0000mwd,2014-11-06T23:21:40.141Z,"4 km SSW of Río Bravo, Guatemala",earthquake,,,,,reviewed,us,us
+1977-02-28T00:44:11.100Z,13.931,-90.892,61,4.7,mb,,,,,us,usp0000mrn,2014-11-06T23:21:40.013Z,"7 km W of Puerto San José, Guatemala",earthquake,,,,,reviewed,us,us
+1977-01-16T16:41:08.600Z,13.931,-91.049,100,4.7,mb,,,,,us,usp0000m6x,2014-11-06T23:21:39.353Z,"16 km S of La Gomera, Guatemala",earthquake,,,,,reviewed,us,us
+1976-12-09T04:24:30.600Z,14.356,-90.214,199,4.7,mb,,,,,us,usp0000kpf,2014-11-06T23:21:38.528Z,"7 km ESE of Nueva Santa Rosa, Guatemala",earthquake,,,,,reviewed,us,us
+1976-11-16T02:19:07.100Z,14.188,-91.362,94,4.6,mb,,,,,us,usp0000kbk,2014-11-06T23:21:38.236Z,"6 km W of Nueva Concepción, Guatemala",earthquake,,,,,reviewed,us,us
+1976-11-07T06:41:42.800Z,13.672,-90.421,85,4.6,mb,,,,,us,usp0000k7z,2014-11-06T23:21:38.121Z,"40 km SW of Pasaco, Guatemala",earthquake,,,,,reviewed,us,us
+1976-11-06T12:37:42.700Z,13.619,-90.568,86,4.9,mb,,,,,us,usp0000k79,2014-11-06T23:21:38.059Z,"37 km SSE of Iztapa, Guatemala",earthquake,,,,,reviewed,us,us
+1976-09-14T23:47:35.100Z,13.932,-90.99,103,4.6,mb,,,,,us,usp0000jdf,2014-11-06T23:21:37.198Z,"17 km SSE of La Gomera, Guatemala",earthquake,,,,,reviewed,us,us
+1976-08-08T11:02:45.700Z,14.047,-91.38,84,4.8,mb,,,,,us,usp0000hs0,2014-11-06T23:21:36.572Z,"19 km SSW of Nueva Concepción, Guatemala",earthquake,,,,,reviewed,us,us
+1976-08-03T10:36:12.300Z,14.26,-91.071,106,4.2,mb,,,,,us,usp0000hq3,2014-11-06T23:21:36.495Z,"9 km SSW of Santa Lucía Cotzumalguapa, Guatemala",earthquake,,,,,reviewed,us,us
+1976-06-28T14:33:06.400Z,13.929,-90.705,100,4.8,mb,,,,,us,usp0000h3m,2014-11-06T23:21:36.011Z,"0 km SSE of Iztapa, Guatemala",earthquake,,,,,reviewed,us,us
+1976-06-22T11:58:23.100Z,13.944,-90.777,81,4.9,mb,,,,,us,usp0000h04,2014-11-06T23:21:35.841Z,"5 km ENE of Puerto San José, Guatemala",earthquake,,,,,reviewed,us,us
+1976-05-15T12:56:42.700Z,14.273,-90.859,83,4.4,mb,,,,,us,usp0000gbx,2014-11-06T23:21:35.287Z,"7 km N of Masagua, Guatemala",earthquake,,,,,reviewed,us,us
+1976-04-28T04:39:34.700Z,13.931,-90.654,69,4.8,mb,,,,,us,usp0000g2s,2014-11-06T23:21:34.960Z,"5 km E of Iztapa, Guatemala",earthquake,,,,,reviewed,us,us
+1976-03-13T16:30:41.500Z,14.767,-91.061,5,5.4,mb,,,,,us,usp0000fed,2020-08-26T00:53:58.691Z,"7 km W of Tecpán Guatemala, Guatemala",earthquake,,,,,reviewed,us,us
+1976-03-09T07:42:37.300Z,14.869,-90.943,5,5.2,mb,,,,,us,usp0000fcd,2014-11-06T23:21:34.311Z,"6 km NNW of San José Poaquil, Guatemala",earthquake,,,,,reviewed,us,us
+1976-03-07T03:15:41.200Z,14.808,-90.889,5,5.1,mb,,,,,us,usp0000fbe,2020-08-26T00:53:26.508Z,Guatemala,earthquake,,,,,reviewed,us,us
+1976-03-07T02:54:04.200Z,14.728,-91.016,5,5.1,mb,,,,,us,usp0000fbd,2020-08-26T00:53:15.493Z,"4 km SW of Tecpán Guatemala, Guatemala",earthquake,,,,,reviewed,us,us
+1976-02-24T06:25:27.300Z,14.221,-90.418,5,4.4,mb,,,,,us,usp0000f6w,2014-11-06T23:21:34.189Z,"6 km E of Pueblo Nuevo Viñas, Guatemala",earthquake,,,,,reviewed,us,us
+1976-02-19T22:56:07.300Z,14.3,-90.335,61,4.9,mb,,,,,us,usp0000f4j,2014-11-06T23:21:34.132Z,"2 km ESE of Barberena, Guatemala",earthquake,,,,,reviewed,us,us
+1976-02-10T06:17:42.600Z,14.833,-89.798,5,4.9,mb,,,,,us,usp0000f07,2014-11-06T23:21:34.030Z,"5 km NNW of San Diego, Guatemala",earthquake,,,,,reviewed,us,us
+1976-02-10T02:28:39.800Z,14.921,-90.778,5,4.2,mb,,,,,us,usp0000f05,2014-11-06T23:21:34.028Z,"8 km SSE of Joyabaj, Guatemala",earthquake,,,,,reviewed,us,us
+1976-02-08T04:38:27.800Z,14.392,-90.515,5,3.9,mb,,,,,us,usp0000ez8,2014-11-06T23:21:34.008Z,"10 km SSE of Villa Canales, Guatemala",earthquake,,,,,reviewed,us,us
+1976-02-07T02:28:41.900Z,14.335,-90.886,5,4.3,mb,,,,,us,usp0000eyu,2014-11-06T23:21:33.998Z,"11 km WNW of Escuintla, Guatemala",earthquake,,,,,reviewed,us,us
+1976-02-06T18:19:17.900Z,14.764,-90.61,5,5.7,mb,,,,,us,usp0000eyq,2020-08-26T00:49:14.222Z,"1 km W of San Raimundo, Guatemala",earthquake,,,,,reviewed,us,us
+1976-02-06T18:11:58.900Z,14.316,-90.432,5,5,mb,,,,,us,usp0000eyp,2020-08-26T00:49:03.188Z,"7 km W of Barberena, Guatemala",earthquake,,,,,reviewed,us,us
+1976-02-06T04:11:04.500Z,14.872,-91.014,5,4.7,mb,,,,,us,usp0000eye,2014-11-06T23:21:33.988Z,"10 km NNW of Santa Apolonia, Guatemala",earthquake,,,,,reviewed,us,us
+1976-02-05T04:09:30.200Z,15.232,-90.626,5,4.3,mb,,,,,us,usp0000exs,2014-11-06T23:21:33.975Z,"14 km N of Cubulco, Guatemala",earthquake,,,,,reviewed,us,us
+1976-02-05T01:00:50.700Z,14.733,-91.166,5,4.4,mb,,,,,us,usp0000exp,2014-11-06T23:21:33.973Z,"1 km SW of Panajachel, Guatemala",earthquake,,,,,reviewed,us,us
+1976-02-04T11:24:57.100Z,14.696,-90.879,5,4.7,mb,,,,,us,usp0000ex7,2014-11-06T23:21:33.963Z,"4 km ENE of Santa Cruz Balanyá, Guatemala",earthquake,,,,,reviewed,us,us
+1976-02-04T10:03:49.900Z,14.172,-90.729,5,5,mb,,,,,us,usp0000ex5,2014-11-06T23:21:33.962Z,"11 km WSW of Guanagazapa, Guatemala",earthquake,,,,,reviewed,us,us
+1976-02-04T09:30:29.400Z,14.943,-90.562,5,5.4,mb,,,,,us,usp0000ex4,2020-08-26T00:48:19.926Z,"5 km NW of Granados, Guatemala",earthquake,,,,,reviewed,us,us
+1976-01-26T09:31:53.400Z,14.146,-90.518,50,4.6,mb,,,,,us,usp0000erj,2014-11-06T23:21:33.719Z,"9 km SSW of Pueblo Nuevo Viñas, Guatemala",earthquake,,,,,reviewed,us,us
+1976-01-26T07:28:43.400Z,13.692,-90.848,33,4.8,mb,,,,,us,usp0000erg,2014-11-06T23:21:33.717Z,"26 km S of Puerto San José, Guatemala",earthquake,,,,,reviewed,us,us
+1976-01-26T03:17:46.300Z,13.942,-91.005,69,5.1,mb,,,,,us,usp0000erb,2014-11-06T23:21:33.714Z,"16 km SSE of La Gomera, Guatemala",earthquake,,,,,reviewed,us,us
+1976-01-25T10:59:48.400Z,13.932,-90.883,103,5,mb,,,,,us,usp0000eqn,2014-11-06T23:21:33.700Z,"6 km W of Puerto San José, Guatemala",earthquake,,,,,reviewed,us,us
+1976-01-18T08:08:50.300Z,14.595,-91.226,131,4.5,mb,,,,,us,usp0000ehu,2014-11-06T23:21:33.568Z,"4 km S of Santiago Atitlán, Guatemala",earthquake,,,,,reviewed,us,us
+1975-09-30T15:35:24.400Z,14.324,-91.03,107,4.8,mb,,,,,us,usp0000d0f,2014-11-06T23:21:32.170Z,"1 km SSW of Santa Lucía Cotzumalguapa, Guatemala",earthquake,,,,,reviewed,us,us
+1975-09-21T15:55:27.200Z,14.115,-91.013,102,4.8,mb,,,,,us,usp0000cwg,2014-11-06T23:21:32.091Z,"5 km NE of La Gomera, Guatemala",earthquake,,,,,reviewed,us,us
+1975-09-12T08:56:58.800Z,13.62,-90.868,43,4.3,mb,,,,,us,usp0000csa,2014-11-06T23:21:31.913Z,"34 km S of Puerto San José, Guatemala",earthquake,,,,,reviewed,us,us
+1975-08-31T13:19:03.700Z,14.079,-90.557,88,4.5,mb,,,,,us,usp0000cnq,2014-11-06T23:21:31.798Z,"9 km W of Taxisco, Guatemala",earthquake,,,,,reviewed,us,us
+1975-08-13T23:07:43.500Z,14.528,-89.877,256,4.7,mb,,,,,us,usp0000cf9,2014-11-06T23:21:31.664Z,"2 km N of Monjas, Guatemala",earthquake,,,,,reviewed,us,us
+1975-06-26T06:45:17.600Z,13.995,-90.77,76,4.8,mb,,,,,us,usp0000bsg,2014-11-06T23:21:31.026Z,"9 km NE of Puerto San José, Guatemala",earthquake,,,,,reviewed,us,us
+1975-04-14T23:17:43.100Z,13.617,-90.23,107,4.3,mb,,,,,us,usp0000amg,2014-11-06T23:21:29.768Z,"34 km SW of San Francisco Menéndez, El Salvador",earthquake,,,,,reviewed,us,us
+1975-04-04T14:36:57.400Z,14.379,-91.365,143,4.2,mb,,,,,us,usp0000afx,2014-11-06T23:21:29.620Z,"5 km WSW of Río Bravo, Guatemala",earthquake,,,,,reviewed,us,us
+1975-03-25T02:31:22.200Z,13.647,-90.737,33,5.3,ms,,,,,us,usp0000ac1,2014-11-06T23:21:29.491Z,near the coast of Guatemala,earthquake,,,,,reviewed,us,us
+1975-03-24T07:15:32.300Z,15.131,-90.813,33,4.5,mb,,,,,us,usp0000abt,2014-11-06T23:21:29.483Z,"5 km SE of Canillá, Guatemala",earthquake,,,,,reviewed,us,us
+1975-03-24T06:59:56.500Z,13.631,-90.767,59,4.9,mb,,,,,us,usp0000abs,2014-11-06T23:21:29.482Z,"33 km S of Puerto San José, Guatemala",earthquake,,,,,reviewed,us,us
+1975-02-20T03:23:54.600Z,14.511,-91.121,143,4.6,mb,,,,,us,usp00009z1,2014-11-06T23:21:28.926Z,"5 km SW of Pochuta, Guatemala",earthquake,,,,,reviewed,us,us
+1975-01-11T18:07:44.400Z,14.537,-91.446,104,4.6,mb,,,,,us,usp00009ft,2014-11-06T23:21:28.352Z,"1 km ESE of San Bernardino, Guatemala",earthquake,,,,,reviewed,us,us
+1974-12-28T23:49:51.000Z,14.974,-91.062,186,4.6,mb,,,,,us,usp000099n,2014-11-06T23:21:28.043Z,"3 km S of Chiché, Guatemala",earthquake,,,,,reviewed,us,us
+1974-12-24T02:10:25.400Z,14.259,-90.08,155,5.4,mb,,,,,us,usp000097p,2014-11-06T23:21:27.964Z,"4 km WSW of Quesada, Guatemala",earthquake,,,,,reviewed,us,us
+1974-10-23T13:36:51.800Z,14.694,-90.585,231,4.6,mb,,,,,us,usp00008hx,2014-11-06T23:21:26.994Z,"6 km E of San Pedro Sacatepéquez, Guatemala",earthquake,,,,,reviewed,us,us
+1974-10-17T19:54:50.300Z,14.373,-91.05,160,4.4,mb,,,,,us,usp00008ev,2014-11-06T23:21:26.885Z,"5 km NW of Santa Lucía Cotzumalguapa, Guatemala",earthquake,,,,,reviewed,us,us
+1974-10-12T05:32:39.600Z,14.521,-91.445,105,4.1,mb,,,,,us,usp00008ch,2014-11-06T23:21:26.801Z,"2 km SSE of San Bernardino, Guatemala",earthquake,,,,,reviewed,us,us
+1974-09-20T11:59:43.200Z,13.782,-91.085,33,5,mb,,,,,us,usp000083g,2014-11-06T23:21:26.463Z,"32 km WSW of Puerto San José, Guatemala",earthquake,,,,,reviewed,us,us
+1974-06-21T15:29:15.900Z,14.18,-89.978,65,4.2,mb,,,,,us,usp00006u0,2014-11-06T23:21:24.819Z,"5 km NE of Jalpatagua, Guatemala",earthquake,,,,,reviewed,us,us
+1974-05-04T17:49:28.800Z,13.899,-90.549,115,4.5,mb,,,,,us,usp000067d,2014-11-06T23:21:24.072Z,"17 km ESE of Iztapa, Guatemala",earthquake,,,,,reviewed,us,us
+1974-05-02T03:51:50.400Z,13.847,-90.525,65,4.6,mb,,,,,us,usp000065y,2014-11-06T23:21:24.023Z,"21 km ESE of Iztapa, Guatemala",earthquake,,,,,reviewed,us,us
+1974-05-02T03:12:54.000Z,13.856,-90.69,76,4.7,mb,,,,,us,usp000065x,2014-11-06T23:21:24.022Z,"8 km SSE of Iztapa, Guatemala",earthquake,,,,,reviewed,us,us
+1974-04-14T06:55:01.800Z,14.712,-91.312,138,5.3,mb,,,,,us,usp00005yt,2014-11-06T23:21:23.724Z,"0 km SW of Santa María Visitación, Guatemala",earthquake,,,,,reviewed,us,us
+1974-04-02T20:12:21.100Z,13.563,-90.256,91,4.6,mb,,,,,us,usp00005ur,2014-11-06T23:21:23.574Z,"40 km SW of San Francisco Menéndez, El Salvador",earthquake,,,,,reviewed,us,us
+1974-03-21T22:01:13.300Z,13.891,-90.102,99,4.3,mb,,,,,us,usp00005pj,2014-11-06T23:21:23.401Z,"10 km WNW of San Francisco Menéndez, El Salvador",earthquake,,,,,reviewed,us,us
+1974-03-04T14:56:52.100Z,13.646,-90.624,79,4.6,mb,,,,,us,usp00005gr,2014-11-06T23:21:23.221Z,"33 km SSE of Iztapa, Guatemala",earthquake,,,,,reviewed,us,us
+1974-03-04T14:54:36.100Z,13.563,-90.582,89,4.5,mb,,,,,us,usp00005gq,2014-11-06T23:21:23.221Z,"43 km SSE of Iztapa, Guatemala",earthquake,,,,,reviewed,us,us
+1974-01-12T04:47:59.800Z,13.653,-90.958,64,4.4,mb,,,,,us,usp00004wy,2014-11-06T23:21:22.385Z,near the coast of Guatemala,earthquake,,,,,reviewed,us,us
+1973-11-28T06:45:06.300Z,14.497,-89.995,230,5,mb,,,,,us,usp00004b1,2014-11-06T23:21:21.600Z,"13 km W of Monjas, Guatemala",earthquake,,,,,reviewed,us,us
+1973-11-10T19:46:26.800Z,14.636,-90.219,243,4.6,mb,,,,,us,usp0000440,2014-11-06T23:21:21.216Z,"12 km NNW of Mataquescuintla, Guatemala",earthquake,,,,,reviewed,us,us
+1973-11-06T01:02:40.300Z,14.447,-91.38,111,4.7,mb,,,,,us,usp0000429,2014-11-06T23:21:21.163Z,"4 km E of San José El Ídolo, Guatemala",earthquake,,,,,reviewed,us,us
+1973-11-06T01:02:40.300Z,14.38,-90.6,,8,,,,,,,,,Pacaya volcano,earthquake,,,,,,,
